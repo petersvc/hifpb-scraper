@@ -1,0 +1,1102 @@
+[
+  {
+    "course": "FIC - 2022 - 3º CICLO",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "FIC.4 - 4º C",
+    "teacher": [
+      {
+        "name": "HERBERT (3)",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/657"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 13",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/29"
+      }
+    ]
+  },
+  {
+    "course": "FIC - 2022 - 3º CICLO",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "FIC.4 - 4º C",
+    "teacher": [
+      {
+        "name": "HERBERT (3)",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/657"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 13",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/29"
+      }
+    ]
+  },
+  {
+    "course": "FIC - 2022 - 3º CICLO",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "FIC.4 - 4º C",
+    "teacher": [
+      {
+        "name": "HERBERT (3)",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/657"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 13",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/29"
+      }
+    ]
+  },
+  {
+    "course": "FIC - 2022 - 3º CICLO",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "FIC.4 - 4º C",
+    "teacher": [
+      {
+        "name": "HERBERT (3)",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/657"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 11",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/32"
+      }
+    ]
+  },
+  {
+    "course": "FIC - 2022 - 3º CICLO",
+    "semester": 4,
+    "weekday": "sexta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "FIC.4 - 4º C",
+    "teacher": [
+      {
+        "name": "HERBERT (3)",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/657"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 13",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/29"
+      }
+    ]
+  },
+  {
+    "course": "FIC - 2022 - 3º CICLO",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "FIC.4 - 4º C",
+    "teacher": [
+      {
+        "name": "HERBERT (3)",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/657"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 13",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/29"
+      }
+    ]
+  },
+  {
+    "course": "FIC - 2022 - 3º CICLO",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "FIC.4 - 4º C",
+    "teacher": [
+      {
+        "name": "HERBERT (3)",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/657"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 13",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/29"
+      }
+    ]
+  },
+  {
+    "course": "FIC - 2022 - 3º CICLO",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "FIC.4 - 4º C",
+    "teacher": [
+      {
+        "name": "HERBERT (3)",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/657"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 13",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/29"
+      }
+    ]
+  },
+  {
+    "course": "FIC - 2022 - 3º CICLO",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "FIC.4 - 4º C",
+    "teacher": [
+      {
+        "name": "HERBERT (3)",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/657"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 11",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/32"
+      }
+    ]
+  },
+  {
+    "course": "FIC - 2022 - 3º CICLO",
+    "semester": 4,
+    "weekday": "sexta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "FIC.4 - 4º C",
+    "teacher": [
+      {
+        "name": "HERBERT (3)",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/657"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 13",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/29"
+      }
+    ]
+  },
+  {
+    "course": "FIC - 2022 - 3º CICLO",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "FIC.4 - 4º C",
+    "teacher": [
+      {
+        "name": "HERBERT (3)",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/657"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 13",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/29"
+      }
+    ]
+  },
+  {
+    "course": "FIC - 2022 - 3º CICLO",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "FIC.4 - 4º C",
+    "teacher": [
+      {
+        "name": "HERBERT (3)",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/657"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 13",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/29"
+      }
+    ]
+  },
+  {
+    "course": "FIC - 2022 - 3º CICLO",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "FIC.4 - 4º C",
+    "teacher": [
+      {
+        "name": "HERBERT (3)",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/657"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 13",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/29"
+      }
+    ]
+  },
+  {
+    "course": "FIC - 2022 - 3º CICLO",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "FIC.4 - 4º C",
+    "teacher": [
+      {
+        "name": "HERBERT (3)",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/657"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 11",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/32"
+      }
+    ]
+  },
+  {
+    "course": "FIC - 2022 - 3º CICLO",
+    "semester": 4,
+    "weekday": "sexta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "FIC.4 - 4º C",
+    "teacher": [
+      {
+        "name": "HERBERT (3)",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/657"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 13",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/29"
+      }
+    ]
+  },
+  {
+    "course": "FIC - 2022 - 3º CICLO",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "FIC.4 - 4º C",
+    "teacher": [
+      {
+        "name": "HERBERT (3)",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/657"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 13",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/29"
+      }
+    ]
+  },
+  {
+    "course": "FIC - 2022 - 3º CICLO",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "FIC.4 - 4º C",
+    "teacher": [
+      {
+        "name": "HERBERT (3)",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/657"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 13",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/29"
+      }
+    ]
+  },
+  {
+    "course": "FIC - 2022 - 3º CICLO",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "FIC.4 - 4º C",
+    "teacher": [
+      {
+        "name": "HERBERT (3)",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/657"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 13",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/29"
+      }
+    ]
+  },
+  {
+    "course": "FIC - 2022 - 3º CICLO",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "FIC.4 - 4º C",
+    "teacher": [
+      {
+        "name": "HERBERT (3)",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/657"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 11",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/32"
+      }
+    ]
+  },
+  {
+    "course": "FIC - 2022 - 3º CICLO",
+    "semester": 4,
+    "weekday": "sexta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "FIC.4 - 4º C",
+    "teacher": [
+      {
+        "name": "HERBERT (3)",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/657"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 13",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/29"
+      }
+    ]
+  },
+  {
+    "course": "FIC - 2022 - 3º CICLO",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "FIC.4 - 4º C",
+    "teacher": [
+      {
+        "name": "HERBERT (3)",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/657"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 13",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/29"
+      }
+    ]
+  },
+  {
+    "course": "FIC - 2022 - 3º CICLO",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "FIC.4 - 4º C",
+    "teacher": [
+      {
+        "name": "HERBERT (3)",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/657"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 13",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/29"
+      }
+    ]
+  },
+  {
+    "course": "FIC - 2022 - 3º CICLO",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "FIC.4 - 4º C",
+    "teacher": [
+      {
+        "name": "HERBERT (3)",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/657"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 13",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/29"
+      }
+    ]
+  },
+  {
+    "course": "FIC - 2022 - 3º CICLO",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "FIC.4 - 4º C",
+    "teacher": [
+      {
+        "name": "HERBERT (3)",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/657"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 11",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/32"
+      }
+    ]
+  },
+  {
+    "course": "FIC - 2022 - 3º CICLO",
+    "semester": 4,
+    "weekday": "sexta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "FIC.4 - 4º C",
+    "teacher": [
+      {
+        "name": "HERBERT (3)",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/657"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 13",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/29"
+      }
+    ]
+  },
+  {
+    "course": "FIC - 2022 - 3º CICLO",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "FIC.4 - 4º C",
+    "teacher": [
+      {
+        "name": "HERBERT (3)",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/657"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 13",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/29"
+      }
+    ]
+  },
+  {
+    "course": "FIC - 2022 - 3º CICLO",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "FIC.4 - 4º C",
+    "teacher": [
+      {
+        "name": "HERBERT (3)",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/657"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 13",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/29"
+      }
+    ]
+  },
+  {
+    "course": "FIC - 2022 - 3º CICLO",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "FIC.4 - 4º C",
+    "teacher": [
+      {
+        "name": "HERBERT (3)",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/657"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 13",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/29"
+      }
+    ]
+  },
+  {
+    "course": "FIC - 2022 - 3º CICLO",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "FIC.4 - 4º C",
+    "teacher": [
+      {
+        "name": "HERBERT (3)",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/657"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 11",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/32"
+      }
+    ]
+  },
+  {
+    "course": "FIC - 2022 - 3º CICLO",
+    "semester": 4,
+    "weekday": "sexta",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "FIC.4 - 4º C",
+    "teacher": [
+      {
+        "name": "HERBERT (3)",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/657"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 13",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/29"
+      }
+    ]
+  },
+  {
+    "course": "FIC - 2022 - 3º CICLO",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "FIC.4 - 4º C",
+    "teacher": [
+      {
+        "name": "HERBERT (3)",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/657"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 13",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/29"
+      }
+    ]
+  },
+  {
+    "course": "FIC - 2022 - 3º CICLO",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "FIC.4 - 4º C",
+    "teacher": [
+      {
+        "name": "HERBERT (3)",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/657"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 13",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/29"
+      }
+    ]
+  },
+  {
+    "course": "FIC - 2022 - 3º CICLO",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "FIC.4 - 4º C",
+    "teacher": [
+      {
+        "name": "HERBERT (3)",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/657"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 13",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/29"
+      }
+    ]
+  },
+  {
+    "course": "FIC - 2022 - 3º CICLO",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "FIC.4 - 4º C",
+    "teacher": [
+      {
+        "name": "HERBERT (3)",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/657"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 13",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/29"
+      }
+    ]
+  },
+  {
+    "course": "FIC - 2022 - 3º CICLO",
+    "semester": 4,
+    "weekday": "sexta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "FIC.4 - 4º C",
+    "teacher": [
+      {
+        "name": "HERBERT (3)",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/657"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 13",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/29"
+      }
+    ]
+  },
+  {
+    "course": "FIC - 2022 - 3º CICLO",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "FIC.4 - 4º C",
+    "teacher": [
+      {
+        "name": "HERBERT (3)",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/657"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 13",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/29"
+      }
+    ]
+  },
+  {
+    "course": "FIC - 2022 - 3º CICLO",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "FIC.4 - 4º C",
+    "teacher": [
+      {
+        "name": "HERBERT (3)",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/657"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 13",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/29"
+      }
+    ]
+  },
+  {
+    "course": "FIC - 2022 - 3º CICLO",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "FIC.4 - 4º C",
+    "teacher": [
+      {
+        "name": "HERBERT (3)",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/657"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 13",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/29"
+      }
+    ]
+  },
+  {
+    "course": "FIC - 2022 - 3º CICLO",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "FIC.4 - 4º C",
+    "teacher": [
+      {
+        "name": "HERBERT (3)",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/657"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 13",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/29"
+      }
+    ]
+  },
+  {
+    "course": "FIC - 2022 - 3º CICLO",
+    "semester": 4,
+    "weekday": "sexta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "FIC.4 - 4º C",
+    "teacher": [
+      {
+        "name": "HERBERT (3)",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/657"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 13",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/29"
+      }
+    ]
+  },
+  {
+    "course": "FIC - 2022 - 3º CICLO",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "FIC.4 - 4º C",
+    "teacher": [
+      {
+        "name": "HERBERT (3)",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/657"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 13",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/29"
+      }
+    ]
+  },
+  {
+    "course": "FIC - 2022 - 3º CICLO",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "FIC.4 - 4º C",
+    "teacher": [
+      {
+        "name": "HERBERT (3)",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/657"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 13",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/29"
+      }
+    ]
+  },
+  {
+    "course": "FIC - 2022 - 3º CICLO",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "FIC.4 - 4º C",
+    "teacher": [
+      {
+        "name": "HERBERT (3)",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/657"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 13",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/29"
+      }
+    ]
+  },
+  {
+    "course": "FIC - 2022 - 3º CICLO",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "FIC.4 - 4º C",
+    "teacher": [
+      {
+        "name": "HERBERT (3)",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/657"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 13",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/29"
+      }
+    ]
+  },
+  {
+    "course": "FIC - 2022 - 3º CICLO",
+    "semester": 4,
+    "weekday": "sexta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "FIC.4 - 4º C",
+    "teacher": [
+      {
+        "name": "HERBERT (3)",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/657"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 13",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/29"
+      }
+    ]
+  },
+  {
+    "course": "FIC - 2022 - 3º CICLO",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "FIC.4 - 4º C",
+    "teacher": [
+      {
+        "name": "HERBERT (3)",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/657"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 13",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/29"
+      }
+    ]
+  },
+  {
+    "course": "FIC - 2022 - 3º CICLO",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "FIC.4 - 4º C",
+    "teacher": [
+      {
+        "name": "HERBERT (3)",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/657"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 13",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/29"
+      }
+    ]
+  },
+  {
+    "course": "FIC - 2022 - 3º CICLO",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "FIC.4 - 4º C",
+    "teacher": [
+      {
+        "name": "HERBERT (3)",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/657"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 13",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/29"
+      }
+    ]
+  },
+  {
+    "course": "FIC - 2022 - 3º CICLO",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "FIC.4 - 4º C",
+    "teacher": [
+      {
+        "name": "HERBERT (3)",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/657"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 13",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/29"
+      }
+    ]
+  },
+  {
+    "course": "FIC - 2022 - 3º CICLO",
+    "semester": 4,
+    "weekday": "sexta",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "FIC.4 - 4º C",
+    "teacher": [
+      {
+        "name": "HERBERT (3)",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/657"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 13",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/29"
+      }
+    ]
+  },
+  {
+    "course": "FIC - 2022 - 3º CICLO",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "FIC.4 - 4º C",
+    "teacher": [
+      {
+        "name": "HERBERT (3)",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/657"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 13",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/29"
+      }
+    ]
+  },
+  {
+    "course": "FIC - 2022 - 3º CICLO",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "FIC.4 - 4º C",
+    "teacher": [
+      {
+        "name": "HERBERT (3)",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/657"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 13",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/29"
+      }
+    ]
+  },
+  {
+    "course": "FIC - 2022 - 3º CICLO",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "FIC.4 - 4º C",
+    "teacher": [
+      {
+        "name": "HERBERT (3)",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/657"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 13",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/29"
+      }
+    ]
+  },
+  {
+    "course": "FIC - 2022 - 3º CICLO",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "FIC.4 - 4º C",
+    "teacher": [
+      {
+        "name": "HERBERT (3)",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/657"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 13",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/29"
+      }
+    ]
+  },
+  {
+    "course": "FIC - 2022 - 3º CICLO",
+    "semester": 4,
+    "weekday": "sexta",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "FIC.4 - 4º C",
+    "teacher": [
+      {
+        "name": "HERBERT (3)",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/657"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 13",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/29"
+      }
+    ]
+  }
+]

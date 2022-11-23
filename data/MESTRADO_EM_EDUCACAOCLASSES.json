@@ -1,0 +1,602 @@
+[
+  {
+    "course": "MESTRADO EM EDUCACAO",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "PROFEPT",
+    "teacher": [
+      {
+        "name": "ZZZ.153",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/54"
+      },
+      {
+        "name": "CONCEICAO MONT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/293"
+      },
+      {
+        "name": "ANFITEATRO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/38"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 98",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/81"
+      },
+      {
+        "name": "RAFAEL BARROS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/353"
+      },
+      {
+        "name": "ZZZ.147",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/235"
+      }
+    ]
+  },
+  {
+    "course": "MESTRADO EM EDUCACAO",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "PROFEPT",
+    "teacher": [
+      {
+        "name": "ZZZ.153",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/54"
+      },
+      {
+        "name": "CONCEICAO MONT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/293"
+      },
+      {
+        "name": "ANFITEATRO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/38"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 98",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/81"
+      },
+      {
+        "name": "RAFAEL BARROS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/353"
+      },
+      {
+        "name": "ZZZ.147",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/235"
+      }
+    ]
+  },
+  {
+    "course": "MESTRADO EM EDUCACAO",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "PROFEPT",
+    "teacher": [
+      {
+        "name": "ZZZ.153",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/54"
+      },
+      {
+        "name": "CONCEICAO MONT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/293"
+      },
+      {
+        "name": "ANFITEATRO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/38"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 98",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/81"
+      },
+      {
+        "name": "RAFAEL BARROS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/353"
+      },
+      {
+        "name": "ZZZ.147",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/235"
+      }
+    ]
+  },
+  {
+    "course": "MESTRADO EM EDUCACAO",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "PROFEPT",
+    "teacher": [
+      {
+        "name": "ZZZ.153",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/54"
+      },
+      {
+        "name": "CONCEICAO MONT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/293"
+      },
+      {
+        "name": "ANFITEATRO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/38"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 98",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/81"
+      },
+      {
+        "name": "RAFAEL BARROS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/353"
+      },
+      {
+        "name": "ZZZ.147",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/235"
+      }
+    ]
+  },
+  {
+    "course": "MESTRADO EM EDUCACAO",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "PROFEPT",
+    "teacher": [
+      {
+        "name": "ZZZ.153",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/54"
+      },
+      {
+        "name": "CONCEICAO MONT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/293"
+      },
+      {
+        "name": "ANFITEATRO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/38"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 98",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/81"
+      },
+      {
+        "name": "RAFAEL BARROS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/353"
+      },
+      {
+        "name": "ZZZ.147",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/235"
+      }
+    ]
+  },
+  {
+    "course": "MESTRADO EM EDUCACAO",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "PROFEPT",
+    "teacher": [
+      {
+        "name": "ZZZ.153",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/54"
+      },
+      {
+        "name": "CONCEICAO MONT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/293"
+      },
+      {
+        "name": "ANFITEATRO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/38"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 98",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/81"
+      },
+      {
+        "name": "RAFAEL BARROS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/353"
+      },
+      {
+        "name": "ZZZ.147",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/235"
+      }
+    ]
+  },
+  {
+    "course": "MESTRADO EM EDUCACAO",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "PROFEPT",
+    "teacher": [
+      {
+        "name": "ZZZ.153",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/54"
+      },
+      {
+        "name": "CONCEICAO MONT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/293"
+      },
+      {
+        "name": "ANFITEATRO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/38"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 98",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/81"
+      },
+      {
+        "name": "RAFAEL BARROS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/353"
+      },
+      {
+        "name": "ZZZ.147",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/235"
+      }
+    ]
+  },
+  {
+    "course": "MESTRADO EM EDUCACAO",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "PROFEPT",
+    "teacher": [
+      {
+        "name": "ZZZ.153",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/54"
+      },
+      {
+        "name": "CONCEICAO MONT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/293"
+      },
+      {
+        "name": "ANFITEATRO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/38"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 98",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/81"
+      },
+      {
+        "name": "RAFAEL BARROS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/353"
+      },
+      {
+        "name": "ZZZ.147",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/235"
+      }
+    ]
+  },
+  {
+    "course": "MESTRADO EM EDUCACAO",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "PROFEPT",
+    "teacher": [
+      {
+        "name": "ZZZ.153",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/54"
+      },
+      {
+        "name": "CONCEICAO MONT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/293"
+      },
+      {
+        "name": "ANFITEATRO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/38"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 98",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/81"
+      },
+      {
+        "name": "RAFAEL BARROS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/353"
+      },
+      {
+        "name": "ZZZ.147",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/235"
+      }
+    ]
+  },
+  {
+    "course": "MESTRADO EM EDUCACAO",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "PROFEPT",
+    "teacher": [
+      {
+        "name": "ZZZ.153",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/54"
+      },
+      {
+        "name": "CONCEICAO MONT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/293"
+      },
+      {
+        "name": "ANFITEATRO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/38"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 98",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/81"
+      },
+      {
+        "name": "RAFAEL BARROS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/353"
+      },
+      {
+        "name": "ZZZ.147",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/235"
+      }
+    ]
+  },
+  {
+    "course": "MESTRADO EM EDUCACAO",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "PROFEPT",
+    "teacher": [
+      {
+        "name": "ANDREA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/34"
+      }
+    ],
+    "location": [
+      {
+        "name": "ANFITEATRO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/38"
+      }
+    ]
+  },
+  {
+    "course": "MESTRADO EM EDUCACAO",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "PROFEPT",
+    "teacher": [
+      {
+        "name": "ANDREA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/34"
+      }
+    ],
+    "location": [
+      {
+        "name": "ANFITEATRO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/38"
+      }
+    ]
+  },
+  {
+    "course": "MESTRADO EM EDUCACAO",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "PROFEPT",
+    "teacher": [
+      {
+        "name": "ANDREA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/34"
+      }
+    ],
+    "location": [
+      {
+        "name": "ANFITEATRO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/38"
+      }
+    ]
+  },
+  {
+    "course": "MESTRADO EM EDUCACAO",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "PROFEPT",
+    "teacher": [
+      {
+        "name": "ANDREA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/34"
+      }
+    ],
+    "location": [
+      {
+        "name": "ANFITEATRO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/38"
+      }
+    ]
+  },
+  {
+    "course": "MESTRADO EM EDUCACAO",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "PROFEPT",
+    "teacher": [
+      {
+        "name": "ANDREA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/34"
+      }
+    ],
+    "location": [
+      {
+        "name": "ANFITEATRO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/38"
+      }
+    ]
+  },
+  {
+    "course": "MESTRADO EM EDUCACAO",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "PROFEPT",
+    "teacher": [
+      {
+        "name": "ANDREA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/34"
+      }
+    ],
+    "location": [
+      {
+        "name": "ANFITEATRO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/38"
+      }
+    ]
+  },
+  {
+    "course": "MESTRADO EM EDUCACAO",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "PROFEPT",
+    "teacher": [
+      {
+        "name": "ANDREA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/34"
+      }
+    ],
+    "location": [
+      {
+        "name": "ANFITEATRO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/38"
+      }
+    ]
+  },
+  {
+    "course": "MESTRADO EM EDUCACAO",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "PROFEPT",
+    "teacher": [
+      {
+        "name": "ANDREA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/34"
+      }
+    ],
+    "location": [
+      {
+        "name": "ANFITEATRO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/38"
+      }
+    ]
+  },
+  {
+    "course": "MESTRADO EM EDUCACAO",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "PROFEPT",
+    "teacher": [
+      {
+        "name": "ANDREA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/34"
+      }
+    ],
+    "location": [
+      {
+        "name": "ANFITEATRO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/38"
+      }
+    ]
+  },
+  {
+    "course": "MESTRADO EM EDUCACAO",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "PROFEPT",
+    "teacher": [
+      {
+        "name": "ANDREA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/34"
+      }
+    ],
+    "location": [
+      {
+        "name": "ANFITEATRO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/38"
+      }
+    ]
+  },
+  {
+    "course": "MESTRADO EM EDUCACAO",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "PROFEPT",
+    "teacher": [
+      {
+        "name": "ANDREA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/34"
+      }
+    ],
+    "location": [
+      {
+        "name": "ANFITEATRO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/38"
+      }
+    ]
+  },
+  {
+    "course": "MESTRADO EM EDUCACAO",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "PROFEPT",
+    "teacher": [
+      {
+        "name": "ANDREA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/34"
+      }
+    ],
+    "location": [
+      {
+        "name": "ANFITEATRO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/38"
+      }
+    ]
+  }
+]

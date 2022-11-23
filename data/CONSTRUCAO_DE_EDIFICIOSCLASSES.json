@@ -1,0 +1,575 @@
+[
+  {
+    "course": "CONSTRUCAO DE EDIFICIOS",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "INS ELE PRED",
+    "teacher": [
+      {
+        "name": "FERNANDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/132"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 18",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/83"
+      }
+    ]
+  },
+  {
+    "course": "CONSTRUCAO DE EDIFICIOS",
+    "semester": 4,
+    "weekday": "sexta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "INS ELE PRED",
+    "teacher": [
+      {
+        "name": "FERNANDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/132"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 18",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/83"
+      }
+    ]
+  },
+  {
+    "course": "CONSTRUCAO DE EDIFICIOS",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "INS ELE PRED",
+    "teacher": [
+      {
+        "name": "FERNANDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/132"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 18",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/83"
+      }
+    ]
+  },
+  {
+    "course": "CONSTRUCAO DE EDIFICIOS",
+    "semester": 4,
+    "weekday": "sexta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "INS ELE PRED",
+    "teacher": [
+      {
+        "name": "FERNANDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/132"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 18",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/83"
+      }
+    ]
+  },
+  {
+    "course": "CONSTRUCAO DE EDIFICIOS",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "INS ELE PRED",
+    "teacher": [
+      {
+        "name": "FERNANDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/132"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 18",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/83"
+      }
+    ]
+  },
+  {
+    "course": "CONSTRUCAO DE EDIFICIOS",
+    "semester": 4,
+    "weekday": "sexta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "INS ELE PRED",
+    "teacher": [
+      {
+        "name": "FERNANDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/132"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 18",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/83"
+      }
+    ]
+  },
+  {
+    "course": "CONSTRUCAO DE EDIFICIOS",
+    "semester": 5,
+    "weekday": "segunda",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "PLAN CTRL OBRA",
+    "teacher": [
+      {
+        "name": "CICERO SANTOS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/621"
+      },
+      {
+        "name": "POSTES/DEE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/54"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 14",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/74"
+      }
+    ]
+  },
+  {
+    "course": "CONSTRUCAO DE EDIFICIOS",
+    "semester": 5,
+    "weekday": "terca",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "PLAN CTRL OBRA",
+    "teacher": [
+      {
+        "name": "CICERO SANTOS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/621"
+      }
+    ],
+    "location": [
+      {
+        "name": "POSTES/DEE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/54"
+      }
+    ]
+  },
+  {
+    "course": "CONSTRUCAO DE EDIFICIOS",
+    "semester": 5,
+    "weekday": "quarta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "PAT CONSTR",
+    "teacher": [
+      {
+        "name": "GIBSON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/160"
+      }
+    ],
+    "location": []
+  },
+  {
+    "course": "CONSTRUCAO DE EDIFICIOS",
+    "semester": 5,
+    "weekday": "segunda",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "PLAN CTRL OBRA",
+    "teacher": [
+      {
+        "name": "CICERO SANTOS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/621"
+      },
+      {
+        "name": "POSTES/DEE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/54"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 14",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/74"
+      }
+    ]
+  },
+  {
+    "course": "CONSTRUCAO DE EDIFICIOS",
+    "semester": 5,
+    "weekday": "terca",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "PLAN CTRL OBRA",
+    "teacher": [
+      {
+        "name": "CICERO SANTOS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/621"
+      }
+    ],
+    "location": [
+      {
+        "name": "POSTES/DEE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/54"
+      }
+    ]
+  },
+  {
+    "course": "CONSTRUCAO DE EDIFICIOS",
+    "semester": 5,
+    "weekday": "quarta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "PAT CONSTR",
+    "teacher": [
+      {
+        "name": "GIBSON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/160"
+      }
+    ],
+    "location": []
+  },
+  {
+    "course": "CONSTRUCAO DE EDIFICIOS",
+    "semester": 5,
+    "weekday": "segunda",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "QUAL CON CIVIL",
+    "teacher": [
+      {
+        "name": "ZZZ.100",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/317"
+      }
+    ],
+    "location": []
+  },
+  {
+    "course": "CONSTRUCAO DE EDIFICIOS",
+    "semester": 5,
+    "weekday": "terca",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "PLAN CTRL OBRA",
+    "teacher": [
+      {
+        "name": "CICERO SANTOS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/621"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 45",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/48"
+      }
+    ]
+  },
+  {
+    "course": "CONSTRUCAO DE EDIFICIOS",
+    "semester": 5,
+    "weekday": "quarta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "ESTR MET MAD",
+    "teacher": [
+      {
+        "name": "ULISSES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/403"
+      }
+    ],
+    "location": [
+      {
+        "name": "LAB MAT.1",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/62"
+      }
+    ]
+  },
+  {
+    "course": "CONSTRUCAO DE EDIFICIOS",
+    "semester": 5,
+    "weekday": "segunda",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "QUAL CON CIVIL",
+    "teacher": [
+      {
+        "name": "ZZZ.100",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/317"
+      }
+    ],
+    "location": []
+  },
+  {
+    "course": "CONSTRUCAO DE EDIFICIOS",
+    "semester": 5,
+    "weekday": "quarta",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "ESTR MET MAD",
+    "teacher": [
+      {
+        "name": "ULISSES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/403"
+      }
+    ],
+    "location": [
+      {
+        "name": "LAB MAT.1",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/62"
+      }
+    ]
+  },
+  {
+    "course": "CONSTRUCAO DE EDIFICIOS",
+    "semester": 5,
+    "weekday": "quinta",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "PAT CONSTR",
+    "teacher": [
+      {
+        "name": "GIBSON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/160"
+      }
+    ],
+    "location": []
+  },
+  {
+    "course": "CONSTRUCAO DE EDIFICIOS",
+    "semester": 5,
+    "weekday": "segunda",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "QUAL CON CIVIL",
+    "teacher": [
+      {
+        "name": "ZZZ.100",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/317"
+      }
+    ],
+    "location": []
+  },
+  {
+    "course": "CONSTRUCAO DE EDIFICIOS",
+    "semester": 5,
+    "weekday": "quarta",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "ESTR MET MAD",
+    "teacher": [
+      {
+        "name": "ULISSES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/403"
+      }
+    ],
+    "location": [
+      {
+        "name": "LAB MAT.1",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/62"
+      }
+    ]
+  },
+  {
+    "course": "CONSTRUCAO DE EDIFICIOS",
+    "semester": 5,
+    "weekday": "quinta",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "PAT CONSTR",
+    "teacher": [
+      {
+        "name": "GIBSON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/160"
+      }
+    ],
+    "location": []
+  },
+  {
+    "course": "CONSTRUCAO DE EDIFICIOS",
+    "semester": 6,
+    "weekday": "terca",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "AVA POS OCUP",
+    "teacher": [
+      {
+        "name": "ALEXSANDRA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/18"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 14",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/74"
+      }
+    ]
+  },
+  {
+    "course": "CONSTRUCAO DE EDIFICIOS",
+    "semester": 6,
+    "weekday": "terca",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "AVA POS OCUP",
+    "teacher": [
+      {
+        "name": "ALEXSANDRA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/18"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 14",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/74"
+      }
+    ]
+  },
+  {
+    "course": "CONSTRUCAO DE EDIFICIOS",
+    "semester": 6,
+    "weekday": "segunda",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "ERGONOMIA",
+    "teacher": [
+      {
+        "name": "ANA MARIA K",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/29"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 14",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/74"
+      }
+    ]
+  },
+  {
+    "course": "CONSTRUCAO DE EDIFICIOS",
+    "semester": 6,
+    "weekday": "terca",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "AVA POS OCUP",
+    "teacher": [
+      {
+        "name": "ALEXSANDRA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/18"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 14",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/74"
+      }
+    ]
+  },
+  {
+    "course": "CONSTRUCAO DE EDIFICIOS",
+    "semester": 6,
+    "weekday": "quinta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "CONST INDUSTR",
+    "teacher": [
+      {
+        "name": "ULISSES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/403"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 39",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/42"
+      }
+    ]
+  },
+  {
+    "course": "CONSTRUCAO DE EDIFICIOS",
+    "semester": 6,
+    "weekday": "segunda",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "ERGONOMIA",
+    "teacher": [
+      {
+        "name": "ANA MARIA K",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/29"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 14",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/74"
+      }
+    ]
+  },
+  {
+    "course": "CONSTRUCAO DE EDIFICIOS",
+    "semester": 6,
+    "weekday": "quinta",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "CONST INDUSTR",
+    "teacher": [
+      {
+        "name": "ULISSES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/403"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 39",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/42"
+      }
+    ]
+  },
+  {
+    "course": "CONSTRUCAO DE EDIFICIOS",
+    "semester": 6,
+    "weekday": "segunda",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "ERGONOMIA",
+    "teacher": [
+      {
+        "name": "ANA MARIA K",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/29"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 14",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/74"
+      }
+    ]
+  },
+  {
+    "course": "CONSTRUCAO DE EDIFICIOS",
+    "semester": 6,
+    "weekday": "quinta",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "CONST INDUSTR",
+    "teacher": [
+      {
+        "name": "ULISSES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/403"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 39",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/42"
+      }
+    ]
+  }
+]

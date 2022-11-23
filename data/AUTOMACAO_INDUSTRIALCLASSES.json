@@ -1,0 +1,2894 @@
+[
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "TEC MATERIAIS",
+    "teacher": [
+      {
+        "name": "EDGARD MACEDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/98"
+      }
+    ],
+    "location": [
+      {
+        "name": "METALOGR 1",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/66"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "ELETRICIDADE",
+    "teacher": [
+      {
+        "name": "ANDREA GOMES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/35"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-03",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/103"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "ELETRICIDADE",
+    "teacher": [
+      {
+        "name": "ANDREA GOMES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/35"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-03",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/103"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "CAL DIF INT I",
+    "teacher": [
+      {
+        "name": "GUTEMBERG",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/46"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-03",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/103"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "CAL DIF INT I",
+    "teacher": [
+      {
+        "name": "GUTEMBERG",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/46"
+      },
+      {
+        "name": "AI-03",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/103"
+      }
+    ],
+    "location": [
+      {
+        "name": "SDESME UA3",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/47"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "TEC MATERIAIS",
+    "teacher": [
+      {
+        "name": "EDGARD MACEDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/98"
+      }
+    ],
+    "location": [
+      {
+        "name": "METALOGR 1",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/66"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "ELETRICIDADE",
+    "teacher": [
+      {
+        "name": "ANDREA GOMES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/35"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-03",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/103"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "ELETRICIDADE",
+    "teacher": [
+      {
+        "name": "ANDREA GOMES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/35"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-03",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/103"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "CAL DIF INT I",
+    "teacher": [
+      {
+        "name": "GUTEMBERG",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/46"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-03",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/103"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "CAL DIF INT I",
+    "teacher": [
+      {
+        "name": "GUTEMBERG",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/46"
+      },
+      {
+        "name": "AI-03",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/103"
+      }
+    ],
+    "location": [
+      {
+        "name": "SDESME UA3",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/47"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "TEC MATERIAIS",
+    "teacher": [
+      {
+        "name": "EDGARD MACEDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/98"
+      }
+    ],
+    "location": [
+      {
+        "name": "METALOGR 1",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/66"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "SIST DIGITAIS",
+    "teacher": [
+      {
+        "name": "JEANNE PAULA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/195"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-05",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/105"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "DES TEC METROL",
+    "teacher": [
+      {
+        "name": "ARIEL AIRES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/49"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/106"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "CAL DIF INT I",
+    "teacher": [
+      {
+        "name": "GUTEMBERG",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/46"
+      },
+      {
+        "name": "AI-03",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/103"
+      }
+    ],
+    "location": [
+      {
+        "name": "SDESME UA3",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/47"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "SEG TRABALHO",
+    "teacher": [
+      {
+        "name": "CESARINO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/387"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-03",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/103"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "SIST DIGITAIS",
+    "teacher": [
+      {
+        "name": "JEANNE PAULA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/195"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-05",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/105"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "DES TEC METROL",
+    "teacher": [
+      {
+        "name": "ARIEL AIRES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/49"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/106"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "SIST DIGITAIS",
+    "teacher": [
+      {
+        "name": "JEANNE PAULA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/195"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-03",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/103"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "SEG TRABALHO",
+    "teacher": [
+      {
+        "name": "CESARINO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/387"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-03",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/103"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "TEC MATERIAIS",
+    "teacher": [
+      {
+        "name": "EDGARD MACEDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/98"
+      }
+    ],
+    "location": [
+      {
+        "name": "METALOGR 1",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/66"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "ETICA E DH",
+    "teacher": [
+      {
+        "name": "TIAGO R",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/836"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 24",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/14"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "DES TEC METROL",
+    "teacher": [
+      {
+        "name": "ARIEL AIRES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/49"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/106"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "SIST DIGITAIS",
+    "teacher": [
+      {
+        "name": "JEANNE PAULA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/195"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-03",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/103"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "SEG TRABALHO",
+    "teacher": [
+      {
+        "name": "CESARINO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/387"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-03",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/103"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "ETICA E DH",
+    "teacher": [
+      {
+        "name": "TIAGO R",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/836"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 24",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/14"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "DES TEC METROL",
+    "teacher": [
+      {
+        "name": "ARIEL AIRES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/49"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/106"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "FISICA APLIC",
+    "teacher": [
+      {
+        "name": "DHIEGO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/121"
+      }
+    ],
+    "location": [
+      {
+        "name": "LAB FÍSIC",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/25"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "ALG LOG PROG",
+    "teacher": [
+      {
+        "name": "MATEUS LIMA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/756"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/106"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "FISICA APLIC",
+    "teacher": [
+      {
+        "name": "DHIEGO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/121"
+      }
+    ],
+    "location": [
+      {
+        "name": "LAB FÍSIC",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/25"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "MATEM APLIC",
+    "teacher": [
+      {
+        "name": "HELDER ALVES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/173"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 17",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/21"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "FISICA APLIC",
+    "teacher": [
+      {
+        "name": "DHIEGO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/121"
+      }
+    ],
+    "location": [
+      {
+        "name": "LAB FÍSIC",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/25"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "ALG LOG PROG",
+    "teacher": [
+      {
+        "name": "MATEUS LIMA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/756"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/106"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "ALG LOG PROG",
+    "teacher": [
+      {
+        "name": "MATEUS LIMA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/756"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/106"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "FISICA APLIC",
+    "teacher": [
+      {
+        "name": "DHIEGO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/121"
+      }
+    ],
+    "location": [
+      {
+        "name": "LAB FÍSIC",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/25"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "MATEM APLIC",
+    "teacher": [
+      {
+        "name": "HELDER ALVES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/173"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 17",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/21"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "FISICA APLIC",
+    "teacher": [
+      {
+        "name": "DHIEGO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/121"
+      }
+    ],
+    "location": [
+      {
+        "name": "LAB FÍSIC",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/25"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "ALG LOG PROG",
+    "teacher": [
+      {
+        "name": "MATEUS LIMA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/756"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/106"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "CIRC ANALOG",
+    "teacher": [
+      {
+        "name": "ROBERIO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/367"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-02",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/102"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "DESENHO CAD",
+    "teacher": [
+      {
+        "name": "ALEKSANDRO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/12"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/106"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "INSTAL ELET",
+    "teacher": [
+      {
+        "name": "ANTONIO DALIA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/43"
+      }
+    ],
+    "location": [
+      {
+        "name": "INST ELETR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/51"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "DESENHO CAD",
+    "teacher": [
+      {
+        "name": "ALEKSANDRO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/12"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/106"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "MATEM APLIC",
+    "teacher": [
+      {
+        "name": "HELDER ALVES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/173"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 19",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/19"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "CIRC ANALOG",
+    "teacher": [
+      {
+        "name": "ROBERIO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/367"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-02",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/102"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "DESENHO CAD",
+    "teacher": [
+      {
+        "name": "ALEKSANDRO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/12"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/106"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "INSTAL ELET",
+    "teacher": [
+      {
+        "name": "ANTONIO DALIA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/43"
+      }
+    ],
+    "location": [
+      {
+        "name": "INST ELETR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/51"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "DESENHO CAD",
+    "teacher": [
+      {
+        "name": "ALEKSANDRO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/12"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/106"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "MATEM APLIC",
+    "teacher": [
+      {
+        "name": "HELDER ALVES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/173"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 19",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/19"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "CIRC ANALOG",
+    "teacher": [
+      {
+        "name": "ROBERIO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/367"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-02",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/102"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "CIRC ANALOG",
+    "teacher": [
+      {
+        "name": "ROBERIO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/367"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-02",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/102"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "INSTAL ELET",
+    "teacher": [
+      {
+        "name": "ANTONIO DALIA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/43"
+      }
+    ],
+    "location": [
+      {
+        "name": "INST ELETR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/51"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "MATEM APLIC",
+    "teacher": [
+      {
+        "name": "HELDER ALVES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/173"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 19",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/19"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "CIRC ANALOG",
+    "teacher": [
+      {
+        "name": "ROBERIO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/367"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-02",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/102"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "ELEM MAQUIN",
+    "teacher": [
+      {
+        "name": "MARCELO PAZ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/274"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-04",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/104"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "USINAGEM CONVE",
+    "teacher": [
+      {
+        "name": "MARCIO GOMES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/281"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-04",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/104"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "PROGR APLIC",
+    "teacher": [
+      {
+        "name": "ALBERDAN AQUIN",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/10"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-05",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/105"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "SOLDAGEM",
+    "teacher": [
+      {
+        "name": "WALTER FIALHO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/419"
+      }
+    ],
+    "location": [
+      {
+        "name": "SOLDAGEM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/111"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "ELETRON IND",
+    "teacher": [
+      {
+        "name": "PAULO ROBERTO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/345"
+      }
+    ],
+    "location": [
+      {
+        "name": "ELETRO IND",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/21"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "ELEM MAQUIN",
+    "teacher": [
+      {
+        "name": "MARCELO PAZ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/274"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-04",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/104"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "USINAGEM CONVE",
+    "teacher": [
+      {
+        "name": "MARCIO GOMES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/281"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-04",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/104"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "PROGR APLIC",
+    "teacher": [
+      {
+        "name": "ALBERDAN AQUIN",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/10"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-05",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/105"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "SOLDAGEM",
+    "teacher": [
+      {
+        "name": "WALTER FIALHO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/419"
+      }
+    ],
+    "location": [
+      {
+        "name": "SOLDAGEM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/111"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "ELETRON IND",
+    "teacher": [
+      {
+        "name": "PAULO ROBERTO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/345"
+      }
+    ],
+    "location": [
+      {
+        "name": "ELETRO IND",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/21"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "TEO CONTROLE",
+    "teacher": [
+      {
+        "name": "JEANNE PAULA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/195"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-04",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/104"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "USINAGEM CONVE",
+    "teacher": [
+      {
+        "name": "MARCIO GOMES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/281"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-04",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/104"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "PROGR APLIC",
+    "teacher": [
+      {
+        "name": "ALBERDAN AQUIN",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/10"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-05",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/105"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "SOLDAGEM",
+    "teacher": [
+      {
+        "name": "WALTER FIALHO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/419"
+      }
+    ],
+    "location": [
+      {
+        "name": "SOLDAGEM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/111"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "MAQ ELETRICAS",
+    "teacher": [
+      {
+        "name": "ARTUR ALVES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/214"
+      }
+    ],
+    "location": [
+      {
+        "name": "MÁQ ELETR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/60"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "TEO CONTROLE",
+    "teacher": [
+      {
+        "name": "JEANNE PAULA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/195"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-04",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/104"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "USINAGEM CONVE",
+    "teacher": [
+      {
+        "name": "MARCIO GOMES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/281"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-04",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/104"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "ELETRON IND",
+    "teacher": [
+      {
+        "name": "PAULO ROBERTO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/345"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-03",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/103"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "MAQ ELETRICAS",
+    "teacher": [
+      {
+        "name": "ARTUR ALVES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/214"
+      }
+    ],
+    "location": [
+      {
+        "name": "MÁQ ELETR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/60"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "TEO CONTROLE",
+    "teacher": [
+      {
+        "name": "JEANNE PAULA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/195"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-04",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/104"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "USINAGEM CONVE",
+    "teacher": [
+      {
+        "name": "MARCIO GOMES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/281"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-04",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/104"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "TEO CONTROLE",
+    "teacher": [
+      {
+        "name": "JEANNE PAULA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/195"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-04",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/104"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "ELETRON IND",
+    "teacher": [
+      {
+        "name": "PAULO ROBERTO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/345"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-03",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/103"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "MAQ ELETRICAS",
+    "teacher": [
+      {
+        "name": "ARTUR ALVES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/214"
+      }
+    ],
+    "location": [
+      {
+        "name": "MÁQ ELETR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/60"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "USINAGEM CONVE",
+    "teacher": [
+      {
+        "name": "MARCIO GOMES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/281"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-04",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/104"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "TEO CONTROLE",
+    "teacher": [
+      {
+        "name": "JEANNE PAULA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/195"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-04",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/104"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "ACIO FLUIDOSME",
+    "teacher": [
+      {
+        "name": "ALBERDAN AQUIN",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/10"
+      }
+    ],
+    "location": [
+      {
+        "name": "PNEUM/HID",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/56"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "ACION MAQUIN",
+    "teacher": [
+      {
+        "name": "ALVARO MACIEL",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/610"
+      }
+    ],
+    "location": [
+      {
+        "name": "ELETRO IND",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/21"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "MICROCONTROL",
+    "teacher": [
+      {
+        "name": "ROBERIO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/367"
+      }
+    ],
+    "location": [
+      {
+        "name": "INSTR BIOM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/55"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "INSTRU IND",
+    "teacher": [
+      {
+        "name": "RAFAEL FRANKLI",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/352"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-04",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/104"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 4,
+    "weekday": "sexta",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "FUND MET CIENT",
+    "teacher": [
+      {
+        "name": "TIAGO R",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/836"
+      }
+    ],
+    "location": [
+      {
+        "name": "METALOGR 1",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/66"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "ACIO FLUIDOSME",
+    "teacher": [
+      {
+        "name": "ALBERDAN AQUIN",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/10"
+      }
+    ],
+    "location": [
+      {
+        "name": "PNEUM/HID",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/56"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "ACION MAQUIN",
+    "teacher": [
+      {
+        "name": "ALVARO MACIEL",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/610"
+      }
+    ],
+    "location": [
+      {
+        "name": "ELETRO IND",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/21"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "MICROCONTROL",
+    "teacher": [
+      {
+        "name": "ROBERIO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/367"
+      }
+    ],
+    "location": [
+      {
+        "name": "INSTR BIOM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/55"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "INSTRU IND",
+    "teacher": [
+      {
+        "name": "RAFAEL FRANKLI",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/352"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-04",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/104"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 4,
+    "weekday": "sexta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "FUND MET CIENT",
+    "teacher": [
+      {
+        "name": "TIAGO R",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/836"
+      }
+    ],
+    "location": [
+      {
+        "name": "METALOGR 1",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/66"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "ACIO FLUIDOSME",
+    "teacher": [
+      {
+        "name": "ALBERDAN AQUIN",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/10"
+      }
+    ],
+    "location": [
+      {
+        "name": "PNEUM/HID",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/56"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "ACION MAQUIN",
+    "teacher": [
+      {
+        "name": "ALVARO MACIEL",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/610"
+      }
+    ],
+    "location": [
+      {
+        "name": "ELETRO IND",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/21"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "MICROCONTROL",
+    "teacher": [
+      {
+        "name": "ROBERIO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/367"
+      }
+    ],
+    "location": [
+      {
+        "name": "INSTR BIOM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/55"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "INSTRU IND",
+    "teacher": [
+      {
+        "name": "RAFAEL FRANKLI",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/352"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-04",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/104"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 4,
+    "weekday": "sexta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "ELTROTEC IND",
+    "teacher": [
+      {
+        "name": "RAFAELA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/717"
+      }
+    ],
+    "location": [
+      {
+        "name": "COM EL AUT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/10"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "ACIO FLUIDOSME",
+    "teacher": [
+      {
+        "name": "ALBERDAN AQUIN",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/10"
+      }
+    ],
+    "location": [
+      {
+        "name": "PNEUM/HID",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/56"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "CNC",
+    "teacher": [
+      {
+        "name": "ANDRE FELLIPE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/737"
+      }
+    ],
+    "location": [
+      {
+        "name": "INFO 29",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/109"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "MICROCONTROL",
+    "teacher": [
+      {
+        "name": "ROBERIO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/367"
+      }
+    ],
+    "location": [
+      {
+        "name": "INSTR BIOM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/55"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "INSTRU IND",
+    "teacher": [
+      {
+        "name": "RAFAEL FRANKLI",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/352"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-04",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/104"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 4,
+    "weekday": "sexta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "ELTROTEC IND",
+    "teacher": [
+      {
+        "name": "RAFAELA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/717"
+      }
+    ],
+    "location": [
+      {
+        "name": "COM EL AUT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/10"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "CNC",
+    "teacher": [
+      {
+        "name": "ANDRE FELLIPE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/737"
+      }
+    ],
+    "location": [
+      {
+        "name": "INFO 29",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/109"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "CNC",
+    "teacher": [
+      {
+        "name": "ANDRE FELLIPE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/737"
+      }
+    ],
+    "location": [
+      {
+        "name": "INFO 29",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/109"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 4,
+    "weekday": "sexta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "ELTROTEC IND",
+    "teacher": [
+      {
+        "name": "RAFAELA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/717"
+      }
+    ],
+    "location": [
+      {
+        "name": "COM EL AUT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/10"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "CNC",
+    "teacher": [
+      {
+        "name": "ANDRE FELLIPE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/737"
+      }
+    ],
+    "location": [
+      {
+        "name": "INFO 29",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/109"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 4,
+    "weekday": "sexta",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "ELTROTEC IND",
+    "teacher": [
+      {
+        "name": "RAFAELA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/717"
+      }
+    ],
+    "location": [
+      {
+        "name": "COM EL AUT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/10"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 5,
+    "weekday": "segunda",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "PLAN PROD",
+    "teacher": [
+      {
+        "name": "CESARINO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/387"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-03",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/103"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 5,
+    "weekday": "terca",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "CLP REDES IND",
+    "teacher": [
+      {
+        "name": "ANTONIO SOARES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/48"
+      }
+    ],
+    "location": [
+      {
+        "name": "CLP/RED IN",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/129"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 5,
+    "weekday": "quinta",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "CLP REDES IND",
+    "teacher": [
+      {
+        "name": "ANTONIO SOARES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/48"
+      }
+    ],
+    "location": [
+      {
+        "name": "CLP/RED IN",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/129"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 5,
+    "weekday": "sexta",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "SIST ENERGIA",
+    "teacher": [
+      {
+        "name": "ALEXANDRE R.A.",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/580"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-05",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/105"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 5,
+    "weekday": "segunda",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "PLAN PROD",
+    "teacher": [
+      {
+        "name": "CESARINO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/387"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-03",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/103"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 5,
+    "weekday": "terca",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "CLP REDES IND",
+    "teacher": [
+      {
+        "name": "ANTONIO SOARES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/48"
+      }
+    ],
+    "location": [
+      {
+        "name": "CLP/RED IN",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/129"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 5,
+    "weekday": "quarta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "DESENV SIST EL",
+    "teacher": [
+      {
+        "name": "RAFAELA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/717"
+      }
+    ],
+    "location": [
+      {
+        "name": "CALIB BIOM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/8"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 5,
+    "weekday": "quinta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "CLP REDES IND",
+    "teacher": [
+      {
+        "name": "ANTONIO SOARES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/48"
+      }
+    ],
+    "location": [
+      {
+        "name": "CLP/RED IN",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/129"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 5,
+    "weekday": "sexta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "SIST ENERGIA",
+    "teacher": [
+      {
+        "name": "ALEXANDRE R.A.",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/580"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-05",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/105"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 5,
+    "weekday": "segunda",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "PLAN PROD",
+    "teacher": [
+      {
+        "name": "CESARINO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/387"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-03",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/103"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 5,
+    "weekday": "terca",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "CLP REDES IND",
+    "teacher": [
+      {
+        "name": "ANTONIO SOARES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/48"
+      }
+    ],
+    "location": [
+      {
+        "name": "CLP/RED IN",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/129"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 5,
+    "weekday": "quarta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "DESENV SIST EL",
+    "teacher": [
+      {
+        "name": "RAFAELA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/717"
+      }
+    ],
+    "location": [
+      {
+        "name": "CALIB BIOM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/8"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 5,
+    "weekday": "quinta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "CLP REDES IND",
+    "teacher": [
+      {
+        "name": "ANTONIO SOARES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/48"
+      }
+    ],
+    "location": [
+      {
+        "name": "CLP/RED IN",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/129"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 5,
+    "weekday": "sexta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "CTRL DIGITAL",
+    "teacher": [
+      {
+        "name": "ADEMAR COSTA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/3"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-05",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/105"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 5,
+    "weekday": "segunda",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "CTRL DIGITAL",
+    "teacher": [
+      {
+        "name": "ADEMAR COSTA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/3"
+      }
+    ],
+    "location": [
+      {
+        "name": "ELETRIC II",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/99"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 5,
+    "weekday": "terca",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "ROBOTICA",
+    "teacher": [
+      {
+        "name": "ROBERIO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/367"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-02",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/102"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 5,
+    "weekday": "quarta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "DESENV SIST EL",
+    "teacher": [
+      {
+        "name": "RAFAELA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/717"
+      }
+    ],
+    "location": [
+      {
+        "name": "CALIB BIOM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/8"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 5,
+    "weekday": "quinta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "SIST ENERGIA",
+    "teacher": [
+      {
+        "name": "ALEXANDRE R.A.",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/580"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-05",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/105"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 5,
+    "weekday": "sexta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "CTRL DIGITAL",
+    "teacher": [
+      {
+        "name": "ADEMAR COSTA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/3"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-05",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/105"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 5,
+    "weekday": "segunda",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "CTRL DIGITAL",
+    "teacher": [
+      {
+        "name": "ADEMAR COSTA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/3"
+      }
+    ],
+    "location": [
+      {
+        "name": "ELETRIC II",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/99"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 5,
+    "weekday": "terca",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "ROBOTICA",
+    "teacher": [
+      {
+        "name": "ROBERIO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/367"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-02",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/102"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 5,
+    "weekday": "quarta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "ROBOTICA",
+    "teacher": [
+      {
+        "name": "ROBERIO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/367"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-02",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/102"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 5,
+    "weekday": "quinta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "SIST ENERGIA",
+    "teacher": [
+      {
+        "name": "ALEXANDRE R.A.",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/580"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-05",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/105"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 5,
+    "weekday": "sexta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "CTRL DIGITAL",
+    "teacher": [
+      {
+        "name": "ADEMAR COSTA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/3"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-05",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/105"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 5,
+    "weekday": "terca",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "ROBOTICA",
+    "teacher": [
+      {
+        "name": "ROBERIO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/367"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-02",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/102"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 5,
+    "weekday": "quarta",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "ROBOTICA",
+    "teacher": [
+      {
+        "name": "ROBERIO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/367"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-02",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/102"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 6,
+    "weekday": "quarta",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "SIST SUPERVI",
+    "teacher": [
+      {
+        "name": "AMANDA GUERRA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/24"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-04",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/104"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 6,
+    "weekday": "quinta",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "MANUT INDUST",
+    "teacher": [
+      {
+        "name": "CESARINO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/387"
+      }
+    ],
+    "location": [
+      {
+        "name": "SAMETALOG",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/75"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 6,
+    "weekday": "sexta",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "EMPREENDED",
+    "teacher": [
+      {
+        "name": "DEISE SILVA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/807"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-02",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/102"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 6,
+    "weekday": "quarta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "SIST SUPERVI",
+    "teacher": [
+      {
+        "name": "AMANDA GUERRA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/24"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-04",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/104"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 6,
+    "weekday": "quinta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "MANUT INDUST",
+    "teacher": [
+      {
+        "name": "CESARINO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/387"
+      }
+    ],
+    "location": [
+      {
+        "name": "SAMETALOG",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/75"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 6,
+    "weekday": "sexta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "EMPREENDED",
+    "teacher": [
+      {
+        "name": "DEISE SILVA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/807"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-02",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/102"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 6,
+    "weekday": "quarta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "SIST SUPERVI",
+    "teacher": [
+      {
+        "name": "AMANDA GUERRA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/24"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-04",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/104"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 6,
+    "weekday": "quinta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "MANUT INDUST",
+    "teacher": [
+      {
+        "name": "CESARINO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/387"
+      }
+    ],
+    "location": [
+      {
+        "name": "SAMETALOG",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/75"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 6,
+    "weekday": "sexta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "SIST INT MANUF",
+    "teacher": [
+      {
+        "name": "RAFAEL FRANKLI",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/352"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-04",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/104"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 6,
+    "weekday": "terca",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "INST PAIN IND",
+    "teacher": [
+      {
+        "name": "MENEZES FILHO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/217"
+      }
+    ],
+    "location": [
+      {
+        "name": "INST ELETR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/51"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 6,
+    "weekday": "quarta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "SIST SUPERVI",
+    "teacher": [
+      {
+        "name": "AMANDA GUERRA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/24"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-04",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/104"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 6,
+    "weekday": "sexta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "SIST INT MANUF",
+    "teacher": [
+      {
+        "name": "RAFAEL FRANKLI",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/352"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-04",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/104"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 6,
+    "weekday": "terca",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "INST PAIN IND",
+    "teacher": [
+      {
+        "name": "MENEZES FILHO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/217"
+      }
+    ],
+    "location": [
+      {
+        "name": "INST ELETR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/51"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 6,
+    "weekday": "sexta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "SIST INT MANUF",
+    "teacher": [
+      {
+        "name": "RAFAEL FRANKLI",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/352"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-04",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/104"
+      }
+    ]
+  },
+  {
+    "course": "AUTOMACAO INDUSTRIAL",
+    "semester": 6,
+    "weekday": "terca",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "INST PAIN IND",
+    "teacher": [
+      {
+        "name": "MENEZES FILHO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/217"
+      }
+    ],
+    "location": [
+      {
+        "name": "INST ELETR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/51"
+      }
+    ]
+  }
+]

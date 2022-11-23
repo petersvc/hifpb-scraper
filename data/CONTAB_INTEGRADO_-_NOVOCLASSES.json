@@ -1,0 +1,1916 @@
+[
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "FILOSOFIA I",
+    "teacher": [
+      {
+        "name": "EMMANOEL",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/112"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/94"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "INGLÊS I",
+    "teacher": [
+      {
+        "name": "ADRIANA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/7"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/94"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "CONTAB.BÁS",
+    "teacher": [
+      {
+        "name": "MARCILIO DIAS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/276"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/94"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "PORTUGUÊS I",
+    "teacher": [
+      {
+        "name": "SERGIO FILHO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/385"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/94"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "MAT FINANC",
+    "teacher": [
+      {
+        "name": "J. CARLOS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/503"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/94"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "FILOSOFIA I",
+    "teacher": [
+      {
+        "name": "EMMANOEL",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/112"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/94"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "INGLÊS I",
+    "teacher": [
+      {
+        "name": "ADRIANA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/7"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/94"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "CONTAB.BÁS",
+    "teacher": [
+      {
+        "name": "MARCILIO DIAS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/276"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/94"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "MATEMÁTICA I",
+    "teacher": [
+      {
+        "name": "ALFREDO BRITO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/176"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/94"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "MAT FINANC",
+    "teacher": [
+      {
+        "name": "J. CARLOS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/503"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/94"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "PORTUGUÊS I",
+    "teacher": [
+      {
+        "name": "SERGIO FILHO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/385"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/94"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "HISTÓRIA I",
+    "teacher": [
+      {
+        "name": "STENIO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/394"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/94"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "SOCIOLOGIA I",
+    "teacher": [
+      {
+        "name": "MARIA SUELY",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/628"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/94"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "MATEMÁTICA I",
+    "teacher": [
+      {
+        "name": "ALFREDO BRITO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/176"
+      },
+      {
+        "name": "GIOVANNI M",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/167"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/94"
+      },
+      {
+        "name": "SL INFO 12",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/1"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "FÍSICA I",
+    "teacher": [
+      {
+        "name": "WELL CAETANO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/422"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/94"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "PORTUGUÊS I",
+    "teacher": [
+      {
+        "name": "SERGIO FILHO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/385"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/94"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "HISTÓRIA I",
+    "teacher": [
+      {
+        "name": "STENIO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/394"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/94"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "SOCIOLOGIA I",
+    "teacher": [
+      {
+        "name": "MARIA SUELY",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/628"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/94"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "MATEMÁTICA I",
+    "teacher": [
+      {
+        "name": "ALFREDO BRITO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/176"
+      },
+      {
+        "name": "GIOVANNI M",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/167"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/94"
+      },
+      {
+        "name": "SL INFO 12",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/1"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "FÍSICA I",
+    "teacher": [
+      {
+        "name": "WELL CAETANO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/422"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/94"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "GEOGRAFIA I",
+    "teacher": [
+      {
+        "name": "CELSO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/69"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/94"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "QUÍMICA I",
+    "teacher": [
+      {
+        "name": "MAURICIO V",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/782"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/94"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "NDPP",
+    "teacher": [
+      {
+        "name": "MARIA DA GUIA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/874"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/94"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "MATEMÁTICA I",
+    "teacher": [
+      {
+        "name": "ALFREDO BRITO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/176"
+      },
+      {
+        "name": "GIOVANNI M",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/167"
+      },
+      {
+        "name": "INFO 57",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/134"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/94"
+      },
+      {
+        "name": "SL INFO 12",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/1"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "FÍSICA I",
+    "teacher": [
+      {
+        "name": "WELL CAETANO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/422"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/94"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "GEOGRAFIA I",
+    "teacher": [
+      {
+        "name": "CELSO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/69"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/94"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "QUÍMICA I",
+    "teacher": [
+      {
+        "name": "MAURICIO V",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/782"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/94"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "NDPP",
+    "teacher": [
+      {
+        "name": "MARIA DA GUIA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/874"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/94"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "MATEMÁTICA I",
+    "teacher": [
+      {
+        "name": "ALFREDO BRITO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/176"
+      },
+      {
+        "name": "GIOVANNI M",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/167"
+      },
+      {
+        "name": "INFO 57",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/134"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/94"
+      },
+      {
+        "name": "SL INFO 12",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/1"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "ARTES",
+    "teacher": [
+      {
+        "name": "IDALIA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/181"
+      },
+      {
+        "name": "SAMARA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/548"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 20",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/18"
+      },
+      {
+        "name": "SALA 11",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/93"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "ARTES",
+    "teacher": [
+      {
+        "name": "IDALIA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/181"
+      },
+      {
+        "name": "SAMARA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/548"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 20",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/18"
+      },
+      {
+        "name": "SALA 11",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/93"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "ED FÍSICA I",
+    "teacher": [
+      {
+        "name": "MARC BURITI",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/574"
+      }
+    ],
+    "location": []
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "ED FÍSICA I",
+    "teacher": [
+      {
+        "name": "MARC BURITI",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/574"
+      }
+    ],
+    "location": []
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "FÍSICA II",
+    "teacher": [
+      {
+        "name": "WELL CAETANO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/422"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 05",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/99"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "SOCIOLOGIA II",
+    "teacher": [
+      {
+        "name": "ALEXANDRE LIMA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/16"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 05",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/99"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "GEOGRAFIA II",
+    "teacher": [
+      {
+        "name": "JUNIOR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/491"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 05",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/99"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "MATEMÁTICA II",
+    "teacher": [
+      {
+        "name": "ROMULO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/837"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 05",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/99"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "FILOSOFIA II",
+    "teacher": [
+      {
+        "name": "ADOLFO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/5"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 05",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/99"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "FÍSICA II",
+    "teacher": [
+      {
+        "name": "WELL CAETANO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/422"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 05",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/99"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "SOCIOLOGIA II",
+    "teacher": [
+      {
+        "name": "ALEXANDRE LIMA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/16"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 05",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/99"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "GEOGRAFIA II",
+    "teacher": [
+      {
+        "name": "JUNIOR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/491"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 05",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/99"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "MATEMÁTICA II",
+    "teacher": [
+      {
+        "name": "ROMULO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/837"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 05",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/99"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "FILOSOFIA II",
+    "teacher": [
+      {
+        "name": "ADOLFO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/5"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 05",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/99"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "FÍSICA II",
+    "teacher": [
+      {
+        "name": "WELL CAETANO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/422"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 05",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/99"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "CONT CUSTOS",
+    "teacher": [
+      {
+        "name": "VILMA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/413"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 05",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/99"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "HISTÓRIA II",
+    "teacher": [
+      {
+        "name": "CANDEIA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/257"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 05",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/99"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "MATEMÁTICA II",
+    "teacher": [
+      {
+        "name": "ROMULO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/837"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 05",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/99"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "BIOLOGIA I",
+    "teacher": [
+      {
+        "name": "LUCILA KARLA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/878"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 05",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/99"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "PORTUGUÊS II",
+    "teacher": [
+      {
+        "name": "LUCIANA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/793"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 05",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/99"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "CONT CUSTOS",
+    "teacher": [
+      {
+        "name": "VILMA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/413"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 05",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/99"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "HISTÓRIA II",
+    "teacher": [
+      {
+        "name": "CANDEIA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/257"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 05",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/99"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "CONT COMERCIAL",
+    "teacher": [
+      {
+        "name": "LUZIVALDA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/264"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 05",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/99"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "BIOLOGIA I",
+    "teacher": [
+      {
+        "name": "LUCILA KARLA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/878"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 05",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/99"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "PORTUGUÊS II",
+    "teacher": [
+      {
+        "name": "LUCIANA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/793"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 05",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/99"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "INGLÊS II",
+    "teacher": [
+      {
+        "name": "ANNA LIBIA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/38"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 05",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/99"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "QUÍMICA II",
+    "teacher": [
+      {
+        "name": "EXPEDITO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/44"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 05",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/99"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "CONT COMERCIAL",
+    "teacher": [
+      {
+        "name": "LUZIVALDA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/264"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 05",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/99"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "ECO E MERC",
+    "teacher": [
+      {
+        "name": "MARCELLA T.",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/272"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 05",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/99"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "PORTUGUÊS II",
+    "teacher": [
+      {
+        "name": "LUCIANA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/793"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 05",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/99"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "INGLÊS II",
+    "teacher": [
+      {
+        "name": "ANNA LIBIA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/38"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 05",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/99"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "QUÍMICA II",
+    "teacher": [
+      {
+        "name": "EXPEDITO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/44"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 05",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/99"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "BIOLOGIA I",
+    "teacher": [
+      {
+        "name": "LUCILA KARLA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/878"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 05",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/99"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "ECO E MERC",
+    "teacher": [
+      {
+        "name": "MARCELLA T.",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/272"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 05",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/99"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "INGLÊS II",
+    "teacher": [
+      {
+        "name": "ANNA LIBIA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/38"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/94"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "GEOGRAFIA III",
+    "teacher": [
+      {
+        "name": "JUNIOR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/491"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 16",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/22"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "QUÍMICA III",
+    "teacher": [
+      {
+        "name": "EXPEDITO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/44"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 16",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/22"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "PORTUGUES III",
+    "teacher": [
+      {
+        "name": "JAEL",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/599"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 16",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/22"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "CONT PÚBLICA",
+    "teacher": [
+      {
+        "name": "VILMA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/413"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 16",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/22"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "PR CONTÁB I",
+    "teacher": [
+      {
+        "name": "GILVAN MEDEIR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/163"
+      },
+      {
+        "name": "LUZIVALDA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/264"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 14",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/25"
+      },
+      {
+        "name": "SL INFO 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/33"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "GEOGRAFIA III",
+    "teacher": [
+      {
+        "name": "JUNIOR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/491"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 16",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/22"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "QUÍMICA III",
+    "teacher": [
+      {
+        "name": "EXPEDITO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/44"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 16",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/22"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "PORTUGUES III",
+    "teacher": [
+      {
+        "name": "JAEL",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/599"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 16",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/22"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "CONT PÚBLICA",
+    "teacher": [
+      {
+        "name": "VILMA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/413"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 16",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/22"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "PR CONTÁB I",
+    "teacher": [
+      {
+        "name": "GILVAN MEDEIR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/163"
+      },
+      {
+        "name": "LUZIVALDA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/264"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 14",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/25"
+      },
+      {
+        "name": "SL INFO 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/33"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "FILO III -2ºS",
+    "teacher": [
+      {
+        "name": "EMMANOEL",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/112"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 16",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/22"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "METODOLOGIA",
+    "teacher": [
+      {
+        "name": "JE WASHINGTON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/231"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 16",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/22"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "PORTUGUES III",
+    "teacher": [
+      {
+        "name": "JAEL",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/599"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 16",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/22"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "MATEMÁTIC III",
+    "teacher": [
+      {
+        "name": "CÍCERO DEM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/148"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 16",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/22"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "PR CONTÁB I",
+    "teacher": [
+      {
+        "name": "GILVAN MEDEIR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/163"
+      },
+      {
+        "name": "LUZIVALDA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/264"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 14",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/25"
+      },
+      {
+        "name": "SL INFO 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/33"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "FILO III -2ºS",
+    "teacher": [
+      {
+        "name": "EMMANOEL",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/112"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 16",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/22"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "METODOLOGIA",
+    "teacher": [
+      {
+        "name": "JE WASHINGTON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/231"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 16",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/22"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "BIOLOGIA II",
+    "teacher": [
+      {
+        "name": "MAURICIO ZORRO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/510"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 16",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/22"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "MATEMÁTIC III",
+    "teacher": [
+      {
+        "name": "CÍCERO DEM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/148"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 16",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/22"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "PR CONTÁB I",
+    "teacher": [
+      {
+        "name": "GILVAN MEDEIR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/163"
+      },
+      {
+        "name": "LUZIVALDA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/264"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 14",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/25"
+      },
+      {
+        "name": "SL INFO 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/33"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "FÍSICA III",
+    "teacher": [
+      {
+        "name": "JONATAS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/570"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 16",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/22"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "BIOLOGIA II",
+    "teacher": [
+      {
+        "name": "MAURICIO ZORRO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/510"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 16",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/22"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "MATEMÁTIC III",
+    "teacher": [
+      {
+        "name": "CÍCERO DEM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/148"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 16",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/22"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "PR CONTÁB I",
+    "teacher": [
+      {
+        "name": "GILVAN MEDEIR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/163"
+      },
+      {
+        "name": "LUZIVALDA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/264"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 14",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/25"
+      },
+      {
+        "name": "SL INFO 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/33"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "FÍSICA III",
+    "teacher": [
+      {
+        "name": "JONATAS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/570"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 16",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/22"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "BIOLOGIA II",
+    "teacher": [
+      {
+        "name": "MAURICIO ZORRO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/510"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 16",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/22"
+      }
+    ]
+  },
+  {
+    "course": "CONTAB INTEGRADO - NOVO",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "PR CONTÁB I",
+    "teacher": [
+      {
+        "name": "GILVAN MEDEIR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/163"
+      },
+      {
+        "name": "LUZIVALDA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/264"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 14",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/25"
+      },
+      {
+        "name": "SL INFO 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/33"
+      }
+    ]
+  }
+]

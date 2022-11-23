@@ -1,0 +1,1602 @@
+[
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "DES BAS TECN",
+    "teacher": [
+      {
+        "name": "VALERIA PAZETT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/803"
+      },
+      {
+        "name": "JEFFERSON DANT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/198"
+      }
+    ],
+    "location": [
+      {
+        "name": "SDESME UA3",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/47"
+      },
+      {
+        "name": "ELETRIC I",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/19"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "ELETRICID I",
+    "teacher": [
+      {
+        "name": "MOISES TAVARES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/817"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 24",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/14"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "RHT",
+    "teacher": [
+      {
+        "name": "RENNATA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/794"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 14",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/74"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "SEG IN SER ELE",
+    "teacher": [
+      {
+        "name": "WALMERAN TRIND",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/417"
+      }
+    ],
+    "location": [
+      {
+        "name": "COM EL AUT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/10"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "INFOR BASICA",
+    "teacher": [
+      {
+        "name": "PAULO ROBERTO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/345"
+      },
+      {
+        "name": "MOISES TAVARES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/817"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 12",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/1"
+      },
+      {
+        "name": "ELETRIC I",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/19"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "DES BAS TECN",
+    "teacher": [
+      {
+        "name": "VALERIA PAZETT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/803"
+      },
+      {
+        "name": "JEFFERSON DANT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/198"
+      }
+    ],
+    "location": [
+      {
+        "name": "SDESME UA3",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/47"
+      },
+      {
+        "name": "ELETRIC I",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/19"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "ELETRICID I",
+    "teacher": [
+      {
+        "name": "MOISES TAVARES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/817"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 24",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/14"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "RHT",
+    "teacher": [
+      {
+        "name": "RENNATA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/794"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 14",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/74"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "SEG IN SER ELE",
+    "teacher": [
+      {
+        "name": "WALMERAN TRIND",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/417"
+      }
+    ],
+    "location": [
+      {
+        "name": "COM EL AUT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/10"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "INFOR BASICA",
+    "teacher": [
+      {
+        "name": "PAULO ROBERTO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/345"
+      },
+      {
+        "name": "MOISES TAVARES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/817"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 12",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/1"
+      },
+      {
+        "name": "ELETRIC I",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/19"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "DES BAS TECN",
+    "teacher": [
+      {
+        "name": "VALERIA PAZETT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/803"
+      },
+      {
+        "name": "JEFFERSON DANT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/198"
+      }
+    ],
+    "location": [
+      {
+        "name": "SDESME UA3",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/47"
+      },
+      {
+        "name": "ELETRIC I",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/19"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "ELETRICID I",
+    "teacher": [
+      {
+        "name": "MOISES TAVARES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/817"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 24",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/14"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "PORT INSTR",
+    "teacher": [
+      {
+        "name": "BRASILEIRO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/268"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 14",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/74"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "INFOR BASICA",
+    "teacher": [
+      {
+        "name": "PAULO ROBERTO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/345"
+      },
+      {
+        "name": "MOISES TAVARES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/817"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 12",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/1"
+      },
+      {
+        "name": "ELETRIC I",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/19"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "DES BAS TECN",
+    "teacher": [
+      {
+        "name": "VALERIA PAZETT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/803"
+      },
+      {
+        "name": "JEFFERSON DANT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/198"
+      }
+    ],
+    "location": [
+      {
+        "name": "SDESME UA3",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/47"
+      },
+      {
+        "name": "ELETRIC I",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/19"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "ELETRICID I",
+    "teacher": [
+      {
+        "name": "MOISES TAVARES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/817"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 24",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/14"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "PORT INSTR",
+    "teacher": [
+      {
+        "name": "BRASILEIRO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/268"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 14",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/74"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "INFOR BASICA",
+    "teacher": [
+      {
+        "name": "PAULO ROBERTO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/345"
+      },
+      {
+        "name": "MOISES TAVARES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/817"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 12",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/1"
+      },
+      {
+        "name": "ELETRIC I",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/19"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "DES ASS COMPUT",
+    "teacher": [
+      {
+        "name": "DIANA NOBRE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/93"
+      }
+    ],
+    "location": [
+      {
+        "name": "INFO 58",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/136"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "INS ELE PRED",
+    "teacher": [
+      {
+        "name": "GILVAN VIEIRA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/164"
+      }
+    ],
+    "location": [
+      {
+        "name": "INST ELETR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/51"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "ELETRICID II",
+    "teacher": [
+      {
+        "name": "MENEZES FILHO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/217"
+      }
+    ],
+    "location": [
+      {
+        "name": "ELETRIC II",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/99"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "INGLES INST",
+    "teacher": [
+      {
+        "name": "LIANE LEITÃO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/798"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 15",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/23"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "ELETRICID II",
+    "teacher": [
+      {
+        "name": "MENEZES FILHO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/217"
+      }
+    ],
+    "location": [
+      {
+        "name": "ELETRIC II",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/99"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "DES ASS COMPUT",
+    "teacher": [
+      {
+        "name": "DIANA NOBRE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/93"
+      }
+    ],
+    "location": [
+      {
+        "name": "INFO 58",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/136"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "INS ELE PRED",
+    "teacher": [
+      {
+        "name": "GILVAN VIEIRA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/164"
+      }
+    ],
+    "location": [
+      {
+        "name": "INST ELETR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/51"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "ELETRICID II",
+    "teacher": [
+      {
+        "name": "MENEZES FILHO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/217"
+      }
+    ],
+    "location": [
+      {
+        "name": "ELETRIC II",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/99"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "INGLES INST",
+    "teacher": [
+      {
+        "name": "LIANE LEITÃO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/798"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 15",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/23"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "ELETRICID II",
+    "teacher": [
+      {
+        "name": "MENEZES FILHO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/217"
+      }
+    ],
+    "location": [
+      {
+        "name": "ELETRIC II",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/99"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "DES ASS COMPUT",
+    "teacher": [
+      {
+        "name": "DIANA NOBRE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/93"
+      }
+    ],
+    "location": [
+      {
+        "name": "INFO 58",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/136"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "INS ELE PRED",
+    "teacher": [
+      {
+        "name": "GILVAN VIEIRA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/164"
+      }
+    ],
+    "location": [
+      {
+        "name": "INST ELETR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/51"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "ELETRON ANALOG",
+    "teacher": [
+      {
+        "name": "SAULO BRITO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/383"
+      }
+    ],
+    "location": [
+      {
+        "name": "ELETRIC I",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/19"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "ELETRICID II",
+    "teacher": [
+      {
+        "name": "MENEZES FILHO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/217"
+      }
+    ],
+    "location": [
+      {
+        "name": "ELETRIC II",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/99"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "DES ASS COMPUT",
+    "teacher": [
+      {
+        "name": "DIANA NOBRE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/93"
+      }
+    ],
+    "location": [
+      {
+        "name": "INFO 58",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/136"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "INS ELE PRED",
+    "teacher": [
+      {
+        "name": "GILVAN VIEIRA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/164"
+      }
+    ],
+    "location": [
+      {
+        "name": "INST ELETR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/51"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "ELETRON ANALOG",
+    "teacher": [
+      {
+        "name": "SAULO BRITO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/383"
+      }
+    ],
+    "location": [
+      {
+        "name": "ELETRIC I",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/19"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "ELETRICID II",
+    "teacher": [
+      {
+        "name": "MENEZES FILHO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/217"
+      }
+    ],
+    "location": [
+      {
+        "name": "ELETRIC II",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/99"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "PIRD",
+    "teacher": [
+      {
+        "name": "LEONARD TELINO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/251"
+      },
+      {
+        "name": "FONTES R E",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/27"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 18",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/20"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "COMANDOS ELETR",
+    "teacher": [
+      {
+        "name": "JOSE LINS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/222"
+      }
+    ],
+    "location": [
+      {
+        "name": "COM EL AUT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/10"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "AUT PREDIAL",
+    "teacher": [
+      {
+        "name": "MOISES TAVARES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/817"
+      }
+    ],
+    "location": [
+      {
+        "name": "ELETRO I",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/20"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "PIEP",
+    "teacher": [
+      {
+        "name": "MENEZES FILHO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/217"
+      }
+    ],
+    "location": [
+      {
+        "name": "MÁQ ELETR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/60"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "MAQELETRICAS",
+    "teacher": [
+      {
+        "name": "ARTUR ALVES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/214"
+      }
+    ],
+    "location": [
+      {
+        "name": "MÁQ ELETR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/60"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "PIRD",
+    "teacher": [
+      {
+        "name": "LEONARD TELINO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/251"
+      },
+      {
+        "name": "FONTES R E",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/27"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 18",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/20"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "COMANDOS ELETR",
+    "teacher": [
+      {
+        "name": "JOSE LINS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/222"
+      }
+    ],
+    "location": [
+      {
+        "name": "COM EL AUT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/10"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "AUT PREDIAL",
+    "teacher": [
+      {
+        "name": "MOISES TAVARES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/817"
+      }
+    ],
+    "location": [
+      {
+        "name": "ELETRO I",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/20"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "ELETRON INDUST",
+    "teacher": [
+      {
+        "name": "JEFFERSON DANT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/198"
+      }
+    ],
+    "location": [
+      {
+        "name": "MÁQ ELETR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/60"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "MAQELETRICAS",
+    "teacher": [
+      {
+        "name": "ARTUR ALVES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/214"
+      }
+    ],
+    "location": [
+      {
+        "name": "MÁQ ELETR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/60"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "PIRD",
+    "teacher": [
+      {
+        "name": "LEONARD TELINO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/251"
+      },
+      {
+        "name": "FONTES R E",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/27"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 18",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/20"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "COMANDOS ELETR",
+    "teacher": [
+      {
+        "name": "JOSE LINS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/222"
+      }
+    ],
+    "location": [
+      {
+        "name": "COM EL AUT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/10"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "PIEP",
+    "teacher": [
+      {
+        "name": "MENEZES FILHO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/217"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-04",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/104"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "ELETRON INDUST",
+    "teacher": [
+      {
+        "name": "JEFFERSON DANT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/198"
+      }
+    ],
+    "location": [
+      {
+        "name": "MÁQ ELETR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/60"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "LAB MAQ ELETR",
+    "teacher": [
+      {
+        "name": "ARTUR ALVES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/214"
+      }
+    ],
+    "location": [
+      {
+        "name": "MÁQ ELETR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/60"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "PIRD",
+    "teacher": [
+      {
+        "name": "LEONARD TELINO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/251"
+      },
+      {
+        "name": "FONTES R E",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/27"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 18",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/20"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "COMANDOS ELETR",
+    "teacher": [
+      {
+        "name": "JOSE LINS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/222"
+      }
+    ],
+    "location": [
+      {
+        "name": "COM EL AUT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/10"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "PIEP",
+    "teacher": [
+      {
+        "name": "MENEZES FILHO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/217"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-04",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/104"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "ELETRON INDUST",
+    "teacher": [
+      {
+        "name": "JEFFERSON DANT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/198"
+      }
+    ],
+    "location": [
+      {
+        "name": "MÁQ ELETR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/60"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "LAB MAQ ELETR",
+    "teacher": [
+      {
+        "name": "ARTUR ALVES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/214"
+      }
+    ],
+    "location": [
+      {
+        "name": "MÁQ ELETR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/60"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "AUT INDUSTR",
+    "teacher": [
+      {
+        "name": "CLAUDIO MARZO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/77"
+      }
+    ],
+    "location": [
+      {
+        "name": "COM EL AUT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/10"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "FORM EMPREENDE",
+    "teacher": [
+      {
+        "name": "ARIELLE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/50"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 22",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/16"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "MANUT EL INDU",
+    "teacher": [
+      {
+        "name": "ARACOELI",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/218"
+      }
+    ],
+    "location": [
+      {
+        "name": "IPP",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/86"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "PIEI",
+    "teacher": [
+      {
+        "name": "KALINA PEREIRA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/728"
+      }
+    ],
+    "location": [
+      {
+        "name": "INST ELETR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/51"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 4,
+    "weekday": "sexta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "CEEP",
+    "teacher": [
+      {
+        "name": "WALMERAN TRIND",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/417"
+      }
+    ],
+    "location": [
+      {
+        "name": "COM EL AUT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/10"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "AUT INDUSTR",
+    "teacher": [
+      {
+        "name": "CLAUDIO MARZO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/77"
+      }
+    ],
+    "location": [
+      {
+        "name": "COM EL AUT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/10"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "FORM EMPREENDE",
+    "teacher": [
+      {
+        "name": "ARIELLE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/50"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 22",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/16"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "MANUT EL INDU",
+    "teacher": [
+      {
+        "name": "ARACOELI",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/218"
+      }
+    ],
+    "location": [
+      {
+        "name": "IPP",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/86"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "PIEI",
+    "teacher": [
+      {
+        "name": "KALINA PEREIRA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/728"
+      }
+    ],
+    "location": [
+      {
+        "name": "INST ELETR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/51"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 4,
+    "weekday": "sexta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "CEEP",
+    "teacher": [
+      {
+        "name": "WALMERAN TRIND",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/417"
+      }
+    ],
+    "location": [
+      {
+        "name": "COM EL AUT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/10"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "AUT INDUSTR",
+    "teacher": [
+      {
+        "name": "CLAUDIO MARZO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/77"
+      }
+    ],
+    "location": [
+      {
+        "name": "COM EL AUT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/10"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "PRIN ORG TRAB",
+    "teacher": [
+      {
+        "name": "DEISE SILVA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/807"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 22",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/16"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "PROT SIST ELET",
+    "teacher": [
+      {
+        "name": "JOSE LINS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/222"
+      }
+    ],
+    "location": [
+      {
+        "name": "INST ELETR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/51"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "INFO APLIC",
+    "teacher": [
+      {
+        "name": "ARACOELI",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/218"
+      }
+    ],
+    "location": [
+      {
+        "name": "COM EL AUT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/10"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 4,
+    "weekday": "sexta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "CEEP",
+    "teacher": [
+      {
+        "name": "WALMERAN TRIND",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/417"
+      }
+    ],
+    "location": [
+      {
+        "name": "COM EL AUT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/10"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "PIEI",
+    "teacher": [
+      {
+        "name": "KALINA PEREIRA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/728"
+      }
+    ],
+    "location": [
+      {
+        "name": "COM EL AUT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/10"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "PRIN ORG TRAB",
+    "teacher": [
+      {
+        "name": "DEISE SILVA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/807"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 22",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/16"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "PROT SIST ELET",
+    "teacher": [
+      {
+        "name": "JOSE LINS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/222"
+      }
+    ],
+    "location": [
+      {
+        "name": "INST ELETR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/51"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "INFO APLIC",
+    "teacher": [
+      {
+        "name": "ARACOELI",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/218"
+      }
+    ],
+    "location": [
+      {
+        "name": "COM EL AUT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/10"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA SUBSEQUENTE NOTURNO",
+    "semester": 4,
+    "weekday": "sexta",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "MANUT EL INDU",
+    "teacher": [
+      {
+        "name": "ARACOELI",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/218"
+      }
+    ],
+    "location": [
+      {
+        "name": "COM EL AUT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/10"
+      }
+    ]
+  }
+]

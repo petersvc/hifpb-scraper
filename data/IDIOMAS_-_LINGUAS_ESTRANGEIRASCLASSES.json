@@ -1,0 +1,182 @@
+[
+  {
+    "course": "IDIOMAS - LINGUAS ESTRANGEIRAS",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "FRANCÊS 1",
+    "teacher": [
+      {
+        "name": "IVAN",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/187"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 402",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/36"
+      }
+    ]
+  },
+  {
+    "course": "IDIOMAS - LINGUAS ESTRANGEIRAS",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "FRANCÊS 1",
+    "teacher": [
+      {
+        "name": "IVAN",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/187"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 402",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/36"
+      }
+    ]
+  },
+  {
+    "course": "IDIOMAS - LINGUAS ESTRANGEIRAS",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "INGLÊS A1. I",
+    "teacher": [
+      {
+        "name": "MARIA THERESA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/304"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 302",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/82"
+      }
+    ]
+  },
+  {
+    "course": "IDIOMAS - LINGUAS ESTRANGEIRAS",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "INGLÊS A1. I",
+    "teacher": [
+      {
+        "name": "MARIA THERESA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/304"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 302",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/82"
+      }
+    ]
+  },
+  {
+    "course": "IDIOMAS - LINGUAS ESTRANGEIRAS",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "INGLÊS A1. I",
+    "teacher": [
+      {
+        "name": "MARIA THERESA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/304"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 302",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/82"
+      }
+    ]
+  },
+  {
+    "course": "IDIOMAS - LINGUAS ESTRANGEIRAS",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "ESPANHOL A1.2",
+    "teacher": [
+      {
+        "name": "VALDELUCIA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/405"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 29",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/51"
+      }
+    ]
+  },
+  {
+    "course": "IDIOMAS - LINGUAS ESTRANGEIRAS",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "ESPANHOL A1.2",
+    "teacher": [
+      {
+        "name": "VALDELUCIA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/405"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 29",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/51"
+      }
+    ]
+  },
+  {
+    "course": "IDIOMAS - LINGUAS ESTRANGEIRAS",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "ESPANHOL A1.1",
+    "teacher": [
+      {
+        "name": "JAEL",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/599"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 16",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/22"
+      }
+    ]
+  },
+  {
+    "course": "IDIOMAS - LINGUAS ESTRANGEIRAS",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "ESPANHOL A1.1",
+    "teacher": [
+      {
+        "name": "JAEL",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/599"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 16",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/22"
+      }
+    ]
+  }
+]

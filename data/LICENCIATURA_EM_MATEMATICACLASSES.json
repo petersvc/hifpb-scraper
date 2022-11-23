@@ -1,0 +1,3448 @@
+[
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "ARGUMENTAÇÃO",
+    "teacher": [
+      {
+        "name": "CÍCERO DEM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/148"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 304",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/28"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "MATEMATICA I",
+    "teacher": [
+      {
+        "name": "WASHINGTON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/146"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 304",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/28"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "EDU DIR HUM",
+    "teacher": [
+      {
+        "name": "ALEXANDRE LIMA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/16"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 304",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/28"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "ARGUMENTAÇÃO",
+    "teacher": [
+      {
+        "name": "CÍCERO DEM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/148"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 304",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/28"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "MATEMATICA FUN",
+    "teacher": [
+      {
+        "name": "SUZANY",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/840"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 304",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/28"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "ARGUMENTAÇÃO",
+    "teacher": [
+      {
+        "name": "CÍCERO DEM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/148"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 304",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/28"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "MATEMATICA I",
+    "teacher": [
+      {
+        "name": "WASHINGTON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/146"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 304",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/28"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "EDU DIR HUM",
+    "teacher": [
+      {
+        "name": "ALEXANDRE LIMA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/16"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 304",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/28"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "MATEMATICA FUN",
+    "teacher": [
+      {
+        "name": "SUZANY",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/840"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 304",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/28"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "MATEMATICA FUN",
+    "teacher": [
+      {
+        "name": "SUZANY",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/840"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 304",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/28"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "ARGUMENTAÇÃO",
+    "teacher": [
+      {
+        "name": "CÍCERO DEM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/148"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 304",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/28"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "PORTUGUÊS",
+    "teacher": [
+      {
+        "name": "THALYNE KEILA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/391"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 304",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/28"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "EDU DIR HUM",
+    "teacher": [
+      {
+        "name": "ALEXANDRE LIMA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/16"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 304",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/28"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "MATEMATICA FUN",
+    "teacher": [
+      {
+        "name": "SUZANY",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/840"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 304",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/28"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "PORTUGUÊS",
+    "teacher": [
+      {
+        "name": "THALYNE KEILA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/391"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 304",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/28"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "HIST. DA EDU",
+    "teacher": [
+      {
+        "name": "CANDEIA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/257"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 304",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/28"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "PORTUGUÊS",
+    "teacher": [
+      {
+        "name": "THALYNE KEILA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/391"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 304",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/28"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "MATEMATICA I",
+    "teacher": [
+      {
+        "name": "WASHINGTON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/146"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 304",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/28"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "PORTUGUÊS",
+    "teacher": [
+      {
+        "name": "THALYNE KEILA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/391"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 304",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/28"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "HIST. DA EDU",
+    "teacher": [
+      {
+        "name": "CANDEIA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/257"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 304",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/28"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "MATEMATICA I",
+    "teacher": [
+      {
+        "name": "WASHINGTON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/146"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 304",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/28"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "HIST. DA EDU",
+    "teacher": [
+      {
+        "name": "CANDEIA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/257"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 304",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/28"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "PSIC EDU",
+    "teacher": [
+      {
+        "name": "GEOVANA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/155"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 305",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/79"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "ESTR FEB",
+    "teacher": [
+      {
+        "name": "ISMAEL",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/184"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 305",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/79"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "PSIC EDU",
+    "teacher": [
+      {
+        "name": "GEOVANA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/155"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 305",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/79"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "MATEMATICA II",
+    "teacher": [
+      {
+        "name": "WASHINGTON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/146"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 305",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/79"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "TRIGONOMETRIA",
+    "teacher": [
+      {
+        "name": "GUTEMBERG",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/46"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 305",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/79"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "PSIC EDU",
+    "teacher": [
+      {
+        "name": "GEOVANA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/155"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 305",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/79"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "ESTR FEB",
+    "teacher": [
+      {
+        "name": "ISMAEL",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/184"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 305",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/79"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "PSIC EDU",
+    "teacher": [
+      {
+        "name": "GEOVANA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/155"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 305",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/79"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "MATEMATICA II",
+    "teacher": [
+      {
+        "name": "WASHINGTON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/146"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 305",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/79"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "TRIGONOMETRIA",
+    "teacher": [
+      {
+        "name": "GUTEMBERG",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/46"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 305",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/79"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "ESTR FEB",
+    "teacher": [
+      {
+        "name": "ISMAEL",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/184"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 305",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/79"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "MATEMATICA II",
+    "teacher": [
+      {
+        "name": "WASHINGTON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/146"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 305",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/79"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "GEOMETRIA",
+    "teacher": [
+      {
+        "name": "CÍCERO DEM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/148"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 305",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/79"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "LIBRAS",
+    "teacher": [
+      {
+        "name": "THAYSE MILAM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/873"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 305",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/79"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "LIBRAS",
+    "teacher": [
+      {
+        "name": "THAYSE MILAM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/873"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 305",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/79"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "GEOMETRIA",
+    "teacher": [
+      {
+        "name": "CÍCERO DEM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/148"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 305",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/79"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "MATEMATICA II",
+    "teacher": [
+      {
+        "name": "WASHINGTON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/146"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 305",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/79"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "GEOMETRIA",
+    "teacher": [
+      {
+        "name": "CÍCERO DEM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/148"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 305",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/79"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "LIBRAS",
+    "teacher": [
+      {
+        "name": "THAYSE MILAM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/873"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 305",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/79"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "LIBRAS",
+    "teacher": [
+      {
+        "name": "THAYSE MILAM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/873"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 305",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/79"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "GEOMETRIA",
+    "teacher": [
+      {
+        "name": "CÍCERO DEM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/148"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 305",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/79"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "TRIGONOMETRIA",
+    "teacher": [
+      {
+        "name": "GUTEMBERG",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/46"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 305",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/79"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "TRIGONOMETRIA",
+    "teacher": [
+      {
+        "name": "GUTEMBERG",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/46"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 305",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/79"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "CALCULO I",
+    "teacher": [
+      {
+        "name": "PEDRO E. - MAT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/754"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 306",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/91"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "ALGEBRA VET",
+    "teacher": [
+      {
+        "name": "WALLACE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/270"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 306",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/91"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "MATEMATICA III",
+    "teacher": [
+      {
+        "name": "EDNALDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/258"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 306",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/91"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "CALCULO I",
+    "teacher": [
+      {
+        "name": "PEDRO E. - MAT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/754"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 306",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/91"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "LAB MAT I",
+    "teacher": [
+      {
+        "name": "YARA RABAY",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/425"
+      }
+    ],
+    "location": []
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "MATEMATICA III",
+    "teacher": [
+      {
+        "name": "EDNALDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/258"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 306",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/91"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "ALGEBRA VET",
+    "teacher": [
+      {
+        "name": "WALLACE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/270"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 306",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/91"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "MATEMATICA III",
+    "teacher": [
+      {
+        "name": "EDNALDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/258"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 306",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/91"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "CALCULO I",
+    "teacher": [
+      {
+        "name": "PEDRO E. - MAT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/754"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 306",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/91"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "LAB MAT I",
+    "teacher": [
+      {
+        "name": "YARA RABAY",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/425"
+      }
+    ],
+    "location": []
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "MATEMATICA III",
+    "teacher": [
+      {
+        "name": "EDNALDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/258"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 306",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/91"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "CALCULO I",
+    "teacher": [
+      {
+        "name": "PEDRO E. - MAT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/754"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 306",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/91"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "LAB MAT I",
+    "teacher": [
+      {
+        "name": "YARA RABAY",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/425"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 12",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/1"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "DIDATICA GERAL",
+    "teacher": [
+      {
+        "name": "GEOVANA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/155"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 306",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/91"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "DIDATICA GERAL",
+    "teacher": [
+      {
+        "name": "GEOVANA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/155"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 306",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/91"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "ALGEBRA VET",
+    "teacher": [
+      {
+        "name": "WALLACE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/270"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 306",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/91"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "CALCULO I",
+    "teacher": [
+      {
+        "name": "PEDRO E. - MAT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/754"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 306",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/91"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "LAB MAT I",
+    "teacher": [
+      {
+        "name": "YARA RABAY",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/425"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 12",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/1"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "DIDATICA GERAL",
+    "teacher": [
+      {
+        "name": "GEOVANA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/155"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 306",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/91"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "DIDATICA GERAL",
+    "teacher": [
+      {
+        "name": "GEOVANA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/155"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 306",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/91"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "ALGEBRA VET",
+    "teacher": [
+      {
+        "name": "WALLACE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/270"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 306",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/91"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "EDUC AMB SUST",
+    "teacher": [
+      {
+        "name": "KELIANA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/436"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 401",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/24"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "CÁLCULO II",
+    "teacher": [
+      {
+        "name": "LUCAS ARAUJO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/841"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 16",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/22"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "CÁLCULO II",
+    "teacher": [
+      {
+        "name": "LUCAS ARAUJO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/841"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 402",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/36"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "EDUC AMB SUST",
+    "teacher": [
+      {
+        "name": "KELIANA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/436"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 401",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/24"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "FÍSICA I",
+    "teacher": [
+      {
+        "name": "JOAO LUIS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/822"
+      }
+    ],
+    "location": [
+      {
+        "name": "LAB FÍSIC",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/25"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "CÁLCULO II",
+    "teacher": [
+      {
+        "name": "LUCAS ARAUJO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/841"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 16",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/22"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "CÁLCULO II",
+    "teacher": [
+      {
+        "name": "LUCAS ARAUJO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/841"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 402",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/36"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "EDUC AMB SUST",
+    "teacher": [
+      {
+        "name": "KELIANA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/436"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 401",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/24"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "FÍSICA I",
+    "teacher": [
+      {
+        "name": "JOAO LUIS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/822"
+      }
+    ],
+    "location": [
+      {
+        "name": "LAB FÍSIC",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/25"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "CÁLCULO II",
+    "teacher": [
+      {
+        "name": "LUCAS ARAUJO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/841"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 16",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/22"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "FÍSICA I",
+    "teacher": [
+      {
+        "name": "JOAO LUIS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/822"
+      }
+    ],
+    "location": [
+      {
+        "name": "LAB FÍSIC",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/25"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 4,
+    "weekday": "sexta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "LAB MAT II",
+    "teacher": [
+      {
+        "name": "YARA RABAY",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/425"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 13",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/26"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "GEOM ESPACIAL",
+    "teacher": [
+      {
+        "name": "CÍCERO DEM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/148"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 401",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/24"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "DES GEOMÉT",
+    "teacher": [
+      {
+        "name": "ROMULO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/837"
+      }
+    ],
+    "location": [
+      {
+        "name": "SDES. 03",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/52"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "LAB MAT II",
+    "teacher": [
+      {
+        "name": "YARA RABAY",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/425"
+      }
+    ],
+    "location": [
+      {
+        "name": "LAB MAT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/43"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "FÍSICA I",
+    "teacher": [
+      {
+        "name": "JOAO LUIS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/822"
+      }
+    ],
+    "location": [
+      {
+        "name": "LAB FÍSIC",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/25"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 4,
+    "weekday": "sexta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "LAB MAT II",
+    "teacher": [
+      {
+        "name": "YARA RABAY",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/425"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 13",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/26"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "GEOM ESPACIAL",
+    "teacher": [
+      {
+        "name": "CÍCERO DEM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/148"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 401",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/24"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "DES GEOMÉT",
+    "teacher": [
+      {
+        "name": "ROMULO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/837"
+      }
+    ],
+    "location": [
+      {
+        "name": "SDES. 03",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/52"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "LAB MAT II",
+    "teacher": [
+      {
+        "name": "YARA RABAY",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/425"
+      }
+    ],
+    "location": [
+      {
+        "name": "LAB MAT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/43"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 4,
+    "weekday": "sexta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "GEOM ESPACIAL",
+    "teacher": [
+      {
+        "name": "CÍCERO DEM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/148"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 401",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/24"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "DES GEOMÉT",
+    "teacher": [
+      {
+        "name": "ROMULO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/837"
+      }
+    ],
+    "location": [
+      {
+        "name": "SDES. 03",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/52"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 4,
+    "weekday": "sexta",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "GEOM ESPACIAL",
+    "teacher": [
+      {
+        "name": "CÍCERO DEM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/148"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 401",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/24"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 5,
+    "weekday": "segunda",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "EST SUPERV I",
+    "teacher": [
+      {
+        "name": "YARA RABAY",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/425"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 405",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/39"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 5,
+    "weekday": "quarta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "INF AP ENS MAT",
+    "teacher": [
+      {
+        "name": "WALLACE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/270"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 14",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/25"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 5,
+    "weekday": "quinta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "EST SUPERV I",
+    "teacher": [
+      {
+        "name": "YARA RABAY",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/425"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 405",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/39"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 5,
+    "weekday": "sexta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "CÁLCULO III",
+    "teacher": [
+      {
+        "name": "PEDRO E. - MAT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/754"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 405",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/39"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 5,
+    "weekday": "segunda",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "EST SUPERV I",
+    "teacher": [
+      {
+        "name": "YARA RABAY",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/425"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 405",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/39"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 5,
+    "weekday": "terca",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "GEST EDUCAC",
+    "teacher": [
+      {
+        "name": "JOSALI AMARAL",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/45"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 405",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/39"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 5,
+    "weekday": "quarta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "INF AP ENS MAT",
+    "teacher": [
+      {
+        "name": "WALLACE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/270"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 14",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/25"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 5,
+    "weekday": "quinta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "EST SUPERV I",
+    "teacher": [
+      {
+        "name": "YARA RABAY",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/425"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 405",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/39"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 5,
+    "weekday": "sexta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "CÁLCULO III",
+    "teacher": [
+      {
+        "name": "PEDRO E. - MAT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/754"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 405",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/39"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 5,
+    "weekday": "segunda",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "EST SUPERV I",
+    "teacher": [
+      {
+        "name": "YARA RABAY",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/425"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 405",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/39"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 5,
+    "weekday": "terca",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "GEST EDUCAC",
+    "teacher": [
+      {
+        "name": "JOSALI AMARAL",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/45"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 405",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/39"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 5,
+    "weekday": "quarta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "INF AP ENS MAT",
+    "teacher": [
+      {
+        "name": "WALLACE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/270"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 14",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/25"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 5,
+    "weekday": "quinta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "EST SUPERV I",
+    "teacher": [
+      {
+        "name": "YARA RABAY",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/425"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 405",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/39"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 5,
+    "weekday": "sexta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "ÁLG LINEAR",
+    "teacher": [
+      {
+        "name": "FLAVIO ALVES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/133"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 405",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/39"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 5,
+    "weekday": "segunda",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "FÍSICA II",
+    "teacher": [
+      {
+        "name": "VALDIELIO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/825"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 405",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/39"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 5,
+    "weekday": "terca",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "CÁLCULO III",
+    "teacher": [
+      {
+        "name": "PEDRO E. - MAT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/754"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 405",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/39"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 5,
+    "weekday": "quarta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "FÍSICA II",
+    "teacher": [
+      {
+        "name": "VALDIELIO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/825"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 405",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/39"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 5,
+    "weekday": "quinta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "ÁLG LINEAR",
+    "teacher": [
+      {
+        "name": "FLAVIO ALVES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/133"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 405",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/39"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 5,
+    "weekday": "sexta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "ÁLG LINEAR",
+    "teacher": [
+      {
+        "name": "FLAVIO ALVES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/133"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 405",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/39"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 5,
+    "weekday": "terca",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "CÁLCULO III",
+    "teacher": [
+      {
+        "name": "PEDRO E. - MAT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/754"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 405",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/39"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 5,
+    "weekday": "quarta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "FÍSICA II",
+    "teacher": [
+      {
+        "name": "VALDIELIO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/825"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 405",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/39"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 5,
+    "weekday": "quinta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "ÁLG LINEAR",
+    "teacher": [
+      {
+        "name": "FLAVIO ALVES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/133"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 405",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/39"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 5,
+    "weekday": "sexta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "GEST EDUCAC",
+    "teacher": [
+      {
+        "name": "JOSALI AMARAL",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/45"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 405",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/39"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 5,
+    "weekday": "terca",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "CÁLCULO III",
+    "teacher": [
+      {
+        "name": "PEDRO E. - MAT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/754"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 405",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/39"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 5,
+    "weekday": "sexta",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "GEST EDUCAC",
+    "teacher": [
+      {
+        "name": "JOSALI AMARAL",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/45"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 405",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/39"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 6,
+    "weekday": "segunda",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "TEORIA DOS NUM",
+    "teacher": [
+      {
+        "name": "LUCAS ARAUJO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/841"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 406",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/59"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 6,
+    "weekday": "terca",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "EST SUPERV II",
+    "teacher": [
+      {
+        "name": "HELDER ALVES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/173"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 406",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/59"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 6,
+    "weekday": "segunda",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "TEORIA DOS NUM",
+    "teacher": [
+      {
+        "name": "LUCAS ARAUJO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/841"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 406",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/59"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 6,
+    "weekday": "terca",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "EST SUPERV II",
+    "teacher": [
+      {
+        "name": "HELDER ALVES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/173"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 406",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/59"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 6,
+    "weekday": "quarta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "EDO",
+    "teacher": [
+      {
+        "name": "HELDER ALVES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/173"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 406",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/59"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 6,
+    "weekday": "quinta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "EDO",
+    "teacher": [
+      {
+        "name": "HELDER ALVES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/173"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 406",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/59"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 6,
+    "weekday": "sexta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "AN COMB E PROB",
+    "teacher": [
+      {
+        "name": "DANIEL",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/86"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 406",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/59"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 6,
+    "weekday": "segunda",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "AN COMB E PROB",
+    "teacher": [
+      {
+        "name": "DANIEL",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/86"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 406",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/59"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 6,
+    "weekday": "terca",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "EST SUPERV II",
+    "teacher": [
+      {
+        "name": "HELDER ALVES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/173"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 406",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/59"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 6,
+    "weekday": "quarta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "EDO",
+    "teacher": [
+      {
+        "name": "HELDER ALVES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/173"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 406",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/59"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 6,
+    "weekday": "quinta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "EDO",
+    "teacher": [
+      {
+        "name": "HELDER ALVES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/173"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 406",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/59"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 6,
+    "weekday": "sexta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "AN COMB E PROB",
+    "teacher": [
+      {
+        "name": "DANIEL",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/86"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 406",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/59"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 6,
+    "weekday": "segunda",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "AN COMB E PROB",
+    "teacher": [
+      {
+        "name": "DANIEL",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/86"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 406",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/59"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 6,
+    "weekday": "terca",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "SOCIOLOGIA EDU",
+    "teacher": [
+      {
+        "name": "ALEXANDRE LIMA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/16"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 406",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/59"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 6,
+    "weekday": "quarta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "TEORIA DOS NUM",
+    "teacher": [
+      {
+        "name": "LUCAS ARAUJO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/841"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 406",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/59"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 6,
+    "weekday": "quinta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "SOCIOLOGIA EDU",
+    "teacher": [
+      {
+        "name": "ALEXANDRE LIMA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/16"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 406",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/59"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 6,
+    "weekday": "sexta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "EST SUPERV II",
+    "teacher": [
+      {
+        "name": "HELDER ALVES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/173"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 406",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/59"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 6,
+    "weekday": "terca",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "SOCIOLOGIA EDU",
+    "teacher": [
+      {
+        "name": "ALEXANDRE LIMA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/16"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 406",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/59"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 6,
+    "weekday": "quarta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "TEORIA DOS NUM",
+    "teacher": [
+      {
+        "name": "LUCAS ARAUJO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/841"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 406",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/59"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 6,
+    "weekday": "quinta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "SOCIOLOGIA EDU",
+    "teacher": [
+      {
+        "name": "ALEXANDRE LIMA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/16"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 406",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/59"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 6,
+    "weekday": "sexta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "EST SUPERV II",
+    "teacher": [
+      {
+        "name": "HELDER ALVES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/173"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 406",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/59"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 6,
+    "weekday": "sexta",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "EST SUPERV II",
+    "teacher": [
+      {
+        "name": "HELDER ALVES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/173"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 406",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/59"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 7,
+    "weekday": "segunda",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "ESTATÍSTICA",
+    "teacher": [
+      {
+        "name": "DANIEL",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/86"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 102",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/84"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 7,
+    "weekday": "quarta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "PESQ EDU MAT",
+    "teacher": [
+      {
+        "name": "RAFAEL BARROS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/353"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 102",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/84"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 7,
+    "weekday": "segunda",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "ESTATÍSTICA",
+    "teacher": [
+      {
+        "name": "DANIEL",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/86"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 102",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/84"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 7,
+    "weekday": "quarta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "PESQ EDU MAT",
+    "teacher": [
+      {
+        "name": "RAFAEL BARROS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/353"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 102",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/84"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 7,
+    "weekday": "quinta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "EST ALGÉBRIC",
+    "teacher": [
+      {
+        "name": "FLAVIO ALVES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/133"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 102",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/84"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 7,
+    "weekday": "quarta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "PESQ EDU MAT",
+    "teacher": [
+      {
+        "name": "RAFAEL BARROS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/353"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 102",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/84"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 7,
+    "weekday": "quinta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "EST ALGÉBRIC",
+    "teacher": [
+      {
+        "name": "FLAVIO ALVES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/133"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 102",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/84"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 7,
+    "weekday": "sexta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "AVAL APREND",
+    "teacher": [
+      {
+        "name": "MAIZA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/100"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 102",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/84"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 7,
+    "weekday": "terca",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "EST ALGÉBRIC",
+    "teacher": [
+      {
+        "name": "FLAVIO ALVES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/133"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 15",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/23"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 7,
+    "weekday": "quinta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "MAT FINANC",
+    "teacher": [
+      {
+        "name": "EDNALDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/258"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 102",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/84"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 7,
+    "weekday": "sexta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "AVAL APREND",
+    "teacher": [
+      {
+        "name": "MAIZA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/100"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 102",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/84"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 7,
+    "weekday": "terca",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "EST ALGÉBRIC",
+    "teacher": [
+      {
+        "name": "FLAVIO ALVES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/133"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 15",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/23"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 7,
+    "weekday": "quarta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "ESTATÍSTICA",
+    "teacher": [
+      {
+        "name": "DANIEL",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/86"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 102",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/84"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 7,
+    "weekday": "quinta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "MAT FINANC",
+    "teacher": [
+      {
+        "name": "EDNALDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/258"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 102",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/84"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 7,
+    "weekday": "sexta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "AVAL APREND",
+    "teacher": [
+      {
+        "name": "MAIZA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/100"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 102",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/84"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 7,
+    "weekday": "quarta",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "ESTATÍSTICA",
+    "teacher": [
+      {
+        "name": "DANIEL",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/86"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 102",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/84"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 7,
+    "weekday": "quinta",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "MAT FINANC",
+    "teacher": [
+      {
+        "name": "EDNALDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/258"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 102",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/84"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 8,
+    "weekday": "segunda",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "TCC",
+    "teacher": [
+      {
+        "name": "MARTA MACENA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/312"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 103",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/102"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 8,
+    "weekday": "quarta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "HIST MATEMATIC",
+    "teacher": [
+      {
+        "name": "SUZANY",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/840"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 103",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/102"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 8,
+    "weekday": "quinta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "TCC",
+    "teacher": [
+      {
+        "name": "MARTA MACENA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/312"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 31",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/85"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 8,
+    "weekday": "segunda",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "TCC",
+    "teacher": [
+      {
+        "name": "MARTA MACENA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/312"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 103",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/102"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 8,
+    "weekday": "quarta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "HIST MATEMATIC",
+    "teacher": [
+      {
+        "name": "SUZANY",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/840"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 103",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/102"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 8,
+    "weekday": "quinta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "TCC",
+    "teacher": [
+      {
+        "name": "MARTA MACENA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/312"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 31",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/85"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 8,
+    "weekday": "segunda",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "ANALISE REAL",
+    "teacher": [
+      {
+        "name": "LUCAS ARAUJO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/841"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 103",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/102"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 8,
+    "weekday": "quarta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "OPTATIVA 1",
+    "teacher": [
+      {
+        "name": "SOLANGE MAIMON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/829"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 103",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/102"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 8,
+    "weekday": "quinta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "ANALISE REAL",
+    "teacher": [
+      {
+        "name": "LUCAS ARAUJO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/841"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 303",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/90"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 8,
+    "weekday": "sexta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "OPTATIVA 2",
+    "teacher": [
+      {
+        "name": "SEM PROF.UA4",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/75"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 302",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/82"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 8,
+    "weekday": "segunda",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "ANALISE REAL",
+    "teacher": [
+      {
+        "name": "LUCAS ARAUJO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/841"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 103",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/102"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 8,
+    "weekday": "quarta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "OPTATIVA 1",
+    "teacher": [
+      {
+        "name": "SOLANGE MAIMON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/829"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 103",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/102"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 8,
+    "weekday": "quinta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "ANALISE REAL",
+    "teacher": [
+      {
+        "name": "LUCAS ARAUJO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/841"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 303",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/90"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 8,
+    "weekday": "segunda",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "HIST MATEMATIC",
+    "teacher": [
+      {
+        "name": "SUZANY",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/840"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 103",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/102"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 8,
+    "weekday": "quarta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "OPTATIVA 2",
+    "teacher": [
+      {
+        "name": "SEM PROF.UA4",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/75"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 103",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/102"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 8,
+    "weekday": "quinta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "OPTATIVA 1",
+    "teacher": [
+      {
+        "name": "SOLANGE MAIMON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/829"
+      },
+      {
+        "name": "SEM PROF.UA4",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/75"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 401",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/24"
+      },
+      {
+        "name": "SALA 101",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/66"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 8,
+    "weekday": "segunda",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "HIST MATEMATIC",
+    "teacher": [
+      {
+        "name": "SUZANY",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/840"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 103",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/102"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 8,
+    "weekday": "quarta",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "OPTATIVA 2",
+    "teacher": [
+      {
+        "name": "SEM PROF.UA4",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/75"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 103",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/102"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM MATEMATICA",
+    "semester": 8,
+    "weekday": "quinta",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "OPTATIVA 1",
+    "teacher": [
+      {
+        "name": "SOLANGE MAIMON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/829"
+      },
+      {
+        "name": "SEM PROF.UA4",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/75"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 401",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/24"
+      },
+      {
+        "name": "SALA 101",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/66"
+      }
+    ]
+  }
+]

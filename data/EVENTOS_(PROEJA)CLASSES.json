@@ -1,0 +1,2822 @@
+[
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "MATEMATICA I",
+    "teacher": [
+      {
+        "name": "EWERTON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/805"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 12",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/2"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "ESPANHOL I",
+    "teacher": [
+      {
+        "name": "VALDELUCIA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/405"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 12",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/2"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "HISTORIA I",
+    "teacher": [
+      {
+        "name": "CANDEIA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/257"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 12",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/2"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "PORTUGUÊS I",
+    "teacher": [
+      {
+        "name": "JOÃO EDSON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/831"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 12",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/2"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "INF BASICA 1",
+    "teacher": [
+      {
+        "name": "SILVIO LUCAS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/267"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/68"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "MATEMATICA I",
+    "teacher": [
+      {
+        "name": "EWERTON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/805"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 12",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/2"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "ESPANHOL I",
+    "teacher": [
+      {
+        "name": "VALDELUCIA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/405"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 12",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/2"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "MATEMATICA I",
+    "teacher": [
+      {
+        "name": "EWERTON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/805"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 12",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/2"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "PORTUGUÊS I",
+    "teacher": [
+      {
+        "name": "JOÃO EDSON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/831"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 12",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/2"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "INF BASICA 1",
+    "teacher": [
+      {
+        "name": "SILVIO LUCAS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/267"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/68"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "HISTORIA I",
+    "teacher": [
+      {
+        "name": "CANDEIA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/257"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 12",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/2"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "GEOGRAFIA I",
+    "teacher": [
+      {
+        "name": "JUNIOR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/491"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 12",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/2"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "INTR EVENTOS",
+    "teacher": [
+      {
+        "name": "TIAGO ZAIDAN",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/539"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 12",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/2"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "PORTUGUÊS I",
+    "teacher": [
+      {
+        "name": "JOÃO EDSON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/831"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 12",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/2"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "PR INTEGR I",
+    "teacher": [
+      {
+        "name": "DEISE SILVA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/807"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 12",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/2"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "HISTORIA I",
+    "teacher": [
+      {
+        "name": "CANDEIA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/257"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 12",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/2"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "GEOGRAFIA I",
+    "teacher": [
+      {
+        "name": "JUNIOR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/491"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 12",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/2"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "INTR EVENTOS",
+    "teacher": [
+      {
+        "name": "TIAGO ZAIDAN",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/539"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 12",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/2"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "GEOGRAFIA I",
+    "teacher": [
+      {
+        "name": "JUNIOR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/491"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 12",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/2"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "PR INTEGR I",
+    "teacher": [
+      {
+        "name": "DEISE SILVA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/807"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 12",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/2"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "PR PROF I",
+    "teacher": [
+      {
+        "name": "DEISE SILVA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/807"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 12",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/2"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "PR PROF I",
+    "teacher": [
+      {
+        "name": "DEISE SILVA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/807"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 12",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/2"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "HISTÓRIA II",
+    "teacher": [
+      {
+        "name": "CANDEIA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/257"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 11",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/93"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "GEOGRAFIA II",
+    "teacher": [
+      {
+        "name": "JUNIOR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/491"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 11",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/93"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "BIOLOGIA I",
+    "teacher": [
+      {
+        "name": "ROSI D ANDREA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/376"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 11",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/93"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "INF BASICA II",
+    "teacher": [
+      {
+        "name": "GIOVANNI M",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/167"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 14",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/25"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "PORTUGUÊS II",
+    "teacher": [
+      {
+        "name": "JAEL",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/599"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 11",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/93"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "HISTÓRIA II",
+    "teacher": [
+      {
+        "name": "CANDEIA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/257"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 11",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/93"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "GEOGRAFIA II",
+    "teacher": [
+      {
+        "name": "JUNIOR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/491"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 11",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/93"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "BIOLOGIA I",
+    "teacher": [
+      {
+        "name": "ROSI D ANDREA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/376"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 11",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/93"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "INF BASICA II",
+    "teacher": [
+      {
+        "name": "GIOVANNI M",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/167"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 14",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/25"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "PORTUGUÊS II",
+    "teacher": [
+      {
+        "name": "JAEL",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/599"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 11",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/93"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "MATEMÁTICA II",
+    "teacher": [
+      {
+        "name": "EWERTON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/805"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 11",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/93"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "ESPANHOL II",
+    "teacher": [
+      {
+        "name": "VALDELUCIA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/405"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 11",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/93"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "PR INTEGR II",
+    "teacher": [
+      {
+        "name": "ELTON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/811"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 11",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/93"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "PLAN ORG I",
+    "teacher": [
+      {
+        "name": "MARIA RITA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/301"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 11",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/93"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "PORTUGUÊS II",
+    "teacher": [
+      {
+        "name": "JAEL",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/599"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 11",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/93"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "MATEMÁTICA II",
+    "teacher": [
+      {
+        "name": "EWERTON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/805"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 11",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/93"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "ESPANHOL II",
+    "teacher": [
+      {
+        "name": "VALDELUCIA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/405"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 11",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/93"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "PR INTEGR II",
+    "teacher": [
+      {
+        "name": "ELTON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/811"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 11",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/93"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "PLAN ORG I",
+    "teacher": [
+      {
+        "name": "MARIA RITA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/301"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 11",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/93"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "MATEMÁTICA II",
+    "teacher": [
+      {
+        "name": "EWERTON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/805"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 11",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/93"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "PR PROF II",
+    "teacher": [
+      {
+        "name": "ELTON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/811"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 11",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/93"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "PR PROF II",
+    "teacher": [
+      {
+        "name": "ELTON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/811"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 11",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/93"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "PORTUGUÊS III",
+    "teacher": [
+      {
+        "name": "SERGIO FILHO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/385"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 403",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/37"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "FILOSOFIA",
+    "teacher": [
+      {
+        "name": "PAULA ALVES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/810"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 403",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/37"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "PROTOCOLO I",
+    "teacher": [
+      {
+        "name": "MARIA RITA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/301"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 403",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/37"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "PR INTEGR III",
+    "teacher": [
+      {
+        "name": "MARIA RITA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/301"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 403",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/37"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "MATEMATICA III",
+    "teacher": [
+      {
+        "name": "EWERTON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/805"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 403",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/37"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "PORTUGUÊS III",
+    "teacher": [
+      {
+        "name": "SERGIO FILHO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/385"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 403",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/37"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "FILOSOFIA",
+    "teacher": [
+      {
+        "name": "PAULA ALVES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/810"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 403",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/37"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "PROTOCOLO I",
+    "teacher": [
+      {
+        "name": "MARIA RITA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/301"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 403",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/37"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "PR INTEGR III",
+    "teacher": [
+      {
+        "name": "MARIA RITA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/301"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 403",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/37"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "MATEMATICA III",
+    "teacher": [
+      {
+        "name": "EWERTON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/805"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 403",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/37"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "PORTUGUÊS III",
+    "teacher": [
+      {
+        "name": "SERGIO FILHO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/385"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 403",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/37"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "FÍSICA I",
+    "teacher": [
+      {
+        "name": "JOSE GILBERTO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/220"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 403",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/37"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "BIOLOGIA II",
+    "teacher": [
+      {
+        "name": "ROSI D ANDREA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/376"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 403",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/37"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "PLAN ORG II",
+    "teacher": [
+      {
+        "name": "DEISE SILVA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/807"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 403",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/37"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "QUIMICA I",
+    "teacher": [
+      {
+        "name": "EXPEDITO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/44"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 403",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/37"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "QUIMICA I",
+    "teacher": [
+      {
+        "name": "EXPEDITO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/44"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 403",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/37"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "FÍSICA I",
+    "teacher": [
+      {
+        "name": "JOSE GILBERTO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/220"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 403",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/37"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "BIOLOGIA II",
+    "teacher": [
+      {
+        "name": "ROSI D ANDREA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/376"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 403",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/37"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "PLAN ORG II",
+    "teacher": [
+      {
+        "name": "DEISE SILVA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/807"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 403",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/37"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "QUIMICA I",
+    "teacher": [
+      {
+        "name": "EXPEDITO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/44"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 403",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/37"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "PR PROF III",
+    "teacher": [
+      {
+        "name": "MARIA RITA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/301"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 403",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/37"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "PR PROF III",
+    "teacher": [
+      {
+        "name": "MARIA RITA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/301"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 403",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/37"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "PR INTEGR IV",
+    "teacher": [
+      {
+        "name": "TIAGO ZAIDAN",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/539"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 404",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/62"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "FÍSICA II",
+    "teacher": [
+      {
+        "name": "JOSE GILBERTO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/220"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 404",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/62"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "ARTES",
+    "teacher": [
+      {
+        "name": "FERNANDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/686"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 404",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/62"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "PORTUGUES IV",
+    "teacher": [
+      {
+        "name": "LUCIANA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/793"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 404",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/62"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 4,
+    "weekday": "sexta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "PROTOCOLO II",
+    "teacher": [
+      {
+        "name": "ELTON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/811"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 404",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/62"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "PR INTEGR IV",
+    "teacher": [
+      {
+        "name": "TIAGO ZAIDAN",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/539"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 404",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/62"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "FÍSICA II",
+    "teacher": [
+      {
+        "name": "JOSE GILBERTO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/220"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 404",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/62"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "ARTES",
+    "teacher": [
+      {
+        "name": "FERNANDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/686"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 404",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/62"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "PORTUGUES IV",
+    "teacher": [
+      {
+        "name": "LUCIANA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/793"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 404",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/62"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 4,
+    "weekday": "sexta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "PROTOCOLO II",
+    "teacher": [
+      {
+        "name": "ELTON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/811"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 404",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/62"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "PLAN ORG III",
+    "teacher": [
+      {
+        "name": "MARIA RITA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/301"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 404",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/62"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "QUÍMICA II",
+    "teacher": [
+      {
+        "name": "EXPEDITO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/44"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 404",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/62"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "MATEMATICA IV",
+    "teacher": [
+      {
+        "name": "EWERTON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/805"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 404",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/62"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "SOCIOLOGIA",
+    "teacher": [
+      {
+        "name": "MARIA SUELY",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/628"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 404",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/62"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 4,
+    "weekday": "sexta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "INF APLICADA I",
+    "teacher": [
+      {
+        "name": "SILVIO LUCAS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/267"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/68"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "PLAN ORG III",
+    "teacher": [
+      {
+        "name": "MARIA RITA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/301"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 404",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/62"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "QUÍMICA II",
+    "teacher": [
+      {
+        "name": "EXPEDITO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/44"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 404",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/62"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "MATEMATICA IV",
+    "teacher": [
+      {
+        "name": "EWERTON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/805"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 404",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/62"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "SOCIOLOGIA",
+    "teacher": [
+      {
+        "name": "MARIA SUELY",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/628"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 404",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/62"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 4,
+    "weekday": "sexta",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "INF APLICADA I",
+    "teacher": [
+      {
+        "name": "SILVIO LUCAS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/267"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/68"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "PR PROF IV",
+    "teacher": [
+      {
+        "name": "TIAGO ZAIDAN",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/539"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 404",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/62"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "PR PROF IV",
+    "teacher": [
+      {
+        "name": "TIAGO ZAIDAN",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/539"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 404",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/62"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 5,
+    "weekday": "segunda",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "INGLES I",
+    "teacher": [
+      {
+        "name": "MARIA THERESA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/304"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 405",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/39"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 5,
+    "weekday": "terca",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "EMPREENDEDORIS",
+    "teacher": [
+      {
+        "name": "DEISE SILVA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/807"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 405",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/39"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 5,
+    "weekday": "quarta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "FÍSICA III",
+    "teacher": [
+      {
+        "name": "JOSE GILBERTO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/220"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 405",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/39"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 5,
+    "weekday": "quinta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "EMPREENDEDORIS",
+    "teacher": [
+      {
+        "name": "DEISE SILVA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/807"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 405",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/39"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 5,
+    "weekday": "sexta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "QUIMICA III",
+    "teacher": [
+      {
+        "name": "EXPEDITO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/44"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 405",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/39"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 5,
+    "weekday": "segunda",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "INGLES I",
+    "teacher": [
+      {
+        "name": "MARIA THERESA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/304"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 405",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/39"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 5,
+    "weekday": "terca",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "EMPREENDEDORIS",
+    "teacher": [
+      {
+        "name": "DEISE SILVA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/807"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 405",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/39"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 5,
+    "weekday": "quarta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "FÍSICA III",
+    "teacher": [
+      {
+        "name": "JOSE GILBERTO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/220"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 405",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/39"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 5,
+    "weekday": "quinta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "ALIM E BEBIDA",
+    "teacher": [
+      {
+        "name": "JAIANE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/809"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 405",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/39"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 5,
+    "weekday": "sexta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "QUIMICA III",
+    "teacher": [
+      {
+        "name": "EXPEDITO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/44"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 405",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/39"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 5,
+    "weekday": "segunda",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "ALIM E BEBIDA",
+    "teacher": [
+      {
+        "name": "JAIANE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/809"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 405",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/39"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 5,
+    "weekday": "terca",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "PORTUGUÊS V",
+    "teacher": [
+      {
+        "name": "THALYNE KEILA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/391"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 405",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/39"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 5,
+    "weekday": "quarta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "PLAN ORG IV",
+    "teacher": [
+      {
+        "name": "JAIANE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/809"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 405",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/39"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 5,
+    "weekday": "quinta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "PR INTEGR V",
+    "teacher": [
+      {
+        "name": "ELTON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/811"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 405",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/39"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 5,
+    "weekday": "sexta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "MATEMÁTICA V",
+    "teacher": [
+      {
+        "name": "YARA RABAY",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/425"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 405",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/39"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 5,
+    "weekday": "segunda",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "ALIM E BEBIDA",
+    "teacher": [
+      {
+        "name": "JAIANE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/809"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 405",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/39"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 5,
+    "weekday": "terca",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "PORTUGUÊS V",
+    "teacher": [
+      {
+        "name": "THALYNE KEILA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/391"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 405",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/39"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 5,
+    "weekday": "quarta",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "PLAN ORG IV",
+    "teacher": [
+      {
+        "name": "JAIANE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/809"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 405",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/39"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 5,
+    "weekday": "quinta",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "PR INTEGR V",
+    "teacher": [
+      {
+        "name": "ELTON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/811"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 405",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/39"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 5,
+    "weekday": "sexta",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "MATEMÁTICA V",
+    "teacher": [
+      {
+        "name": "YARA RABAY",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/425"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 405",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/39"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 5,
+    "weekday": "terca",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "PR PROF V",
+    "teacher": [
+      {
+        "name": "ELTON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/811"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 405",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/39"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 5,
+    "weekday": "quinta",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "PR PROF V",
+    "teacher": [
+      {
+        "name": "ELTON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/811"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 405",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/39"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 6,
+    "weekday": "segunda",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "BIOLOGIA III",
+    "teacher": [
+      {
+        "name": "ROSI D ANDREA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/376"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 103",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/102"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 6,
+    "weekday": "terca",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "PORTUGUÊS V",
+    "teacher": [
+      {
+        "name": "THALYNE KEILA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/391"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 103",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/102"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 6,
+    "weekday": "quarta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "METODOLOGIA TC",
+    "teacher": [
+      {
+        "name": "JAIMILE CUNHA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/808"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 103",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/102"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 6,
+    "weekday": "quinta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "MARKETING",
+    "teacher": [
+      {
+        "name": "FELIPE FLAVIO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/478"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 103",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/102"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 6,
+    "weekday": "sexta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "MATEMÁTICA V",
+    "teacher": [
+      {
+        "name": "YARA RABAY",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/425"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 103",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/102"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 6,
+    "weekday": "segunda",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "BIOLOGIA III",
+    "teacher": [
+      {
+        "name": "ROSI D ANDREA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/376"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 103",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/102"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 6,
+    "weekday": "terca",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "PORTUGUÊS V",
+    "teacher": [
+      {
+        "name": "THALYNE KEILA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/391"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 103",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/102"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 6,
+    "weekday": "quarta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "METODOLOGIA TC",
+    "teacher": [
+      {
+        "name": "JAIMILE CUNHA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/808"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 103",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/102"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 6,
+    "weekday": "quinta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "MARKETING",
+    "teacher": [
+      {
+        "name": "FELIPE FLAVIO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/478"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 103",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/102"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 6,
+    "weekday": "sexta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "MATEMÁTICA V",
+    "teacher": [
+      {
+        "name": "YARA RABAY",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/425"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 103",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/102"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 6,
+    "weekday": "segunda",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "INGLÊS II",
+    "teacher": [
+      {
+        "name": "LIANE LEITÃO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/798"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 103",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/102"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 6,
+    "weekday": "terca",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "METODOLOGIA TC",
+    "teacher": [
+      {
+        "name": "JAIMILE CUNHA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/808"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 103",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/102"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 6,
+    "weekday": "quarta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "FÍSICA V",
+    "teacher": [
+      {
+        "name": "JOSE GILBERTO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/220"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 103",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/102"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 6,
+    "weekday": "quinta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "PR INTEGR VI",
+    "teacher": [
+      {
+        "name": "JAIANE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/809"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 103",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/102"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 6,
+    "weekday": "sexta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "SEGURANCA EVEN",
+    "teacher": [
+      {
+        "name": "ELTON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/811"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 103",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/102"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 6,
+    "weekday": "segunda",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "INGLÊS II",
+    "teacher": [
+      {
+        "name": "LIANE LEITÃO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/798"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 103",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/102"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 6,
+    "weekday": "terca",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "MATEMÁTICA V",
+    "teacher": [
+      {
+        "name": "YARA RABAY",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/425"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 103",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/102"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 6,
+    "weekday": "quarta",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "FÍSICA V",
+    "teacher": [
+      {
+        "name": "JOSE GILBERTO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/220"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 103",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/102"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 6,
+    "weekday": "quinta",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "PR INTEGR VI",
+    "teacher": [
+      {
+        "name": "JAIANE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/809"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 103",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/102"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 6,
+    "weekday": "sexta",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "SEGURANCA EVEN",
+    "teacher": [
+      {
+        "name": "ELTON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/811"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 103",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/102"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 6,
+    "weekday": "terca",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "PR PROF VI",
+    "teacher": [
+      {
+        "name": "JAIANE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/809"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 103",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/102"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 6,
+    "weekday": "quinta",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "PR PROF VI",
+    "teacher": [
+      {
+        "name": "JAIANE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/809"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 103",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/102"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 7,
+    "weekday": "segunda",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "PR PROF VII",
+    "teacher": [
+      {
+        "name": "JAIMILE CUNHA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/808"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 406",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/59"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 7,
+    "weekday": "terca",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "PR PROF VII",
+    "teacher": [
+      {
+        "name": "JAIMILE CUNHA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/808"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 406",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/59"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 7,
+    "weekday": "quarta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "INF APLIC II",
+    "teacher": [
+      {
+        "name": "SILVIO LUCAS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/267"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 04",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/88"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 7,
+    "weekday": "segunda",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "PR PROF VII",
+    "teacher": [
+      {
+        "name": "JAIMILE CUNHA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/808"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 406",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/59"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 7,
+    "weekday": "terca",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "PR PROF VII",
+    "teacher": [
+      {
+        "name": "JAIMILE CUNHA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/808"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 406",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/59"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 7,
+    "weekday": "quarta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "INF APLIC II",
+    "teacher": [
+      {
+        "name": "SILVIO LUCAS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/267"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 04",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/88"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 7,
+    "weekday": "segunda",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "PR PROF VII",
+    "teacher": [
+      {
+        "name": "JAIMILE CUNHA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/808"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 406",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/59"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 7,
+    "weekday": "quarta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "INF APLIC II",
+    "teacher": [
+      {
+        "name": "SILVIO LUCAS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/267"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 04",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/88"
+      }
+    ]
+  },
+  {
+    "course": "EVENTOS (PROEJA)",
+    "semester": 7,
+    "weekday": "segunda",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "PR PROF VII",
+    "teacher": [
+      {
+        "name": "JAIMILE CUNHA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/808"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 406",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/59"
+      }
+    ]
+  }
+]

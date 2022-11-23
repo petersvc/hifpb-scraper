@@ -1,0 +1,3004 @@
+[
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "MATEMATICA I",
+    "teacher": [
+      {
+        "name": "DOUGLAS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/309"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 19",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/19"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "ARTE",
+    "teacher": [
+      {
+        "name": "SAMARA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/548"
+      },
+      {
+        "name": "OLGA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/335"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 19",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/19"
+      },
+      {
+        "name": "SALA 38",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/50"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "FISICA I",
+    "teacher": [
+      {
+        "name": "ANDERSON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/32"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 19",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/19"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "BIOLOGIA I",
+    "teacher": [
+      {
+        "name": "MAURICIO ZORRO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/510"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 19",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/19"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "QUIMICA I",
+    "teacher": [
+      {
+        "name": "PATRÍCIA QUIM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/830"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 19",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/19"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "MATEMATICA I",
+    "teacher": [
+      {
+        "name": "DOUGLAS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/309"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 19",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/19"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "ARTE",
+    "teacher": [
+      {
+        "name": "SAMARA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/548"
+      },
+      {
+        "name": "OLGA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/335"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 19",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/19"
+      },
+      {
+        "name": "SALA 38",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/50"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "FISICA I",
+    "teacher": [
+      {
+        "name": "ANDERSON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/32"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 19",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/19"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "BIOLOGIA I",
+    "teacher": [
+      {
+        "name": "MAURICIO ZORRO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/510"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 19",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/19"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "QUIMICA I",
+    "teacher": [
+      {
+        "name": "PATRÍCIA QUIM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/830"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 19",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/19"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "FILO /SOCIO I",
+    "teacher": [
+      {
+        "name": "MARCIO ROBERTO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/789"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 19",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/19"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "NUCLEO EB",
+    "teacher": [
+      {
+        "name": "RAFAELLE A C",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/356"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 19",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/19"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "QUIMICA I",
+    "teacher": [
+      {
+        "name": "PATRÍCIA QUIM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/830"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 19",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/19"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "PORTUGUES I",
+    "teacher": [
+      {
+        "name": "SERGIO FILHO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/385"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 19",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/19"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "MATEMATICA I",
+    "teacher": [
+      {
+        "name": "DOUGLAS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/309"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 19",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/19"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "FILO /SOCIO I",
+    "teacher": [
+      {
+        "name": "MARCIO ROBERTO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/789"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 19",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/19"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "ELETRIC BASICA",
+    "teacher": [
+      {
+        "name": "RAFAELLE A C",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/356"
+      },
+      {
+        "name": "MARCOS MOURA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/627"
+      },
+      {
+        "name": "KESIA FARIAS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/244"
+      }
+    ],
+    "location": [
+      {
+        "name": "ELETRO I",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/20"
+      },
+      {
+        "name": "ELETRIC I",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/19"
+      },
+      {
+        "name": "SL INFO 14",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/25"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "ELETRIC BASICA",
+    "teacher": [
+      {
+        "name": "RAFAELLE A C",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/356"
+      },
+      {
+        "name": "KESIA FARIAS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/244"
+      },
+      {
+        "name": "MARCOS MOURA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/627"
+      }
+    ],
+    "location": [
+      {
+        "name": "ELETRO I",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/20"
+      },
+      {
+        "name": "SL INFO 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/33"
+      },
+      {
+        "name": "ELETRIC I",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/19"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "ELETRIC BASICA",
+    "teacher": [
+      {
+        "name": "RAFAELLE A C",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/356"
+      },
+      {
+        "name": "KESIA FARIAS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/244"
+      }
+    ],
+    "location": [
+      {
+        "name": "ELETRO I",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/20"
+      },
+      {
+        "name": "SL INFO 03",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/65"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "PORTUGUES I",
+    "teacher": [
+      {
+        "name": "SERGIO FILHO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/385"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 19",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/19"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "HISTORIA I",
+    "teacher": [
+      {
+        "name": "FRANCISCO HENR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/764"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 19",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/19"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "ELETRIC BASICA",
+    "teacher": [
+      {
+        "name": "RAFAELLE A C",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/356"
+      },
+      {
+        "name": "MARCOS MOURA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/627"
+      },
+      {
+        "name": "KESIA FARIAS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/244"
+      }
+    ],
+    "location": [
+      {
+        "name": "ELETRO I",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/20"
+      },
+      {
+        "name": "ELETRIC I",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/19"
+      },
+      {
+        "name": "SL INFO 14",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/25"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "ELETRIC BASICA",
+    "teacher": [
+      {
+        "name": "RAFAELLE A C",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/356"
+      },
+      {
+        "name": "KESIA FARIAS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/244"
+      },
+      {
+        "name": "MARCOS MOURA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/627"
+      }
+    ],
+    "location": [
+      {
+        "name": "ELETRO I",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/20"
+      },
+      {
+        "name": "SL INFO 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/33"
+      },
+      {
+        "name": "ELETRIC I",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/19"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "ELETRIC BASICA",
+    "teacher": [
+      {
+        "name": "RAFAELLE A C",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/356"
+      },
+      {
+        "name": "MARCOS MOURA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/627"
+      },
+      {
+        "name": "KESIA FARIAS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/244"
+      }
+    ],
+    "location": [
+      {
+        "name": "ELETRO I",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/20"
+      },
+      {
+        "name": "ELETRIC I",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/19"
+      },
+      {
+        "name": "SL INFO 03",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/65"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "PORTUGUES I",
+    "teacher": [
+      {
+        "name": "SERGIO FILHO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/385"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 19",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/19"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "HISTORIA I",
+    "teacher": [
+      {
+        "name": "FRANCISCO HENR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/764"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 19",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/19"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "INFOR BASICA",
+    "teacher": [
+      {
+        "name": "KESIA FARIAS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/244"
+      },
+      {
+        "name": "RAFAELLE A C",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/356"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 14",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/25"
+      },
+      {
+        "name": "ELETRO I",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/20"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "ELETRIC BASICA",
+    "teacher": [
+      {
+        "name": "RAFAELLE A C",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/356"
+      },
+      {
+        "name": "KESIA FARIAS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/244"
+      }
+    ],
+    "location": [
+      {
+        "name": "ELETRO I",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/20"
+      },
+      {
+        "name": "SL INFO 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/33"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "ELETRIC BASICA",
+    "teacher": [
+      {
+        "name": "RAFAELLE A C",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/356"
+      },
+      {
+        "name": "MARCOS MOURA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/627"
+      },
+      {
+        "name": "KESIA FARIAS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/244"
+      }
+    ],
+    "location": [
+      {
+        "name": "ELETRO I",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/20"
+      },
+      {
+        "name": "ELETRIC I",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/19"
+      },
+      {
+        "name": "SL INFO 03",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/65"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "FISICA I",
+    "teacher": [
+      {
+        "name": "ANDERSON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/32"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 19",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/19"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "ELETRIC BASICA",
+    "teacher": [
+      {
+        "name": "RAFAELLE A C",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/356"
+      },
+      {
+        "name": "MARCOS MOURA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/627"
+      },
+      {
+        "name": "KESIA FARIAS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/244"
+      }
+    ],
+    "location": [
+      {
+        "name": "ELETRO I",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/20"
+      },
+      {
+        "name": "ELETRIC I",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/19"
+      },
+      {
+        "name": "SL INFO 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/33"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "ELETRIC BASICA",
+    "teacher": [
+      {
+        "name": "RAFAELLE A C",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/356"
+      },
+      {
+        "name": "MARCOS MOURA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/627"
+      },
+      {
+        "name": "KESIA FARIAS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/244"
+      }
+    ],
+    "location": [
+      {
+        "name": "ELETRO I",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/20"
+      },
+      {
+        "name": "ELETRIC I",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/19"
+      },
+      {
+        "name": "SL INFO 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/33"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "EDUC FISICA I",
+    "teacher": [
+      {
+        "name": "PROF.EDFIS-I",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/695"
+      }
+    ],
+    "location": []
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "EDUC FISICA I",
+    "teacher": [
+      {
+        "name": "PROF.EDFIS-I",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/695"
+      }
+    ],
+    "location": []
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "BIOLOGIA II",
+    "teacher": [
+      {
+        "name": "RUTH AMANDA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/241"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 07",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/97"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "FISICA II",
+    "teacher": [
+      {
+        "name": "JOAO LUIS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/822"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 07",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/97"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "MATEMATICA II",
+    "teacher": [
+      {
+        "name": "ROMULO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/837"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 07",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/97"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "PORTUGUES II",
+    "teacher": [
+      {
+        "name": "EVALDO MOTA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/124"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 07",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/97"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "ELETRON DIGIT",
+    "teacher": [
+      {
+        "name": "ERIK FARIAS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/771"
+      },
+      {
+        "name": "MARCILIO ONOFR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/279"
+      },
+      {
+        "name": "ADAILDO GOMES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/2"
+      }
+    ],
+    "location": [
+      {
+        "name": "ELETRIC I",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/19"
+      },
+      {
+        "name": "ELETRO I",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/20"
+      },
+      {
+        "name": "INSTR BIOM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/55"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "BIOLOGIA II",
+    "teacher": [
+      {
+        "name": "RUTH AMANDA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/241"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 07",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/97"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "FISICA II",
+    "teacher": [
+      {
+        "name": "JOAO LUIS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/822"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 07",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/97"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "MATEMATICA II",
+    "teacher": [
+      {
+        "name": "ROMULO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/837"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 07",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/97"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "PORTUGUES II",
+    "teacher": [
+      {
+        "name": "EVALDO MOTA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/124"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 07",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/97"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "ELETRON DIGIT",
+    "teacher": [
+      {
+        "name": "ERIK FARIAS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/771"
+      },
+      {
+        "name": "MARCILIO ONOFR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/279"
+      },
+      {
+        "name": "ADAILDO GOMES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/2"
+      }
+    ],
+    "location": [
+      {
+        "name": "ELETRIC I",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/19"
+      },
+      {
+        "name": "ELETRO I",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/20"
+      },
+      {
+        "name": "INSTR BIOM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/55"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "BIOLOGIA II",
+    "teacher": [
+      {
+        "name": "RUTH AMANDA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/241"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 07",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/97"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "QUIMICA II",
+    "teacher": [
+      {
+        "name": "ANDERSON QUI",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/656"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 07",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/97"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "MATEMATICA II",
+    "teacher": [
+      {
+        "name": "ROMULO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/837"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 07",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/97"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "GEOGRAFIA - I",
+    "teacher": [
+      {
+        "name": "LUCIANO SCHAEF",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/259"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 07",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/97"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "SEG ELETR/ACR",
+    "teacher": [
+      {
+        "name": "ADAILDO GOMES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/2"
+      },
+      {
+        "name": "MARCILIO ONOFR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/279"
+      },
+      {
+        "name": "ERIK FARIAS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/771"
+      }
+    ],
+    "location": [
+      {
+        "name": "INSTR BIOM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/55"
+      },
+      {
+        "name": "ELETRO I",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/20"
+      },
+      {
+        "name": "ELETRIC I",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/19"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "LING EST MOD I",
+    "teacher": [
+      {
+        "name": "ADRIANA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/7"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 07",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/97"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "QUIMICA II",
+    "teacher": [
+      {
+        "name": "ANDERSON QUI",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/656"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 07",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/97"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "PORTUGUES II",
+    "teacher": [
+      {
+        "name": "EVALDO MOTA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/124"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 07",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/97"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "GEOGRAFIA - I",
+    "teacher": [
+      {
+        "name": "LUCIANO SCHAEF",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/259"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 07",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/97"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "SEG ELETR/ACR",
+    "teacher": [
+      {
+        "name": "ADAILDO GOMES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/2"
+      },
+      {
+        "name": "MARCILIO ONOFR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/279"
+      },
+      {
+        "name": "ERIK FARIAS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/771"
+      }
+    ],
+    "location": [
+      {
+        "name": "INSTR BIOM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/55"
+      },
+      {
+        "name": "ELETRO I",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/20"
+      },
+      {
+        "name": "ELETRIC I",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/19"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "LING EST MOD I",
+    "teacher": [
+      {
+        "name": "ADRIANA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/7"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 07",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/97"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "FILO II  ANUAL",
+    "teacher": [
+      {
+        "name": "PAULA ALVES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/810"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 07",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/97"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "HISTORIA II",
+    "teacher": [
+      {
+        "name": "JIVAGO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/200"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 07",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/97"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "SOCIO II ANUAL",
+    "teacher": [
+      {
+        "name": "GEKBEDE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/154"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 07",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/97"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "ELETRON DIGIT",
+    "teacher": [
+      {
+        "name": "ERIK FARIAS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/771"
+      },
+      {
+        "name": "ADAILDO GOMES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/2"
+      },
+      {
+        "name": "MARCILIO ONOFR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/279"
+      }
+    ],
+    "location": [
+      {
+        "name": "ELETRIC I",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/19"
+      },
+      {
+        "name": "INSTR BIOM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/55"
+      },
+      {
+        "name": "ELETRO I",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/20"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "DEP-EB",
+    "teacher": [
+      {
+        "name": "RAFAELLE A C",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/356"
+      }
+    ],
+    "location": [
+      {
+        "name": "ELETRO I",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/20"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "FILO II  ANUAL",
+    "teacher": [
+      {
+        "name": "PAULA ALVES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/810"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 07",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/97"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "HISTORIA II",
+    "teacher": [
+      {
+        "name": "JIVAGO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/200"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 07",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/97"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "SOCIO II ANUAL",
+    "teacher": [
+      {
+        "name": "GEKBEDE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/154"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 07",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/97"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "ELETRON DIGIT",
+    "teacher": [
+      {
+        "name": "ERIK FARIAS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/771"
+      },
+      {
+        "name": "ADAILDO GOMES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/2"
+      },
+      {
+        "name": "MARCILIO ONOFR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/279"
+      }
+    ],
+    "location": [
+      {
+        "name": "ELETRIC I",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/19"
+      },
+      {
+        "name": "INSTR BIOM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/55"
+      },
+      {
+        "name": "ELETRO I",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/20"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "NUCLEO EA-I",
+    "teacher": [
+      {
+        "name": "MARCILIO ONOFR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/279"
+      }
+    ],
+    "location": [
+      {
+        "name": "ELETRO I",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/20"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "EDUC FIS II",
+    "teacher": [
+      {
+        "name": "PROF.EDFIS-II",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/696"
+      }
+    ],
+    "location": []
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "EDUC FIS II",
+    "teacher": [
+      {
+        "name": "PROF.EDFIS-II",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/696"
+      }
+    ],
+    "location": []
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "NUCLEO EA-I",
+    "teacher": [
+      {
+        "name": "MARCILIO ONOFR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/279"
+      }
+    ],
+    "location": [
+      {
+        "name": "ELETRO I",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/20"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "ELETRON ANA II",
+    "teacher": [
+      {
+        "name": "PAULO IXT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/501"
+      },
+      {
+        "name": "LINCOLN ARAUJO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/255"
+      }
+    ],
+    "location": [
+      {
+        "name": "INSTR BIOM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/55"
+      },
+      {
+        "name": "SL INFO 13",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/26"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "BIOLOGIA III",
+    "teacher": [
+      {
+        "name": "LUCILA KARLA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/878"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 02 ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/92"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "QUIMICA III",
+    "teacher": [
+      {
+        "name": "EXPEDITO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/44"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 02 ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/92"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "HISTORIA III",
+    "teacher": [
+      {
+        "name": "JIVAGO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/200"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 02 ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/92"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "GEOGRAFIA II",
+    "teacher": [
+      {
+        "name": "ISMAEL",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/184"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 02 ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/92"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "ELETRON ANA II",
+    "teacher": [
+      {
+        "name": "PAULO IXT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/501"
+      },
+      {
+        "name": "LINCOLN ARAUJO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/255"
+      }
+    ],
+    "location": [
+      {
+        "name": "INSTR BIOM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/55"
+      },
+      {
+        "name": "SL INFO 13",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/26"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "BIOLOGIA III",
+    "teacher": [
+      {
+        "name": "LUCILA KARLA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/878"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 02 ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/92"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "QUIMICA III",
+    "teacher": [
+      {
+        "name": "EXPEDITO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/44"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 02 ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/92"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "HISTORIA III",
+    "teacher": [
+      {
+        "name": "JIVAGO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/200"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 02 ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/92"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "GEOGRAFIA II",
+    "teacher": [
+      {
+        "name": "ISMAEL",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/184"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 02 ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/92"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "ELETRON ANA II",
+    "teacher": [
+      {
+        "name": "PAULO IXT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/501"
+      },
+      {
+        "name": "LINCOLN ARAUJO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/255"
+      }
+    ],
+    "location": [
+      {
+        "name": "INSTR BIOM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/55"
+      },
+      {
+        "name": "SL INFO 13",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/26"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "INGLES INST II",
+    "teacher": [
+      {
+        "name": "ANNA LIBIA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/38"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 02 ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/92"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "SOCIOLOGIA III",
+    "teacher": [
+      {
+        "name": "ADOLFO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/5"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 02 ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/92"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "SISTEMAS AV",
+    "teacher": [
+      {
+        "name": "ERIK FARIAS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/771"
+      },
+      {
+        "name": "PAULO IXT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/501"
+      }
+    ],
+    "location": [
+      {
+        "name": "INSTR BIOM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/55"
+      },
+      {
+        "name": "ELETRIC I",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/19"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "TELECO.",
+    "teacher": [
+      {
+        "name": "KESIA FARIAS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/244"
+      },
+      {
+        "name": "FIBRA OPT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/80"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 02 ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/92"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "ELETRON ANA II",
+    "teacher": [
+      {
+        "name": "PAULO IXT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/501"
+      },
+      {
+        "name": "LINCOLN ARAUJO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/255"
+      }
+    ],
+    "location": [
+      {
+        "name": "INSTR BIOM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/55"
+      },
+      {
+        "name": "SL INFO 13",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/26"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "INGLES INST II",
+    "teacher": [
+      {
+        "name": "ANNA LIBIA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/38"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 02 ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/92"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "SOCIOLOGIA III",
+    "teacher": [
+      {
+        "name": "ADOLFO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/5"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 02 ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/92"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "SISTEMAS AV",
+    "teacher": [
+      {
+        "name": "ERIK FARIAS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/771"
+      },
+      {
+        "name": "PAULO IXT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/501"
+      }
+    ],
+    "location": [
+      {
+        "name": "INSTR BIOM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/55"
+      },
+      {
+        "name": "ELETRIC I",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/19"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "TELECO.",
+    "teacher": [
+      {
+        "name": "KESIA FARIAS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/244"
+      },
+      {
+        "name": "FIBRA OPT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/80"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 02 ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/92"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "ELETRON ANA II",
+    "teacher": [
+      {
+        "name": "PAULO IXT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/501"
+      },
+      {
+        "name": "LINCOLN ARAUJO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/255"
+      }
+    ],
+    "location": [
+      {
+        "name": "INSTR BIOM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/55"
+      },
+      {
+        "name": "SL INFO 13",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/26"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "POR LIT BR III",
+    "teacher": [
+      {
+        "name": "LUCIANA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/793"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 02 ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/92"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "FISICA III",
+    "teacher": [
+      {
+        "name": "ANDERSON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/32"
+      },
+      {
+        "name": "LAB FÍSIC",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/25"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 02 ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/92"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "FILOSOFIA III",
+    "teacher": [
+      {
+        "name": "RITA SILVA  ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/569"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 02 ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/92"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "MATEMATICA III",
+    "teacher": [
+      {
+        "name": "DIEGO AYLLO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/68"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 02 ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/92"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "ELETRON ANA II",
+    "teacher": [
+      {
+        "name": "PAULO IXT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/501"
+      },
+      {
+        "name": "LINCOLN ARAUJO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/255"
+      }
+    ],
+    "location": [
+      {
+        "name": "INSTR BIOM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/55"
+      },
+      {
+        "name": "SL INFO 13",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/26"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "POR LIT BR III",
+    "teacher": [
+      {
+        "name": "LUCIANA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/793"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 02 ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/92"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "FISICA III",
+    "teacher": [
+      {
+        "name": "ANDERSON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/32"
+      },
+      {
+        "name": "LAB FÍSIC",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/25"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 02 ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/92"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "FILOSOFIA III",
+    "teacher": [
+      {
+        "name": "RITA SILVA  ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/569"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 02 ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/92"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "MATEMATICA III",
+    "teacher": [
+      {
+        "name": "DIEGO AYLLO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/68"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 02 ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/92"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "EDU FISICA III",
+    "teacher": [
+      {
+        "name": "PROF.EDFIS-III",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/697"
+      }
+    ],
+    "location": []
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "EDU FISICA III",
+    "teacher": [
+      {
+        "name": "PROF.EDFIS-III",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/697"
+      }
+    ],
+    "location": []
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "NUC-AV",
+    "teacher": [
+      {
+        "name": "PAULO IXT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/501"
+      }
+    ],
+    "location": [
+      {
+        "name": "INSTR BIOM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/55"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "NUC-EAII",
+    "teacher": [
+      {
+        "name": "PAULO IXT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/501"
+      }
+    ],
+    "location": [
+      {
+        "name": "INSTR BIOM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/55"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "AUTO INDUST",
+    "teacher": [
+      {
+        "name": "ANTONIO DALIA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/43"
+      },
+      {
+        "name": "JOSE WALLINTON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/230"
+      }
+    ],
+    "location": [
+      {
+        "name": "COM EL AUT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/10"
+      },
+      {
+        "name": "ELETRO II",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/7"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "AUTO INDUST",
+    "teacher": [
+      {
+        "name": "ANTONIO DALIA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/43"
+      }
+    ],
+    "location": [
+      {
+        "name": "COM EL AUT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/10"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "MATEMATICA IV",
+    "teacher": [
+      {
+        "name": "DIEGO AYLLO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/68"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 01",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/86"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "GEOGRAF III",
+    "teacher": [
+      {
+        "name": "ISMAEL",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/184"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 24",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/14"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 4,
+    "weekday": "sexta",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "EMPEND/TRAB",
+    "teacher": [
+      {
+        "name": "ALVARO  FILHO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/819"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 24",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/14"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "AUTO INDUST",
+    "teacher": [
+      {
+        "name": "ANTONIO DALIA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/43"
+      },
+      {
+        "name": "JOSE WALLINTON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/230"
+      }
+    ],
+    "location": [
+      {
+        "name": "COM EL AUT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/10"
+      },
+      {
+        "name": "ELETRO II",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/7"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "AUTO INDUST",
+    "teacher": [
+      {
+        "name": "ANTONIO DALIA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/43"
+      }
+    ],
+    "location": [
+      {
+        "name": "COM EL AUT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/10"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "MATEMATICA IV",
+    "teacher": [
+      {
+        "name": "DIEGO AYLLO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/68"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 01",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/86"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "GEOGRAF III",
+    "teacher": [
+      {
+        "name": "ISMAEL",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/184"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 24",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/14"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 4,
+    "weekday": "sexta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "EMPEND/TRAB",
+    "teacher": [
+      {
+        "name": "ALVARO  FILHO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/819"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 24",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/14"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "MANUT ELETRON",
+    "teacher": [
+      {
+        "name": "JOSE WALLINTON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/230"
+      }
+    ],
+    "location": [
+      {
+        "name": "ELETRO II",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/7"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "AUTO INDUST",
+    "teacher": [
+      {
+        "name": "ANTONIO DALIA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/43"
+      },
+      {
+        "name": "JOSE WALLINTON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/230"
+      }
+    ],
+    "location": [
+      {
+        "name": "COM EL AUT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/10"
+      },
+      {
+        "name": "ELETRO II",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/7"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "HST/NR10",
+    "teacher": [
+      {
+        "name": "ANTONIO DALIA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/43"
+      }
+    ],
+    "location": [
+      {
+        "name": "IPP",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/86"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "FILO/SOCIO IV",
+    "teacher": [
+      {
+        "name": "CARLA REIHER",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/292"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 24",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/14"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 4,
+    "weekday": "sexta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "MATEMATICA IV",
+    "teacher": [
+      {
+        "name": "DIEGO AYLLO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/68"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 24",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/14"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "MANUT ELETRON",
+    "teacher": [
+      {
+        "name": "JOSE WALLINTON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/230"
+      }
+    ],
+    "location": [
+      {
+        "name": "ELETRO II",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/7"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "AUTO INDUST",
+    "teacher": [
+      {
+        "name": "ANTONIO DALIA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/43"
+      },
+      {
+        "name": "JOSE WALLINTON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/230"
+      }
+    ],
+    "location": [
+      {
+        "name": "COM EL AUT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/10"
+      },
+      {
+        "name": "ELETRO II",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/7"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "HST/NR10",
+    "teacher": [
+      {
+        "name": "ANTONIO DALIA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/43"
+      }
+    ],
+    "location": [
+      {
+        "name": "IPP",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/86"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "FILO/SOCIO IV",
+    "teacher": [
+      {
+        "name": "CARLA REIHER",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/292"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 24",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/14"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 4,
+    "weekday": "sexta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "MATEMATICA IV",
+    "teacher": [
+      {
+        "name": "DIEGO AYLLO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/68"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 24",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/14"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "PROJ ELET/TCC",
+    "teacher": [
+      {
+        "name": "FECHINE BORGES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/142"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/33"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "AUTO INDUST",
+    "teacher": [
+      {
+        "name": "ANTONIO DALIA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/43"
+      },
+      {
+        "name": "JOSE WALLINTON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/230"
+      }
+    ],
+    "location": [
+      {
+        "name": "COM EL AUT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/10"
+      },
+      {
+        "name": "ELETRO II",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/7"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "DISP MÓVEIS",
+    "teacher": [
+      {
+        "name": "ADAILDO GOMES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/2"
+      }
+    ],
+    "location": [
+      {
+        "name": "TELECOM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/76"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "METODOLOGIA",
+    "teacher": [
+      {
+        "name": "EMMANOEL",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/112"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 24",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/14"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 4,
+    "weekday": "sexta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "DISP_M/ENER_RE",
+    "teacher": [
+      {
+        "name": "WALMERAN TRIND",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/417"
+      }
+    ],
+    "location": [
+      {
+        "name": "FONTES R E",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/27"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "PROJ ELET/TCC",
+    "teacher": [
+      {
+        "name": "FECHINE BORGES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/142"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/33"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "MANUT ELETRON",
+    "teacher": [
+      {
+        "name": "JOSE WALLINTON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/230"
+      },
+      {
+        "name": "ANTONIO DALIA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/43"
+      }
+    ],
+    "location": [
+      {
+        "name": "ELETRO II",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/7"
+      },
+      {
+        "name": "COM EL AUT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/10"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "DISP MÓVEIS",
+    "teacher": [
+      {
+        "name": "ADAILDO GOMES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/2"
+      }
+    ],
+    "location": [
+      {
+        "name": "TELECOM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/76"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "METODOLOGIA",
+    "teacher": [
+      {
+        "name": "EMMANOEL",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/112"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 24",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/14"
+      }
+    ]
+  },
+  {
+    "course": "ELETRONICA INTEGRADO",
+    "semester": 4,
+    "weekday": "sexta",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "DISP_M/ENER_RE",
+    "teacher": [
+      {
+        "name": "WALMERAN TRIND",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/417"
+      }
+    ],
+    "location": [
+      {
+        "name": "FONTES R E",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/27"
+      }
+    ]
+  }
+]

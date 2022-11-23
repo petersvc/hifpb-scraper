@@ -1,0 +1,2792 @@
+[
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "EDUC FIS I",
+    "teacher": [
+      {
+        "name": "CHOQUE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/125"
+      }
+    ],
+    "location": []
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "EDUC FIS I",
+    "teacher": [
+      {
+        "name": "CHOQUE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/125"
+      }
+    ],
+    "location": []
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "ARTES",
+    "teacher": [
+      {
+        "name": "OLGA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/335"
+      },
+      {
+        "name": "SAMARA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/548"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 19",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/19"
+      },
+      {
+        "name": "SALA 03",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/101"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "ARTES",
+    "teacher": [
+      {
+        "name": "OLGA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/335"
+      },
+      {
+        "name": "SAMARA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/548"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 19",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/19"
+      },
+      {
+        "name": "SALA 03",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/101"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "QUIMICA I",
+    "teacher": [
+      {
+        "name": "PATRÍCIA QUIM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/830"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 09",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/95"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "ELETRIC BAS I",
+    "teacher": [
+      {
+        "name": "KALINA PEREIRA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/728"
+      },
+      {
+        "name": "VALERIA PAZETT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/803"
+      },
+      {
+        "name": "ARACOELI",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/218"
+      }
+    ],
+    "location": [
+      {
+        "name": "ELETRIC I",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/19"
+      },
+      {
+        "name": "SDESME UA3",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/47"
+      },
+      {
+        "name": "IPP",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/86"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "BIOLOGIA I",
+    "teacher": [
+      {
+        "name": "ROSI D ANDREA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/376"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 09",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/95"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "GEOGRAFIA - I",
+    "teacher": [
+      {
+        "name": "CELSO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/69"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 09",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/95"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "POR LIT BR I",
+    "teacher": [
+      {
+        "name": "EVALDO MOTA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/124"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 09",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/95"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "MATEMATICA I",
+    "teacher": [
+      {
+        "name": "ROMULO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/837"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 09",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/95"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "ELETRIC BAS I",
+    "teacher": [
+      {
+        "name": "KALINA PEREIRA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/728"
+      },
+      {
+        "name": "VALERIA PAZETT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/803"
+      },
+      {
+        "name": "ARACOELI",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/218"
+      }
+    ],
+    "location": [
+      {
+        "name": "ELETRIC I",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/19"
+      },
+      {
+        "name": "SDESME UA3",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/47"
+      },
+      {
+        "name": "IPP",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/86"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "BIOLOGIA I",
+    "teacher": [
+      {
+        "name": "ROSI D ANDREA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/376"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 09",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/95"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "GEOGRAFIA - I",
+    "teacher": [
+      {
+        "name": "CELSO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/69"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 09",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/95"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "POR LIT BR I",
+    "teacher": [
+      {
+        "name": "EVALDO MOTA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/124"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 09",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/95"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "INFOR BASICA I",
+    "teacher": [
+      {
+        "name": "SILVIO LUCAS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/267"
+      },
+      {
+        "name": "JEANNE PAULA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/195"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/33"
+      },
+      {
+        "name": "SL INFO 03",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/65"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "ELETRIC BAS I",
+    "teacher": [
+      {
+        "name": "KALINA PEREIRA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/728"
+      },
+      {
+        "name": "VALERIA PAZETT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/803"
+      },
+      {
+        "name": "ARACOELI",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/218"
+      }
+    ],
+    "location": [
+      {
+        "name": "ELETRIC I",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/19"
+      },
+      {
+        "name": "SDESME UA3",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/47"
+      },
+      {
+        "name": "IPP",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/86"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "POR LIT BR I",
+    "teacher": [
+      {
+        "name": "EVALDO MOTA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/124"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 09",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/95"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "MATEMATICA I",
+    "teacher": [
+      {
+        "name": "ROMULO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/837"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 09",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/95"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "FILO/SOCIO I",
+    "teacher": [
+      {
+        "name": "TIAGO R",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/836"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 09",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/95"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "INFOR BASICA I",
+    "teacher": [
+      {
+        "name": "SILVIO LUCAS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/267"
+      },
+      {
+        "name": "JEANNE PAULA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/195"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/33"
+      },
+      {
+        "name": "SL INFO 03",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/65"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "ELETRIC BAS I",
+    "teacher": [
+      {
+        "name": "KALINA PEREIRA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/728"
+      },
+      {
+        "name": "VALERIA PAZETT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/803"
+      },
+      {
+        "name": "ARACOELI",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/218"
+      }
+    ],
+    "location": [
+      {
+        "name": "ELETRIC I",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/19"
+      },
+      {
+        "name": "SDESME UA3",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/47"
+      },
+      {
+        "name": "IPP",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/86"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "GEOGRAFIA - I",
+    "teacher": [
+      {
+        "name": "CELSO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/69"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 09",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/95"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "MATEMATICA I",
+    "teacher": [
+      {
+        "name": "ROMULO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/837"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 09",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/95"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "FILO/SOCIO I",
+    "teacher": [
+      {
+        "name": "TIAGO R",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/836"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 09",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/95"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "INGLES INST I",
+    "teacher": [
+      {
+        "name": "ADRIANA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/7"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 09",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/95"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "ELETRIC BAS I",
+    "teacher": [
+      {
+        "name": "KALINA PEREIRA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/728"
+      },
+      {
+        "name": "VALERIA PAZETT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/803"
+      },
+      {
+        "name": "ARACOELI",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/218"
+      }
+    ],
+    "location": [
+      {
+        "name": "ELETRIC I",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/19"
+      },
+      {
+        "name": "SDESME UA3",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/47"
+      },
+      {
+        "name": "IPP",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/86"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "QUIMICA I",
+    "teacher": [
+      {
+        "name": "PATRÍCIA QUIM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/830"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 09",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/95"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "EB I",
+    "teacher": [
+      {
+        "name": "KALINA PEREIRA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/728"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 09",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/95"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "INGLES INST I",
+    "teacher": [
+      {
+        "name": "ADRIANA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/7"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 09",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/95"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "ELETRIC BAS I",
+    "teacher": [
+      {
+        "name": "KALINA PEREIRA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/728"
+      },
+      {
+        "name": "VALERIA PAZETT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/803"
+      },
+      {
+        "name": "ARACOELI",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/218"
+      }
+    ],
+    "location": [
+      {
+        "name": "ELETRIC I",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/19"
+      },
+      {
+        "name": "SDESME UA3",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/47"
+      },
+      {
+        "name": "IPP",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/86"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "QUIMICA I",
+    "teacher": [
+      {
+        "name": "PATRÍCIA QUIM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/830"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 09",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/95"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "EDUC FIS II",
+    "teacher": [
+      {
+        "name": "SEM PROF",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/308"
+      }
+    ],
+    "location": []
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "EDUC FIS II",
+    "teacher": [
+      {
+        "name": "SEM PROF",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/308"
+      }
+    ],
+    "location": []
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "FISICA I",
+    "teacher": [
+      {
+        "name": "JOAO LUIS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/822"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 05",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/99"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "BIOLOGIA II",
+    "teacher": [
+      {
+        "name": "ANA VIEIRA ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/538"
+      }
+    ],
+    "location": [
+      {
+        "name": "LAB BIOLOG",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/6"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "ELETRIC BAS II",
+    "teacher": [
+      {
+        "name": "ARI DEZOTTI",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/715"
+      },
+      {
+        "name": "EDUARDO VIDAL",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/104"
+      }
+    ],
+    "location": [
+      {
+        "name": "ELETRIC II",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/99"
+      },
+      {
+        "name": "INST ELETR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/51"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "MATEMATICA II",
+    "teacher": [
+      {
+        "name": "CÍCERO DEM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/148"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 05",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/99"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "GEOGRAFIA II",
+    "teacher": [
+      {
+        "name": "JORGE LUIS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/527"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 05",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/99"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "FISICA I",
+    "teacher": [
+      {
+        "name": "JOAO LUIS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/822"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 05",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/99"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "BIOLOGIA II",
+    "teacher": [
+      {
+        "name": "ANA VIEIRA ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/538"
+      }
+    ],
+    "location": [
+      {
+        "name": "LAB BIOLOG",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/6"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "ELETRIC BAS II",
+    "teacher": [
+      {
+        "name": "ARI DEZOTTI",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/715"
+      },
+      {
+        "name": "EDUARDO VIDAL",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/104"
+      }
+    ],
+    "location": [
+      {
+        "name": "ELETRIC II",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/99"
+      },
+      {
+        "name": "INST ELETR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/51"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "MATEMATICA II",
+    "teacher": [
+      {
+        "name": "CÍCERO DEM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/148"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 05",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/99"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "GEOGRAFIA II",
+    "teacher": [
+      {
+        "name": "JORGE LUIS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/527"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 05",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/99"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "INGLES INST II",
+    "teacher": [
+      {
+        "name": "ANNA LIBIA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/38"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 05",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/99"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "BIOLOGIA II",
+    "teacher": [
+      {
+        "name": "ANA VIEIRA ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/538"
+      }
+    ],
+    "location": [
+      {
+        "name": "LAB BIOLOG",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/6"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "ELETRIC BAS II",
+    "teacher": [
+      {
+        "name": "ARI DEZOTTI",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/715"
+      },
+      {
+        "name": "EDUARDO VIDAL",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/104"
+      }
+    ],
+    "location": [
+      {
+        "name": "ELETRIC II",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/99"
+      },
+      {
+        "name": "INST ELETR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/51"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "MATEMATICA II",
+    "teacher": [
+      {
+        "name": "CÍCERO DEM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/148"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 05",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/99"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "SOCIOLOGIA II",
+    "teacher": [
+      {
+        "name": "ADOLFO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/5"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 05",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/99"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "INGLES INST II",
+    "teacher": [
+      {
+        "name": "ANNA LIBIA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/38"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 05",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/99"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "DES AUX COM 2D",
+    "teacher": [
+      {
+        "name": "RANIERI LEITE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/358"
+      },
+      {
+        "name": "EDUARDO VIDAL",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/104"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/33"
+      },
+      {
+        "name": "INST ELETR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/51"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "DES AUX COM 2D",
+    "teacher": [
+      {
+        "name": "RANIERI LEITE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/358"
+      },
+      {
+        "name": "ARI DEZOTTI",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/715"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/33"
+      },
+      {
+        "name": "ELETRIC II",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/99"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "POR LIT BR II",
+    "teacher": [
+      {
+        "name": "LUCIANA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/793"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 05",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/99"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "SOCIOLOGIA II",
+    "teacher": [
+      {
+        "name": "ADOLFO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/5"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 05",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/99"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "FILOSOFIA II",
+    "teacher": [
+      {
+        "name": "TIAGO ADONIAS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/847"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 05",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/99"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "DES AUX COM 2D",
+    "teacher": [
+      {
+        "name": "RANIERI LEITE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/358"
+      },
+      {
+        "name": "EDUARDO VIDAL",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/104"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/33"
+      },
+      {
+        "name": "INST ELETR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/51"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "DES AUX COM 2D",
+    "teacher": [
+      {
+        "name": "RANIERI LEITE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/358"
+      },
+      {
+        "name": "ARI DEZOTTI",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/715"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/33"
+      },
+      {
+        "name": "ELETRIC II",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/99"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "QUIMICA II",
+    "teacher": [
+      {
+        "name": "MAURICIO V",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/782"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 05",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/99"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "POR LIT BR II",
+    "teacher": [
+      {
+        "name": "LUCIANA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/793"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 05",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/99"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "FILOSOFIA II",
+    "teacher": [
+      {
+        "name": "TIAGO ADONIAS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/847"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 05",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/99"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "IEP",
+    "teacher": [
+      {
+        "name": "EDUARDO VIDAL",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/104"
+      }
+    ],
+    "location": [
+      {
+        "name": "INST ELETR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/51"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "ELETRIC BAS II",
+    "teacher": [
+      {
+        "name": "ARI DEZOTTI",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/715"
+      }
+    ],
+    "location": [
+      {
+        "name": "ELETRIC II",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/99"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "QUIMICA II",
+    "teacher": [
+      {
+        "name": "MAURICIO V",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/782"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 05",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/99"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "POR LIT BR II",
+    "teacher": [
+      {
+        "name": "LUCIANA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/793"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 05",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/99"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "FISICA II",
+    "teacher": [
+      {
+        "name": "JOAO LUIS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/822"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 20",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/18"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "FISICA II",
+    "teacher": [
+      {
+        "name": "JOAO LUIS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/822"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 20",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/18"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "SOCIOLOGIA III",
+    "teacher": [
+      {
+        "name": "LUIZ GONZ-SOCI",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/833"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 20",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/18"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "SOCIOLOGIA III",
+    "teacher": [
+      {
+        "name": "LUIZ GONZ-SOCI",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/833"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 20",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/18"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "ED FISICA III",
+    "teacher": [
+      {
+        "name": "SEM PROF",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/467"
+      }
+    ],
+    "location": []
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "PROJ INST ELET",
+    "teacher": [
+      {
+        "name": "JOSE LINS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/222"
+      },
+      {
+        "name": "LEONARD TELINO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/251"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/33"
+      },
+      {
+        "name": "SALA 01",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/86"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "ED FISICA III",
+    "teacher": [
+      {
+        "name": "SEM PROF",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/467"
+      }
+    ],
+    "location": []
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "MAQ ELETRICAS",
+    "teacher": [
+      {
+        "name": "EDUARDO VIDAL",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/104"
+      }
+    ],
+    "location": [
+      {
+        "name": "MÁQ ELETR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/60"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "MATEMATICA III",
+    "teacher": [
+      {
+        "name": "EDNALDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/258"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 01",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/86"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "PROJ INST ELET",
+    "teacher": [
+      {
+        "name": "JOSE LINS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/222"
+      },
+      {
+        "name": "LEONARD TELINO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/251"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/33"
+      },
+      {
+        "name": "SALA 01",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/86"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "ELETRON BASICA",
+    "teacher": [
+      {
+        "name": "ANDREA GOMES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/35"
+      },
+      {
+        "name": "EDUARDO VIDAL",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/104"
+      }
+    ],
+    "location": [
+      {
+        "name": "ELETRIC I",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/19"
+      },
+      {
+        "name": "MÁQ ELETR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/60"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "MATEMATICA III",
+    "teacher": [
+      {
+        "name": "EDNALDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/258"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 01",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/86"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "FILOSOFIA III",
+    "teacher": [
+      {
+        "name": "TIAGO ADONIAS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/847"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 01",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/86"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "PROJ INST ELET",
+    "teacher": [
+      {
+        "name": "JOSE LINS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/222"
+      },
+      {
+        "name": "LEONARD TELINO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/251"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/33"
+      },
+      {
+        "name": "SALA 01",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/86"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "QUIMICA III",
+    "teacher": [
+      {
+        "name": "ARQUIMEDES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/799"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 01",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/86"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "ELETRON BASICA",
+    "teacher": [
+      {
+        "name": "ANDREA GOMES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/35"
+      },
+      {
+        "name": "EDUARDO VIDAL",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/104"
+      }
+    ],
+    "location": [
+      {
+        "name": "ELETRIC I",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/19"
+      },
+      {
+        "name": "MÁQ ELETR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/60"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "HS GE BR PB I",
+    "teacher": [
+      {
+        "name": "FRANCISCO HENR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/764"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 01",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/86"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "FILOSOFIA III",
+    "teacher": [
+      {
+        "name": "TIAGO ADONIAS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/847"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 01",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/86"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "PROJ INST ELET",
+    "teacher": [
+      {
+        "name": "JOSE LINS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/222"
+      },
+      {
+        "name": "LEONARD TELINO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/251"
+      },
+      {
+        "name": "POSTES/DEE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/54"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 13",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/26"
+      },
+      {
+        "name": "SALA 01",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/86"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "QUIMICA III",
+    "teacher": [
+      {
+        "name": "ARQUIMEDES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/799"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 01",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/86"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "ELETRON BASICA",
+    "teacher": [
+      {
+        "name": "ANDREA GOMES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/35"
+      },
+      {
+        "name": "EDUARDO VIDAL",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/104"
+      }
+    ],
+    "location": [
+      {
+        "name": "ELETRIC I",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/19"
+      },
+      {
+        "name": "MÁQ ELETR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/60"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "POR LIT BR III",
+    "teacher": [
+      {
+        "name": "SERGIO FILHO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/385"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 01",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/86"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "HS GE BR PB I",
+    "teacher": [
+      {
+        "name": "FRANCISCO HENR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/764"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 01",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/86"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "PROJ INST ELET",
+    "teacher": [
+      {
+        "name": "JOSE LINS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/222"
+      },
+      {
+        "name": "LEONARD TELINO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/251"
+      },
+      {
+        "name": "POSTES/DEE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/54"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 13",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/26"
+      },
+      {
+        "name": "SALA 01",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/86"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "BIOLOGIA III",
+    "teacher": [
+      {
+        "name": "ANA VIEIRA ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/538"
+      }
+    ],
+    "location": [
+      {
+        "name": "LAB BIOLOG",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/6"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "ELETRON BASICA",
+    "teacher": [
+      {
+        "name": "ANDREA GOMES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/35"
+      },
+      {
+        "name": "EDUARDO VIDAL",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/104"
+      }
+    ],
+    "location": [
+      {
+        "name": "ELETRIC I",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/19"
+      },
+      {
+        "name": "MÁQ ELETR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/60"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "POR LIT BR III",
+    "teacher": [
+      {
+        "name": "SERGIO FILHO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/385"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 01",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/86"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "HS GE BR PB I",
+    "teacher": [
+      {
+        "name": "FRANCISCO HENR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/764"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 01",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/86"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "PROJ INST ELET",
+    "teacher": [
+      {
+        "name": "JOSE LINS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/222"
+      },
+      {
+        "name": "LEONARD TELINO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/251"
+      },
+      {
+        "name": "POSTES/DEE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/54"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 13",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/26"
+      },
+      {
+        "name": "SALA 01",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/86"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "BIOLOGIA III",
+    "teacher": [
+      {
+        "name": "ANA VIEIRA ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/538"
+      }
+    ],
+    "location": [
+      {
+        "name": "LAB BIOLOG",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/6"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "MAQ ELETRICAS",
+    "teacher": [
+      {
+        "name": "EDUARDO VIDAL",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/104"
+      }
+    ],
+    "location": [
+      {
+        "name": "MÁQ ELETR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/60"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "POR LIT BR III",
+    "teacher": [
+      {
+        "name": "SERGIO FILHO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/385"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 01",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/86"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "SOCIO/FILO IV",
+    "teacher": [
+      {
+        "name": "TIAGO ADONIAS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/847"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 15",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/23"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "COMANDOS ELETR",
+    "teacher": [
+      {
+        "name": "VAGNER FN",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/711"
+      }
+    ],
+    "location": [
+      {
+        "name": "COM EL AUT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/10"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "MET TRAB CIENT",
+    "teacher": [
+      {
+        "name": "LUIZ GONZ-SOCI",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/833"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 15",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/23"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "AUT PRED IND",
+    "teacher": [
+      {
+        "name": "CLAUDIO MARZO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/77"
+      },
+      {
+        "name": "LEONARD TELINO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/251"
+      }
+    ],
+    "location": [
+      {
+        "name": "COM EL AUT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/10"
+      },
+      {
+        "name": "ELETRIC II",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/99"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 4,
+    "weekday": "sexta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "HIST GE BRA II",
+    "teacher": [
+      {
+        "name": "FABRICIO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/683"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 15",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/23"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "SOCIO/FILO IV",
+    "teacher": [
+      {
+        "name": "TIAGO ADONIAS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/847"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 15",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/23"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "COMANDOS ELETR",
+    "teacher": [
+      {
+        "name": "VAGNER FN",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/711"
+      },
+      {
+        "name": "EDGARD LUIZ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/99"
+      }
+    ],
+    "location": [
+      {
+        "name": "COM EL AUT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/10"
+      },
+      {
+        "name": "ELETRO IND",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/21"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "MET TRAB CIENT",
+    "teacher": [
+      {
+        "name": "LUIZ GONZ-SOCI",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/833"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 15",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/23"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "AUT PRED IND",
+    "teacher": [
+      {
+        "name": "CLAUDIO MARZO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/77"
+      },
+      {
+        "name": "LEONARD TELINO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/251"
+      }
+    ],
+    "location": [
+      {
+        "name": "COM EL AUT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/10"
+      },
+      {
+        "name": "ELETRO II",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/7"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 4,
+    "weekday": "sexta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "HIST GE BRA II",
+    "teacher": [
+      {
+        "name": "FABRICIO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/683"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 15",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/23"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "GESTAO ORGANIZ",
+    "teacher": [
+      {
+        "name": "ANNA CAROLINA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/827"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 15",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/23"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "COMANDOS ELETR",
+    "teacher": [
+      {
+        "name": "VAGNER FN",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/711"
+      },
+      {
+        "name": "EDGARD LUIZ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/99"
+      }
+    ],
+    "location": [
+      {
+        "name": "COM EL AUT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/10"
+      },
+      {
+        "name": "ELETRO IND",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/21"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "MATEMATICA IV",
+    "teacher": [
+      {
+        "name": "ALFREDO BRITO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/176"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 15",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/23"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "AUT PRED IND",
+    "teacher": [
+      {
+        "name": "CLAUDIO MARZO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/77"
+      },
+      {
+        "name": "LEONARD TELINO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/251"
+      }
+    ],
+    "location": [
+      {
+        "name": "COM EL AUT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/10"
+      },
+      {
+        "name": "ELETRIC II",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/99"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 4,
+    "weekday": "sexta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "HIST GE BRA II",
+    "teacher": [
+      {
+        "name": "FABRICIO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/683"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 15",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/23"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "GESTAO ORGANIZ",
+    "teacher": [
+      {
+        "name": "ANNA CAROLINA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/827"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 15",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/23"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "COMANDOS ELETR",
+    "teacher": [
+      {
+        "name": "VAGNER FN",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/711"
+      },
+      {
+        "name": "EDGARD LUIZ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/99"
+      }
+    ],
+    "location": [
+      {
+        "name": "COM EL AUT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/10"
+      },
+      {
+        "name": "ELETRO IND",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/21"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "MATEMATICA IV",
+    "teacher": [
+      {
+        "name": "ALFREDO BRITO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/176"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 15",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/23"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "AUT PRED IND",
+    "teacher": [
+      {
+        "name": "CLAUDIO MARZO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/77"
+      },
+      {
+        "name": "LEONARD TELINO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/251"
+      }
+    ],
+    "location": [
+      {
+        "name": "COM EL AUT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/10"
+      },
+      {
+        "name": "ELETRIC II",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/99"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 4,
+    "weekday": "sexta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "EMPREENDED",
+    "teacher": [
+      {
+        "name": "JOSÉ OZILDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/662"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 15",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/23"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "FISICA III",
+    "teacher": [
+      {
+        "name": "VALDIELIO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/825"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 15",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/23"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "COMANDOS ELETR",
+    "teacher": [
+      {
+        "name": "VAGNER FN",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/711"
+      },
+      {
+        "name": "EDGARD LUIZ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/99"
+      }
+    ],
+    "location": [
+      {
+        "name": "COM EL AUT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/10"
+      },
+      {
+        "name": "ELETRO IND",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/21"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "EDUC TRAB",
+    "teacher": [
+      {
+        "name": "ALEXANDRE LIMA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/16"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 15",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/23"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "EFIC ENER FAE",
+    "teacher": [
+      {
+        "name": "WALMERAN TRIND",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/417"
+      }
+    ],
+    "location": [
+      {
+        "name": "COM EL AUT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/10"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 4,
+    "weekday": "sexta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "EMPREENDED",
+    "teacher": [
+      {
+        "name": "JOSÉ OZILDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/662"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 15",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/23"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "FISICA III",
+    "teacher": [
+      {
+        "name": "VALDIELIO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/825"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 15",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/23"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "COMANDOS ELETR",
+    "teacher": [
+      {
+        "name": "VAGNER FN",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/711"
+      }
+    ],
+    "location": [
+      {
+        "name": "COM EL AUT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/10"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "EDUC TRAB",
+    "teacher": [
+      {
+        "name": "ALEXANDRE LIMA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/16"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 15",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/23"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO VESPERTINO",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "EFIC ENER FAE",
+    "teacher": [
+      {
+        "name": "WALMERAN TRIND",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/417"
+      }
+    ],
+    "location": [
+      {
+        "name": "COM EL AUT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/10"
+      }
+    ]
+  }
+]

@@ -1,0 +1,617 @@
+[
+  {
+    "course": "PROGRESSÃO PARCIAL",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "DES BASICO",
+    "teacher": [
+      {
+        "name": "ANA MARIA K",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/29"
+      }
+    ],
+    "location": [
+      {
+        "name": "SDES. 03",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/52"
+      }
+    ]
+  },
+  {
+    "course": "PROGRESSÃO PARCIAL",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "DES BASICO",
+    "teacher": [
+      {
+        "name": "ANA MARIA K",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/29"
+      }
+    ],
+    "location": [
+      {
+        "name": "SDES. 03",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/52"
+      }
+    ]
+  },
+  {
+    "course": "PROGRESSÃO PARCIAL",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "MATEMATICA I",
+    "teacher": [
+      {
+        "name": "DIEGO AYLLO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/68"
+      },
+      {
+        "name": "MARCIO DINIZ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/282"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 24",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/14"
+      },
+      {
+        "name": "SALA 35",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/56"
+      }
+    ]
+  },
+  {
+    "course": "PROGRESSÃO PARCIAL",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "MATEMATICA I",
+    "teacher": [
+      {
+        "name": "ALFREDO BRITO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/176"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 35",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/56"
+      }
+    ]
+  },
+  {
+    "course": "PROGRESSÃO PARCIAL",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "MATEMATICA I",
+    "teacher": [
+      {
+        "name": "DIEGO AYLLO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/68"
+      },
+      {
+        "name": "MARCIO DINIZ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/282"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 24",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/14"
+      },
+      {
+        "name": "SALA 35",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/56"
+      }
+    ]
+  },
+  {
+    "course": "PROGRESSÃO PARCIAL",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "MATEMATICA I",
+    "teacher": [
+      {
+        "name": "ALFREDO BRITO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/176"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 35",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/56"
+      }
+    ]
+  },
+  {
+    "course": "PROGRESSÃO PARCIAL",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "BIOLOGIA I",
+    "teacher": [
+      {
+        "name": "CLEOMAR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/80"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 35",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/56"
+      }
+    ]
+  },
+  {
+    "course": "PROGRESSÃO PARCIAL",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "BIOLOGIA I",
+    "teacher": [
+      {
+        "name": "CLEOMAR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/80"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 33",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/4"
+      }
+    ]
+  },
+  {
+    "course": "PROGRESSÃO PARCIAL",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "INGLÊS I",
+    "teacher": [
+      {
+        "name": "JACKELINNE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/721"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 35",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/56"
+      }
+    ]
+  },
+  {
+    "course": "PROGRESSÃO PARCIAL",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "FÍSICA I",
+    "teacher": [
+      {
+        "name": "WELL CAETANO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/422"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 35",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/56"
+      }
+    ]
+  },
+  {
+    "course": "PROGRESSÃO PARCIAL",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "FÍSICA I",
+    "teacher": [
+      {
+        "name": "WELL CAETANO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/422"
+      },
+      {
+        "name": "MARTA MACENA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/312"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 35",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/56"
+      },
+      {
+        "name": "SALA 14",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/74"
+      }
+    ]
+  },
+  {
+    "course": "PROGRESSÃO PARCIAL",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "QUÍMICA II",
+    "teacher": [
+      {
+        "name": "SUELY CAR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/395"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 35",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/56"
+      }
+    ]
+  },
+  {
+    "course": "PROGRESSÃO PARCIAL",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "DES ARQ I",
+    "teacher": [
+      {
+        "name": "ROBERTA PAIVA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/368"
+      },
+      {
+        "name": "ANA CAVALCANTE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/842"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 11",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/32"
+      },
+      {
+        "name": "SALA 35",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/56"
+      }
+    ]
+  },
+  {
+    "course": "PROGRESSÃO PARCIAL",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "DES ARQ I",
+    "teacher": [
+      {
+        "name": "ANA CAROLINE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/723"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 11",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/32"
+      }
+    ]
+  },
+  {
+    "course": "PROGRESSÃO PARCIAL",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "DES ARQ I",
+    "teacher": [
+      {
+        "name": "ROBERTA PAIVA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/368"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 11",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/32"
+      }
+    ]
+  },
+  {
+    "course": "PROGRESSÃO PARCIAL",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "DES ARQ I",
+    "teacher": [
+      {
+        "name": "ANA CAROLINE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/723"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 11",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/32"
+      }
+    ]
+  },
+  {
+    "course": "PROGRESSÃO PARCIAL",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "ESPANHOL II",
+    "teacher": [
+      {
+        "name": "VALDELUCIA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/405"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 33",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/4"
+      }
+    ]
+  },
+  {
+    "course": "PROGRESSÃO PARCIAL",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "QUÍMICA III",
+    "teacher": [
+      {
+        "name": "ANDERSON QUI",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/656"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 35",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/56"
+      }
+    ]
+  },
+  {
+    "course": "PROGRESSÃO PARCIAL",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "DES ARQ II",
+    "teacher": [
+      {
+        "name": "JULIANA SÁ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/481"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 11",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/32"
+      }
+    ]
+  },
+  {
+    "course": "PROGRESSÃO PARCIAL",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "DES AUX II",
+    "teacher": [
+      {
+        "name": "VITTO GERMOGLI",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/455"
+      }
+    ],
+    "location": [
+      {
+        "name": "ROBERTA XAVIER",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/369"
+      }
+    ]
+  },
+  {
+    "course": "PROGRESSÃO PARCIAL",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "QUÍMICA III",
+    "teacher": [
+      {
+        "name": "ANDERSON QUI",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/656"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 35",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/56"
+      }
+    ]
+  },
+  {
+    "course": "PROGRESSÃO PARCIAL",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "DES ARQ II",
+    "teacher": [
+      {
+        "name": "JULIANA SÁ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/481"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 11",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/32"
+      }
+    ]
+  },
+  {
+    "course": "PROGRESSÃO PARCIAL",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "DES AUX II",
+    "teacher": [
+      {
+        "name": "VITTO GERMOGLI",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/455"
+      }
+    ],
+    "location": [
+      {
+        "name": "ROBERTA XAVIER",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/369"
+      }
+    ]
+  },
+  {
+    "course": "PROGRESSÃO PARCIAL",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "BIOLOGIA III",
+    "teacher": [
+      {
+        "name": "RUTH AMANDA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/241"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 33",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/4"
+      }
+    ]
+  },
+  {
+    "course": "PROGRESSÃO PARCIAL",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "SOCIOLOGIA III",
+    "teacher": [
+      {
+        "name": "ADOLFO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/5"
+      },
+      {
+        "name": "RUTH AMANDA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/241"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 35",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/56"
+      },
+      {
+        "name": "SALA 33",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/4"
+      }
+    ]
+  },
+  {
+    "course": "PROGRESSÃO PARCIAL",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "TCC",
+    "teacher": [
+      {
+        "name": "ANA MARIA K",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/29"
+      }
+    ],
+    "location": []
+  },
+  {
+    "course": "PROGRESSÃO PARCIAL",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "TCC",
+    "teacher": [
+      {
+        "name": "ANA MARIA K",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/29"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 11",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/32"
+      }
+    ]
+  },
+  {
+    "course": "PROGRESSÃO PARCIAL",
+    "semester": 4,
+    "weekday": "sexta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "MATEMATICA IV",
+    "teacher": [
+      {
+        "name": "EWERTON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/805"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 35",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/56"
+      }
+    ]
+  },
+  {
+    "course": "PROGRESSÃO PARCIAL",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "MATEMATICA IV",
+    "teacher": [
+      {
+        "name": "EWERTON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/805"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 35",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/56"
+      }
+    ]
+  }
+]

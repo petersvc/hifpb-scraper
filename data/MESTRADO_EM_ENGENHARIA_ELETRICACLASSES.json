@@ -1,0 +1,518 @@
+[
+  {
+    "course": "MESTRADO EM ENGENHARIA ELETRICA",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "MAT ELETROMAG",
+    "teacher": [
+      {
+        "name": "EDGARD MACEDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/98"
+      }
+    ],
+    "location": [
+      {
+        "name": "GSCMAT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/14"
+      }
+    ]
+  },
+  {
+    "course": "MESTRADO EM ENGENHARIA ELETRICA",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "AN SINAIS SIST",
+    "teacher": [
+      {
+        "name": "SUZETE ELIDA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/396"
+      }
+    ],
+    "location": [
+      {
+        "name": "FIBRA OPT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/80"
+      }
+    ]
+  },
+  {
+    "course": "MESTRADO EM ENGENHARIA ELETRICA",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "DISP MICROOND",
+    "teacher": [
+      {
+        "name": "ALFREDO GOMES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/19"
+      },
+      {
+        "name": "CLEUMAR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/81"
+      }
+    ],
+    "location": [
+      {
+        "name": "MED TELECO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/65"
+      },
+      {
+        "name": "EQUIP BIOM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/1"
+      }
+    ]
+  },
+  {
+    "course": "MESTRADO EM ENGENHARIA ELETRICA",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "PROPAGAÇÃO",
+    "teacher": [
+      {
+        "name": "JEFERSON COSTA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/197"
+      }
+    ],
+    "location": [
+      {
+        "name": "MED TELECO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/65"
+      }
+    ]
+  },
+  {
+    "course": "MESTRADO EM ENGENHARIA ELETRICA",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "MAT ELETROMAG",
+    "teacher": [
+      {
+        "name": "EDGARD MACEDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/98"
+      },
+      {
+        "name": "DANILO REGIS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/62"
+      }
+    ],
+    "location": [
+      {
+        "name": "GSCMAT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/14"
+      },
+      {
+        "name": "FIBRA OPT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/80"
+      }
+    ]
+  },
+  {
+    "course": "MESTRADO EM ENGENHARIA ELETRICA",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "AN SINAIS SIST",
+    "teacher": [
+      {
+        "name": "SUZETE ELIDA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/396"
+      }
+    ],
+    "location": [
+      {
+        "name": "FIBRA OPT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/80"
+      }
+    ]
+  },
+  {
+    "course": "MESTRADO EM ENGENHARIA ELETRICA",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "DISP MICROOND",
+    "teacher": [
+      {
+        "name": "ALFREDO GOMES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/19"
+      },
+      {
+        "name": "CLEUMAR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/81"
+      }
+    ],
+    "location": [
+      {
+        "name": "MED TELECO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/65"
+      },
+      {
+        "name": "EQUIP BIOM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/1"
+      }
+    ]
+  },
+  {
+    "course": "MESTRADO EM ENGENHARIA ELETRICA",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "PROPAGAÇÃO",
+    "teacher": [
+      {
+        "name": "JEFERSON COSTA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/197"
+      }
+    ],
+    "location": [
+      {
+        "name": "MED TELECO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/65"
+      }
+    ]
+  },
+  {
+    "course": "MESTRADO EM ENGENHARIA ELETRICA",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "MAT ELETROMAG",
+    "teacher": [
+      {
+        "name": "EDGARD MACEDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/98"
+      },
+      {
+        "name": "PAULO HENRIQUE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/342"
+      },
+      {
+        "name": "DANILO REGIS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/62"
+      }
+    ],
+    "location": [
+      {
+        "name": "GSCMAT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/14"
+      },
+      {
+        "name": "MED TELECO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/65"
+      },
+      {
+        "name": "FIBRA OPT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/80"
+      }
+    ]
+  },
+  {
+    "course": "MESTRADO EM ENGENHARIA ELETRICA",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "AN SINAIS SIST",
+    "teacher": [
+      {
+        "name": "SUZETE ELIDA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/396"
+      }
+    ],
+    "location": [
+      {
+        "name": "FIBRA OPT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/80"
+      }
+    ]
+  },
+  {
+    "course": "MESTRADO EM ENGENHARIA ELETRICA",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "DISP MICROOND",
+    "teacher": [
+      {
+        "name": "ALFREDO GOMES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/19"
+      },
+      {
+        "name": "CLEUMAR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/81"
+      }
+    ],
+    "location": [
+      {
+        "name": "MED TELECO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/65"
+      },
+      {
+        "name": "EQUIP BIOM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/1"
+      }
+    ]
+  },
+  {
+    "course": "MESTRADO EM ENGENHARIA ELETRICA",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "PROPAGAÇÃO",
+    "teacher": [
+      {
+        "name": "JEFERSON COSTA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/197"
+      }
+    ],
+    "location": [
+      {
+        "name": "MED TELECO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/65"
+      }
+    ]
+  },
+  {
+    "course": "MESTRADO EM ENGENHARIA ELETRICA",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "TEE- PROB FDTD",
+    "teacher": [
+      {
+        "name": "PAULO HENRIQUE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/342"
+      },
+      {
+        "name": "DANILO REGIS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/62"
+      }
+    ],
+    "location": [
+      {
+        "name": "MED TELECO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/65"
+      },
+      {
+        "name": "FIBRA OPT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/80"
+      }
+    ]
+  },
+  {
+    "course": "MESTRADO EM ENGENHARIA ELETRICA",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "TEE- PROB FDTD",
+    "teacher": [
+      {
+        "name": "PAULO HENRIQUE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/342"
+      }
+    ],
+    "location": [
+      {
+        "name": "MED TELECO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/65"
+      }
+    ]
+  },
+  {
+    "course": "MESTRADO EM ENGENHARIA ELETRICA",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "INT COMPUT",
+    "teacher": [
+      {
+        "name": "PAULO HENRIQUE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/342"
+      }
+    ],
+    "location": [
+      {
+        "name": "MED TELECO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/65"
+      }
+    ]
+  },
+  {
+    "course": "MESTRADO EM ENGENHARIA ELETRICA",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "COMUN OPTICAS",
+    "teacher": [
+      {
+        "name": "ROSSANA MORENO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/377"
+      }
+    ],
+    "location": [
+      {
+        "name": "FIBRA OPT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/80"
+      }
+    ]
+  },
+  {
+    "course": "MESTRADO EM ENGENHARIA ELETRICA",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "INT COMPUT",
+    "teacher": [
+      {
+        "name": "PAULO HENRIQUE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/342"
+      }
+    ],
+    "location": [
+      {
+        "name": "MED TELECO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/65"
+      }
+    ]
+  },
+  {
+    "course": "MESTRADO EM ENGENHARIA ELETRICA",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "FER. PROC. SIN",
+    "teacher": [
+      {
+        "name": "VINICIUS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/853"
+      }
+    ],
+    "location": [
+      {
+        "name": "TELEF R C",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/77"
+      }
+    ]
+  },
+  {
+    "course": "MESTRADO EM ENGENHARIA ELETRICA",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "COMUN OPTICAS",
+    "teacher": [
+      {
+        "name": "ROSSANA MORENO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/377"
+      }
+    ],
+    "location": [
+      {
+        "name": "FIBRA OPT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/80"
+      }
+    ]
+  },
+  {
+    "course": "MESTRADO EM ENGENHARIA ELETRICA",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "INT COMPUT",
+    "teacher": [
+      {
+        "name": "PAULO HENRIQUE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/342"
+      }
+    ],
+    "location": [
+      {
+        "name": "MED TELECO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/65"
+      }
+    ]
+  },
+  {
+    "course": "MESTRADO EM ENGENHARIA ELETRICA",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "FER. PROC. SIN",
+    "teacher": [
+      {
+        "name": "VINICIUS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/853"
+      }
+    ],
+    "location": [
+      {
+        "name": "TELEF R C",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/77"
+      }
+    ]
+  },
+  {
+    "course": "MESTRADO EM ENGENHARIA ELETRICA",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "COMUN OPTICAS",
+    "teacher": [
+      {
+        "name": "ROSSANA MORENO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/377"
+      }
+    ],
+    "location": [
+      {
+        "name": "FIBRA OPT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/80"
+      }
+    ]
+  },
+  {
+    "course": "MESTRADO EM ENGENHARIA ELETRICA",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "FER. PROC. SIN",
+    "teacher": [
+      {
+        "name": "VINICIUS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/853"
+      }
+    ],
+    "location": [
+      {
+        "name": "TELEF R C",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/77"
+      }
+    ]
+  }
+]

@@ -1,0 +1,3795 @@
+[
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "PR ET PROF I",
+    "teacher": [
+      {
+        "name": "ANDREA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/34"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 17",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/21"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "MAT BASICA",
+    "teacher": [
+      {
+        "name": "GUTEMBERG",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/46"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 302",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/82"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "PSIC EDUCACAO",
+    "teacher": [
+      {
+        "name": "GEOVANA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/155"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 17",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/21"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "QUIM GERAL I",
+    "teacher": [
+      {
+        "name": "ALESSANDRA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/13"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 17",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/21"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "QUIM GERAL I",
+    "teacher": [
+      {
+        "name": "ALESSANDRA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/13"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 17",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/21"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "PR ET PROF I",
+    "teacher": [
+      {
+        "name": "ANDREA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/34"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 17",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/21"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "MAT BASICA",
+    "teacher": [
+      {
+        "name": "GUTEMBERG",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/46"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 302",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/82"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "PSIC EDUCACAO",
+    "teacher": [
+      {
+        "name": "GEOVANA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/155"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 17",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/21"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "QUIM GERAL I",
+    "teacher": [
+      {
+        "name": "ALESSANDRA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/13"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 17",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/21"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "QUIM GERAL I",
+    "teacher": [
+      {
+        "name": "ALESSANDRA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/13"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 17",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/21"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "PR ET PROF I",
+    "teacher": [
+      {
+        "name": "ANDREA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/34"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 17",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/21"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "MAT BASICA",
+    "teacher": [
+      {
+        "name": "GUTEMBERG",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/46"
+      }
+    ],
+    "location": []
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "FILO EDUCACAO",
+    "teacher": [
+      {
+        "name": "EMMANOEL",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/112"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 17",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/21"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "QUIM GERAL I",
+    "teacher": [
+      {
+        "name": "ALESSANDRA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/13"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 17",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/21"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "PSIC EDUCACAO",
+    "teacher": [
+      {
+        "name": "GEOVANA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/155"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 17",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/21"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "FILO EDUCACAO",
+    "teacher": [
+      {
+        "name": "EMMANOEL",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/112"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 17",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/21"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "QUIM EXP I",
+    "teacher": [
+      {
+        "name": "ALESSANDRA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/13"
+      },
+      {
+        "name": "LAB QUIM.1",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/72"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 17",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/21"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "ESTR EDUC BAS",
+    "teacher": [
+      {
+        "name": "ISMAEL",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/184"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 17",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/21"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "PSIC EDUCACAO",
+    "teacher": [
+      {
+        "name": "GEOVANA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/155"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 17",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/21"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "FILO EDUCACAO",
+    "teacher": [
+      {
+        "name": "EMMANOEL",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/112"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 17",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/21"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "QUIM EXP I",
+    "teacher": [
+      {
+        "name": "ALESSANDRA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/13"
+      },
+      {
+        "name": "LAB QUIM.1",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/72"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 17",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/21"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "ESTR EDUC BAS",
+    "teacher": [
+      {
+        "name": "ISMAEL",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/184"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 17",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/21"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "ESTR EDUC BAS",
+    "teacher": [
+      {
+        "name": "ISMAEL",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/184"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 17",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/21"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "DIDÁTICA",
+    "teacher": [
+      {
+        "name": "MARCIA LOURDES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/275"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 16",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/22"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "PR ET PROF II",
+    "teacher": [
+      {
+        "name": "GRAÇASNEG",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/483"
+      }
+    ],
+    "location": [
+      {
+        "name": "LAB QUIM.1",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/72"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "QUIM GERAL II",
+    "teacher": [
+      {
+        "name": "GESIVALDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/159"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 18",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/20"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "QUIM EXP II",
+    "teacher": [
+      {
+        "name": "GESIVALDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/159"
+      }
+    ],
+    "location": [
+      {
+        "name": "LAB QUIM.1",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/72"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "DIDÁTICA",
+    "teacher": [
+      {
+        "name": "MARCIA LOURDES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/275"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 16",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/22"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "PR ET PROF II",
+    "teacher": [
+      {
+        "name": "GRAÇASNEG",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/483"
+      }
+    ],
+    "location": [
+      {
+        "name": "LAB QUIM.1",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/72"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "QUIM GERAL II",
+    "teacher": [
+      {
+        "name": "GESIVALDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/159"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 18",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/20"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "QUIM EXP II",
+    "teacher": [
+      {
+        "name": "GESIVALDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/159"
+      }
+    ],
+    "location": [
+      {
+        "name": "LAB QUIM.1",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/72"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "DIDÁTICA",
+    "teacher": [
+      {
+        "name": "MARCIA LOURDES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/275"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 16",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/22"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "PR ET PROF II",
+    "teacher": [
+      {
+        "name": "GRAÇASNEG",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/483"
+      }
+    ],
+    "location": [
+      {
+        "name": "LAB QUIM.1",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/72"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "ESTATISTICA",
+    "teacher": [
+      {
+        "name": "FABIO SILV",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/128"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 18",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/20"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "CAL APL QUIM",
+    "teacher": [
+      {
+        "name": "WASHINGTON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/146"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 23",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/15"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "EDU DIR HUM",
+    "teacher": [
+      {
+        "name": "KELIANA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/436"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 18",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/20"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "CAL APL QUIM",
+    "teacher": [
+      {
+        "name": "WASHINGTON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/146"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 18",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/20"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "ESTATISTICA",
+    "teacher": [
+      {
+        "name": "FABIO SILV",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/128"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 18",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/20"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "QUIM GERAL II",
+    "teacher": [
+      {
+        "name": "GESIVALDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/159"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 18",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/20"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "CAL APL QUIM",
+    "teacher": [
+      {
+        "name": "WASHINGTON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/146"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 23",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/15"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "EDU DIR HUM",
+    "teacher": [
+      {
+        "name": "KELIANA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/436"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 18",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/20"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "CAL APL QUIM",
+    "teacher": [
+      {
+        "name": "WASHINGTON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/146"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 18",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/20"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "ESTATISTICA",
+    "teacher": [
+      {
+        "name": "FABIO SILV",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/128"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 18",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/20"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "QUIM GERAL II",
+    "teacher": [
+      {
+        "name": "GESIVALDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/159"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 18",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/20"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "CAL APL QUIM",
+    "teacher": [
+      {
+        "name": "WASHINGTON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/146"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 23",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/15"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "EDU DIR HUM",
+    "teacher": [
+      {
+        "name": "KELIANA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/436"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 18",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/20"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "QUIM GERAL II",
+    "teacher": [
+      {
+        "name": "GESIVALDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/159"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 18",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/20"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "PR ET PROF III",
+    "teacher": [
+      {
+        "name": "SERGIO RICARDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/386"
+      }
+    ],
+    "location": []
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "PLANEJAMENTO",
+    "teacher": [
+      {
+        "name": "MARCIA LOURDES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/275"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 14",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/74"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "AVAL EDU",
+    "teacher": [
+      {
+        "name": "MARCIA LOURDES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/275"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 14",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/74"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "QUIM INORG I",
+    "teacher": [
+      {
+        "name": "MAURICIO V",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/782"
+      },
+      {
+        "name": "LAB QUIM.3",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/74"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 14",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/74"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "PR ET PROF III",
+    "teacher": [
+      {
+        "name": "SERGIO RICARDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/386"
+      }
+    ],
+    "location": [
+      {
+        "name": "LAB QUIM.2",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/73"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "LIBRAS I",
+    "teacher": [
+      {
+        "name": "ZULEMA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/824"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 14",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/74"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "PLANEJAMENTO",
+    "teacher": [
+      {
+        "name": "MARCIA LOURDES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/275"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 14",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/74"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "AVAL EDU",
+    "teacher": [
+      {
+        "name": "MARCIA LOURDES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/275"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 14",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/74"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "QUIM INORG I",
+    "teacher": [
+      {
+        "name": "MAURICIO V",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/782"
+      },
+      {
+        "name": "LAB QUIM.3",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/74"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 14",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/74"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "PR ET PROF III",
+    "teacher": [
+      {
+        "name": "SERGIO RICARDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/386"
+      }
+    ],
+    "location": [
+      {
+        "name": "LAB QUIM.2",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/73"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "LIBRAS I",
+    "teacher": [
+      {
+        "name": "ZULEMA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/824"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 14",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/74"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "EST SUP I",
+    "teacher": [
+      {
+        "name": "MARCIA LOURDES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/275"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 14",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/74"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "QUIM INORG I",
+    "teacher": [
+      {
+        "name": "MAURICIO V",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/782"
+      },
+      {
+        "name": "LAB QUIM.3",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/74"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 14",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/74"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "FUND ALGEBRA",
+    "teacher": [
+      {
+        "name": "MARTA MACENA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/312"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 14",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/74"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "QUIM INORG I",
+    "teacher": [
+      {
+        "name": "MAURICIO V",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/782"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 14",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/74"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "QUIM ORG I",
+    "teacher": [
+      {
+        "name": "EDVALDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/105"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 14",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/74"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "FUND ALGEBRA",
+    "teacher": [
+      {
+        "name": "MARTA MACENA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/312"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 14",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/74"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "QUIM ORG I",
+    "teacher": [
+      {
+        "name": "EDVALDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/105"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 14",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/74"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "FUND ALGEBRA",
+    "teacher": [
+      {
+        "name": "MARTA MACENA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/312"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 14",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/74"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "QUIM INORG I",
+    "teacher": [
+      {
+        "name": "MAURICIO V",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/782"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 14",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/74"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "QUIM ORG I",
+    "teacher": [
+      {
+        "name": "EDVALDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/105"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 14",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/74"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "FUND ALGEBRA",
+    "teacher": [
+      {
+        "name": "MARTA MACENA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/312"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 14",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/74"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "QUIM ORG I",
+    "teacher": [
+      {
+        "name": "EDVALDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/105"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 14",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/74"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "QUIM ORG I",
+    "teacher": [
+      {
+        "name": "EDVALDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/105"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 14",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/74"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "QUIM INORG II",
+    "teacher": [
+      {
+        "name": "JAILSON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/192"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 20",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/18"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "PR ET PROF IV",
+    "teacher": [
+      {
+        "name": "GESIVALDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/159"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 20",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/18"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "QUIM INORG II",
+    "teacher": [
+      {
+        "name": "JAILSON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/192"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 32",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/61"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 4,
+    "weekday": "sexta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "FUND. PED. EJA",
+    "teacher": [
+      {
+        "name": "PATRÍCIA QUIM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/830"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 20",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/18"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "LIBRAS II",
+    "teacher": [
+      {
+        "name": "LUIZA MOURA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/872"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 24",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/14"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "QUIM INORG II",
+    "teacher": [
+      {
+        "name": "JAILSON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/192"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 20",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/18"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "PR ET PROF IV",
+    "teacher": [
+      {
+        "name": "GESIVALDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/159"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 20",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/18"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "QUIM INORG II",
+    "teacher": [
+      {
+        "name": "JAILSON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/192"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 32",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/61"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 4,
+    "weekday": "sexta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "FUND. PED. EJA",
+    "teacher": [
+      {
+        "name": "PATRÍCIA QUIM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/830"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 20",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/18"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "LIBRAS II",
+    "teacher": [
+      {
+        "name": "LUIZA MOURA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/872"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 24",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/14"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "EST SUP II",
+    "teacher": [
+      {
+        "name": "GEOVANA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/155"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 305",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/79"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "PR ET PROF IV",
+    "teacher": [
+      {
+        "name": "GESIVALDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/159"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 20",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/18"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "QUIM INORG II",
+    "teacher": [
+      {
+        "name": "JAILSON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/192"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 32",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/61"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "FIS APLI QUI I",
+    "teacher": [
+      {
+        "name": "JOAO LUIS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/822"
+      }
+    ],
+    "location": [
+      {
+        "name": "LAB FÍSIC",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/25"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "FIS APLI QUI I",
+    "teacher": [
+      {
+        "name": "JOAO LUIS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/822"
+      }
+    ],
+    "location": [
+      {
+        "name": "LAB FÍSIC",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/25"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "MET ENSINO QUI",
+    "teacher": [
+      {
+        "name": "GESIVALDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/159"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 32",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/61"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 4,
+    "weekday": "sexta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "QUIM ORGAN II",
+    "teacher": [
+      {
+        "name": "ARQUIMEDES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/799"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 20",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/18"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "FIS APLI QUI I",
+    "teacher": [
+      {
+        "name": "JOAO LUIS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/822"
+      }
+    ],
+    "location": [
+      {
+        "name": "LAB FÍSIC",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/25"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "FIS APLI QUI I",
+    "teacher": [
+      {
+        "name": "JOAO LUIS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/822"
+      }
+    ],
+    "location": [
+      {
+        "name": "LAB FÍSIC",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/25"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "QUIM ORGAN II",
+    "teacher": [
+      {
+        "name": "ARQUIMEDES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/799"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 20",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/18"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "MET ENSINO QUI",
+    "teacher": [
+      {
+        "name": "GESIVALDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/159"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 32",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/61"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 4,
+    "weekday": "sexta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "QUIM ORGAN II",
+    "teacher": [
+      {
+        "name": "ARQUIMEDES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/799"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 20",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/18"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "QUIM ORGAN II",
+    "teacher": [
+      {
+        "name": "ARQUIMEDES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/799"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 20",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/18"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "MET ENSINO QUI",
+    "teacher": [
+      {
+        "name": "GESIVALDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/159"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 32",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/61"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 4,
+    "weekday": "sexta",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "QUIM ORGAN II",
+    "teacher": [
+      {
+        "name": "ARQUIMEDES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/799"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 20",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/18"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 5,
+    "weekday": "terca",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "QUIM ORGAN III",
+    "teacher": [
+      {
+        "name": "ANDERSON QUI",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/656"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 24",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/14"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 5,
+    "weekday": "quarta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "LAB MAT ALT I",
+    "teacher": [
+      {
+        "name": "ALESSANDRA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/13"
+      }
+    ],
+    "location": [
+      {
+        "name": "LAB QUIM.1",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/72"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 5,
+    "weekday": "quinta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "PORT INSTR",
+    "teacher": [
+      {
+        "name": "ANA PAULA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/430"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 45",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/48"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 5,
+    "weekday": "sexta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "FIS QUI I",
+    "teacher": [
+      {
+        "name": "EMANOEL ALMEID",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/141"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 21",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/17"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 5,
+    "weekday": "segunda",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "FÍS APLIC II",
+    "teacher": [
+      {
+        "name": "FABIO GR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/713"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 45",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/48"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 5,
+    "weekday": "terca",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "QUIM ORGAN III",
+    "teacher": [
+      {
+        "name": "ANDERSON QUI",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/656"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 24",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/14"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 5,
+    "weekday": "quarta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "LAB MAT ALT I",
+    "teacher": [
+      {
+        "name": "ALESSANDRA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/13"
+      }
+    ],
+    "location": [
+      {
+        "name": "LAB QUIM.1",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/72"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 5,
+    "weekday": "quinta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "PORT INSTR",
+    "teacher": [
+      {
+        "name": "ANA PAULA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/430"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 45",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/48"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 5,
+    "weekday": "sexta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "FIS QUI I",
+    "teacher": [
+      {
+        "name": "EMANOEL ALMEID",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/141"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 21",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/17"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 5,
+    "weekday": "segunda",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "FÍS APLIC II",
+    "teacher": [
+      {
+        "name": "FABIO GR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/713"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 45",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/48"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 5,
+    "weekday": "terca",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "FÍS APLIC II",
+    "teacher": [
+      {
+        "name": "FABIO GR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/713"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 20",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/18"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 5,
+    "weekday": "quarta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "LAB MAT ALT I",
+    "teacher": [
+      {
+        "name": "ALESSANDRA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/13"
+      }
+    ],
+    "location": [
+      {
+        "name": "LAB QUIM.1",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/72"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 5,
+    "weekday": "quinta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "EST SUP III",
+    "teacher": [
+      {
+        "name": "GEOVANA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/155"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 16",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/22"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 5,
+    "weekday": "sexta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "FUND MET CIENT",
+    "teacher": [
+      {
+        "name": "MARCIO ROBERTO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/789"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 21",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/17"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 5,
+    "weekday": "segunda",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "PR ET PROF V",
+    "teacher": [
+      {
+        "name": "SERGIO RICARDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/386"
+      },
+      {
+        "name": "LAB QUIM.1",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/72"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 45",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/48"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 5,
+    "weekday": "terca",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "FÍS APLIC II",
+    "teacher": [
+      {
+        "name": "FABIO GR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/713"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 20",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/18"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 5,
+    "weekday": "quarta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "PR ET PROF V",
+    "teacher": [
+      {
+        "name": "SERGIO RICARDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/386"
+      },
+      {
+        "name": "LAB QUIM.1",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/72"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 45",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/48"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 5,
+    "weekday": "quinta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "FIS QUI I",
+    "teacher": [
+      {
+        "name": "EMANOEL ALMEID",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/141"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 15",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/23"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 5,
+    "weekday": "sexta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "FUND MET CIENT",
+    "teacher": [
+      {
+        "name": "MARCIO ROBERTO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/789"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 21",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/17"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 5,
+    "weekday": "segunda",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "PR ET PROF V",
+    "teacher": [
+      {
+        "name": "SERGIO RICARDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/386"
+      },
+      {
+        "name": "LAB QUIM.1",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/72"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 45",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/48"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 5,
+    "weekday": "quarta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "PR ET PROF V",
+    "teacher": [
+      {
+        "name": "SERGIO RICARDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/386"
+      },
+      {
+        "name": "LAB QUIM.1",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/72"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 45",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/48"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 5,
+    "weekday": "quinta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "FIS QUI I",
+    "teacher": [
+      {
+        "name": "EMANOEL ALMEID",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/141"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 15",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/23"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 5,
+    "weekday": "sexta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "PORT INSTR",
+    "teacher": [
+      {
+        "name": "ANA PAULA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/430"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 21",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/17"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 5,
+    "weekday": "sexta",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "PORT INSTR",
+    "teacher": [
+      {
+        "name": "ANA PAULA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/430"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 21",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/17"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 6,
+    "weekday": "segunda",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "QUIM ANA QUAL",
+    "teacher": [
+      {
+        "name": "JAILSON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/192"
+      },
+      {
+        "name": "LAB QUIM.3",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/74"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 22",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/16"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 6,
+    "weekday": "quarta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "LAB MAT ALT II",
+    "teacher": [
+      {
+        "name": "EMANOEL ALMEID",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/141"
+      }
+    ],
+    "location": [
+      {
+        "name": "LAB QUIM.2",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/73"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 6,
+    "weekday": "quinta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "FIS QUI II",
+    "teacher": [
+      {
+        "name": "EMANOEL ALMEID",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/141"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 22",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/16"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 6,
+    "weekday": "sexta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "INGLES INST",
+    "teacher": [
+      {
+        "name": "CELIANY - ING",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/877"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 22",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/16"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 6,
+    "weekday": "segunda",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "QUIM ANA QUAL",
+    "teacher": [
+      {
+        "name": "JAILSON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/192"
+      },
+      {
+        "name": "LAB QUIM.3",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/74"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 22",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/16"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 6,
+    "weekday": "quarta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "LAB MAT ALT II",
+    "teacher": [
+      {
+        "name": "EMANOEL ALMEID",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/141"
+      }
+    ],
+    "location": [
+      {
+        "name": "LAB QUIM.2",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/73"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 6,
+    "weekday": "quinta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "FIS QUI II",
+    "teacher": [
+      {
+        "name": "EMANOEL ALMEID",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/141"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 22",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/16"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 6,
+    "weekday": "sexta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "INGLES INST",
+    "teacher": [
+      {
+        "name": "CELIANY - ING",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/877"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 22",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/16"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 6,
+    "weekday": "segunda",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "QUIM ANA QUAL",
+    "teacher": [
+      {
+        "name": "JAILSON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/192"
+      },
+      {
+        "name": "LAB QUIM.3",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/74"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 22",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/16"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 6,
+    "weekday": "terca",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "MET TEC PES",
+    "teacher": [
+      {
+        "name": "JOSE CLEUDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/846"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 22",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/16"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 6,
+    "weekday": "quarta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "LAB MAT ALT II",
+    "teacher": [
+      {
+        "name": "EMANOEL ALMEID",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/141"
+      }
+    ],
+    "location": [
+      {
+        "name": "LAB QUIM.2",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/73"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 6,
+    "weekday": "quinta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "GEST ESCOL",
+    "teacher": [
+      {
+        "name": "MARCIA LOURDES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/275"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 22",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/16"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 6,
+    "weekday": "sexta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "INGLES INST",
+    "teacher": [
+      {
+        "name": "CELIANY - ING",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/877"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 22",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/16"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 6,
+    "weekday": "segunda",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "PR ET PROF VI",
+    "teacher": [
+      {
+        "name": "KELIANA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/436"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 22",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/16"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 6,
+    "weekday": "terca",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "MET TEC PES",
+    "teacher": [
+      {
+        "name": "JOSE CLEUDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/846"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 22",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/16"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 6,
+    "weekday": "quarta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "QUIM ANA QUAL",
+    "teacher": [
+      {
+        "name": "JAILSON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/192"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 22",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/16"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 6,
+    "weekday": "quinta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "GEST ESCOL",
+    "teacher": [
+      {
+        "name": "MARCIA LOURDES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/275"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 22",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/16"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 6,
+    "weekday": "sexta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "FIS QUI II",
+    "teacher": [
+      {
+        "name": "EMANOEL ALMEID",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/141"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 22",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/16"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 6,
+    "weekday": "segunda",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "PR ET PROF VI",
+    "teacher": [
+      {
+        "name": "KELIANA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/436"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 22",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/16"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 6,
+    "weekday": "terca",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "MET TEC PES",
+    "teacher": [
+      {
+        "name": "JOSE CLEUDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/846"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 22",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/16"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 6,
+    "weekday": "quarta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "QUIM ANA QUAL",
+    "teacher": [
+      {
+        "name": "JAILSON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/192"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 22",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/16"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 6,
+    "weekday": "quinta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "PR ET PROF VI",
+    "teacher": [
+      {
+        "name": "KELIANA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/436"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 22",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/16"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 6,
+    "weekday": "sexta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "FIS QUI II",
+    "teacher": [
+      {
+        "name": "EMANOEL ALMEID",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/141"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 22",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/16"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 6,
+    "weekday": "terca",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "EST SUP IV",
+    "teacher": [
+      {
+        "name": "GRAÇASNEG",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/483"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 22",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/16"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 6,
+    "weekday": "quinta",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "PR ET PROF VI",
+    "teacher": [
+      {
+        "name": "KELIANA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/436"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 22",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/16"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 7,
+    "weekday": "segunda",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "QUIM ANA QUAN",
+    "teacher": [
+      {
+        "name": "ANTONIO CICERO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/42"
+      }
+    ],
+    "location": [
+      {
+        "name": "LAB QUIM.1",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/72"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 7,
+    "weekday": "terca",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "BIOQUIMICA",
+    "teacher": [
+      {
+        "name": "ANTONIO CICERO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/42"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 23",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/15"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 7,
+    "weekday": "quarta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "QUIM ANA QUAN",
+    "teacher": [
+      {
+        "name": "ANTONIO CICERO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/42"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 23",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/15"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 7,
+    "weekday": "quinta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "QUIMICA AMB",
+    "teacher": [
+      {
+        "name": "KELIANA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/436"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 23",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/15"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 7,
+    "weekday": "sexta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "TCC I",
+    "teacher": [
+      {
+        "name": "SERGIO RICARDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/386"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 23",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/15"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 7,
+    "weekday": "segunda",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "QUIM ANA QUAN",
+    "teacher": [
+      {
+        "name": "ANTONIO CICERO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/42"
+      }
+    ],
+    "location": [
+      {
+        "name": "LAB QUIM.1",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/72"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 7,
+    "weekday": "terca",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "BIOQUIMICA",
+    "teacher": [
+      {
+        "name": "ANTONIO CICERO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/42"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 23",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/15"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 7,
+    "weekday": "quarta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "QUIM ANA QUAN",
+    "teacher": [
+      {
+        "name": "ANTONIO CICERO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/42"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 23",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/15"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 7,
+    "weekday": "quinta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "QUIMICA AMB",
+    "teacher": [
+      {
+        "name": "KELIANA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/436"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 23",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/15"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 7,
+    "weekday": "sexta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "TCC I",
+    "teacher": [
+      {
+        "name": "SERGIO RICARDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/386"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 23",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/15"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 7,
+    "weekday": "segunda",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "QUIM ANA QUAN",
+    "teacher": [
+      {
+        "name": "ANTONIO CICERO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/42"
+      }
+    ],
+    "location": [
+      {
+        "name": "LAB QUIM.1",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/72"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 7,
+    "weekday": "terca",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "FIS QUIM III",
+    "teacher": [
+      {
+        "name": "EDVALDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/105"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 23",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/15"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 7,
+    "weekday": "quinta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "QUIMICA AMB",
+    "teacher": [
+      {
+        "name": "KELIANA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/436"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 23",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/15"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 7,
+    "weekday": "sexta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "PR PROF VII",
+    "teacher": [
+      {
+        "name": "ALESSANDRA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/13"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 23",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/15"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 7,
+    "weekday": "segunda",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "EDU AMB SUST",
+    "teacher": [
+      {
+        "name": "GRAÇASNEG",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/483"
+      }
+    ],
+    "location": []
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 7,
+    "weekday": "terca",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "FIS QUIM III",
+    "teacher": [
+      {
+        "name": "EDVALDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/105"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 23",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/15"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 7,
+    "weekday": "quarta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "HIST CIENCIAS",
+    "teacher": [
+      {
+        "name": "ANDERSON QUI",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/656"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 23",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/15"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 7,
+    "weekday": "sexta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "PR PROF VII",
+    "teacher": [
+      {
+        "name": "ALESSANDRA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/13"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 23",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/15"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 7,
+    "weekday": "segunda",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "EDU AMB SUST",
+    "teacher": [
+      {
+        "name": "GRAÇASNEG",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/483"
+      }
+    ],
+    "location": []
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 7,
+    "weekday": "quarta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "HIST CIENCIAS",
+    "teacher": [
+      {
+        "name": "ANDERSON QUI",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/656"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 23",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/15"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 7,
+    "weekday": "quinta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "FIS QUIM III",
+    "teacher": [
+      {
+        "name": "EDVALDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/105"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 23",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/15"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 7,
+    "weekday": "sexta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "PR PROF VII",
+    "teacher": [
+      {
+        "name": "ALESSANDRA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/13"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 23",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/15"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 7,
+    "weekday": "segunda",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "EDU AMB SUST",
+    "teacher": [
+      {
+        "name": "GRAÇASNEG",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/483"
+      }
+    ],
+    "location": []
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 7,
+    "weekday": "quarta",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "HIST CIENCIAS",
+    "teacher": [
+      {
+        "name": "ANDERSON QUI",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/656"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 23",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/15"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 7,
+    "weekday": "quinta",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "FIS QUIM III",
+    "teacher": [
+      {
+        "name": "EDVALDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/105"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 23",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/15"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 7,
+    "weekday": "sexta",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "PR PROF VII",
+    "teacher": [
+      {
+        "name": "ALESSANDRA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/13"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 23",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/15"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 8,
+    "weekday": "terca",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "QUIMICA COMP",
+    "teacher": [
+      {
+        "name": "SERGIO RICARDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/386"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 14",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/25"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 8,
+    "weekday": "quinta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "QUIMICA COMP",
+    "teacher": [
+      {
+        "name": "SERGIO RICARDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/386"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 14",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/25"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 8,
+    "weekday": "sexta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "PROC IND",
+    "teacher": [
+      {
+        "name": "EDVALDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/105"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 24",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/14"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 8,
+    "weekday": "terca",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "QUIMICA COMP",
+    "teacher": [
+      {
+        "name": "SERGIO RICARDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/386"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 14",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/25"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 8,
+    "weekday": "quarta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "QUIMIOMETRIA",
+    "teacher": [
+      {
+        "name": "ANDERSON QUI",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/656"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 21",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/17"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 8,
+    "weekday": "quinta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "QUIMICA COMP",
+    "teacher": [
+      {
+        "name": "SERGIO RICARDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/386"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 14",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/25"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 8,
+    "weekday": "sexta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "PROC IND",
+    "teacher": [
+      {
+        "name": "EDVALDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/105"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 24",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/14"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 8,
+    "weekday": "terca",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "QUIMIOMETRIA",
+    "teacher": [
+      {
+        "name": "ANDERSON QUI",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/656"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 24",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/14"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 8,
+    "weekday": "quarta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "QUIMIOMETRIA",
+    "teacher": [
+      {
+        "name": "ANDERSON QUI",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/656"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 21",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/17"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 8,
+    "weekday": "quinta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "QUIM ANA INST",
+    "teacher": [
+      {
+        "name": "SERGIO RICARDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/386"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 24",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/14"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 8,
+    "weekday": "sexta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "PROC IND",
+    "teacher": [
+      {
+        "name": "EDVALDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/105"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 24",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/14"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 8,
+    "weekday": "terca",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "QUIMIOMETRIA",
+    "teacher": [
+      {
+        "name": "ANDERSON QUI",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/656"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 24",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/14"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 8,
+    "weekday": "quarta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "SEMIN EDUC",
+    "teacher": [
+      {
+        "name": "ALESSANDRA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/13"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 19",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/19"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 8,
+    "weekday": "quinta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "QUIM ANA INST",
+    "teacher": [
+      {
+        "name": "SERGIO RICARDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/386"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 24",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/14"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 8,
+    "weekday": "quarta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "SEMIN EDUC",
+    "teacher": [
+      {
+        "name": "ALESSANDRA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/13"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 19",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/19"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 8,
+    "weekday": "quinta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "QUIM ANA INST",
+    "teacher": [
+      {
+        "name": "SERGIO RICARDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/386"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 24",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/14"
+      }
+    ]
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 8,
+    "weekday": "sexta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "TCC II",
+    "teacher": [
+      {
+        "name": "SERGIO RICARDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/386"
+      }
+    ],
+    "location": []
+  },
+  {
+    "course": "LICENCIATURA EM QUIMICA",
+    "semester": 8,
+    "weekday": "sexta",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "TCC II",
+    "teacher": [
+      {
+        "name": "SERGIO RICARDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/386"
+      }
+    ],
+    "location": []
+  }
+]

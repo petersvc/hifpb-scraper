@@ -1,0 +1,3032 @@
+[
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "SOCIO I - 2ºS",
+    "teacher": [
+      {
+        "name": "MARIA SUELY",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/628"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 09",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/95"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "DESENHO BT",
+    "teacher": [
+      {
+        "name": "AMANDA GUERRA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/24"
+      }
+    ],
+    "location": [
+      {
+        "name": "SDESME UA3",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/47"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "SOCIO I - 2ºS",
+    "teacher": [
+      {
+        "name": "MARIA SUELY",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/628"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 09",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/95"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "DESENHO BT",
+    "teacher": [
+      {
+        "name": "AMANDA GUERRA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/24"
+      }
+    ],
+    "location": [
+      {
+        "name": "SDESME UA3",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/47"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "DESENHO BT",
+    "teacher": [
+      {
+        "name": "AMANDA GUERRA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/24"
+      }
+    ],
+    "location": [
+      {
+        "name": "SDESME UA3",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/47"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "DESENHO BT",
+    "teacher": [
+      {
+        "name": "AMANDA GUERRA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/24"
+      }
+    ],
+    "location": [
+      {
+        "name": "SDESME UA3",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/47"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "ARTES",
+    "teacher": [
+      {
+        "name": "MARCOS PEDRO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/253"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/98"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "DESENHO BT",
+    "teacher": [
+      {
+        "name": "AMANDA GUERRA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/24"
+      }
+    ],
+    "location": [
+      {
+        "name": "SDESME UA3",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/47"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "ARTES",
+    "teacher": [
+      {
+        "name": "MARCOS PEDRO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/253"
+      },
+      {
+        "name": "RADAMIR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/332"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/98"
+      },
+      {
+        "name": "SALA 09",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/95"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "DESENHO BT",
+    "teacher": [
+      {
+        "name": "AMANDA GUERRA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/24"
+      }
+    ],
+    "location": [
+      {
+        "name": "SDESME UA3",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/47"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "ARTES",
+    "teacher": [
+      {
+        "name": "RADAMIR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/332"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 09",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/95"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "FILO I - 1ºS",
+    "teacher": [
+      {
+        "name": "MARCIO ROBERTO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/789"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 19",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/19"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "QUIMICA I",
+    "teacher": [
+      {
+        "name": "PATRÍCIA QUIM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/830"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 19",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/19"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "PORTUGUES I",
+    "teacher": [
+      {
+        "name": "JOÃO EDSON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/831"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 19",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/19"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "MATEMATICA I",
+    "teacher": [
+      {
+        "name": "ALFREDO BRITO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/176"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 19",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/19"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "INFOR BASICA I",
+    "teacher": [
+      {
+        "name": "SILVIO LUCAS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/267"
+      },
+      {
+        "name": "SEM PROF.UA2",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/464"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 18",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/83"
+      },
+      {
+        "name": "SL INFO 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/33"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "FILO I - 1ºS",
+    "teacher": [
+      {
+        "name": "MARCIO ROBERTO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/789"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 19",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/19"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "QUIMICA I",
+    "teacher": [
+      {
+        "name": "PATRÍCIA QUIM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/830"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 19",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/19"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "PORTUGUES I",
+    "teacher": [
+      {
+        "name": "JOÃO EDSON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/831"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 19",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/19"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "MATEMATICA I",
+    "teacher": [
+      {
+        "name": "ALFREDO BRITO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/176"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 19",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/19"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "INFOR BASICA I",
+    "teacher": [
+      {
+        "name": "SILVIO LUCAS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/267"
+      },
+      {
+        "name": "SEM PROF.UA2",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/464"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 18",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/83"
+      },
+      {
+        "name": "SL INFO 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/33"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "QUIMICA I",
+    "teacher": [
+      {
+        "name": "PATRÍCIA QUIM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/830"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 19",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/19"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "MATEMATICA I",
+    "teacher": [
+      {
+        "name": "ALFREDO BRITO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/176"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 19",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/19"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "DESENHO BT",
+    "teacher": [
+      {
+        "name": "AMANDA GUERRA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/24"
+      },
+      {
+        "name": "VERONICA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/550"
+      }
+    ],
+    "location": [
+      {
+        "name": "SDES. 01",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/46"
+      },
+      {
+        "name": "SAMETALOG",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/75"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "HISTORIA I",
+    "teacher": [
+      {
+        "name": "JIVAGO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/200"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 19",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/19"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "FISICA I",
+    "teacher": [
+      {
+        "name": "WELL CAETANO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/422"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 19",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/19"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "FISICA I",
+    "teacher": [
+      {
+        "name": "WELL CAETANO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/422"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 19",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/19"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "GEOGRAFIA I",
+    "teacher": [
+      {
+        "name": "ALINE LIMA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/349"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 19",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/19"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "DESENHO BT",
+    "teacher": [
+      {
+        "name": "AMANDA GUERRA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/24"
+      },
+      {
+        "name": "VERONICA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/550"
+      }
+    ],
+    "location": [
+      {
+        "name": "SDES. 01",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/46"
+      },
+      {
+        "name": "SAMETALOG",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/75"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "HISTORIA I",
+    "teacher": [
+      {
+        "name": "JIVAGO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/200"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 19",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/19"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "MATERIAIS",
+    "teacher": [
+      {
+        "name": "VERONICA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/550"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 19",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/19"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "FISICA I",
+    "teacher": [
+      {
+        "name": "WELL CAETANO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/422"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 19",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/19"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "GEOGRAFIA I",
+    "teacher": [
+      {
+        "name": "ALINE LIMA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/349"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 19",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/19"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "DESENHO BT",
+    "teacher": [
+      {
+        "name": "AMANDA GUERRA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/24"
+      },
+      {
+        "name": "VERONICA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/550"
+      }
+    ],
+    "location": [
+      {
+        "name": "SDES. 01",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/46"
+      },
+      {
+        "name": "SAMETALOG",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/75"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "HISTORIA I",
+    "teacher": [
+      {
+        "name": "JIVAGO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/200"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 19",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/19"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "MATERIAIS",
+    "teacher": [
+      {
+        "name": "VERONICA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/550"
+      },
+      {
+        "name": "METALOGR 1",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/66"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 19",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/19"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "PORTUGUES I",
+    "teacher": [
+      {
+        "name": "JOÃO EDSON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/831"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 19",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/19"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "GEOGRAFIA I",
+    "teacher": [
+      {
+        "name": "ALINE LIMA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/349"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 19",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/19"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "PORT.COMPLEM.",
+    "teacher": [
+      {
+        "name": "ANA PAULA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/430"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 03",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/101"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "PORT.COMPLEM.",
+    "teacher": [
+      {
+        "name": "ANA PAULA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/430"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 03",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/101"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "PORT.COMPLEM.",
+    "teacher": [
+      {
+        "name": "ANA PAULA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/430"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 03",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/101"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "BIOLOGIA I",
+    "teacher": [
+      {
+        "name": "ROSI D ANDREA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/376"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 07",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/97"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "GEOGRAFIA II",
+    "teacher": [
+      {
+        "name": "CAMILA LIMA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/702"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 07",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/97"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "DES TECNICO",
+    "teacher": [
+      {
+        "name": "ALBERDAN AQUIN",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/10"
+      },
+      {
+        "name": "GLERYSTON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/867"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/106"
+      },
+      {
+        "name": "SDESME UA3",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/47"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "HISTÓRIA II",
+    "teacher": [
+      {
+        "name": "JIVAGO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/200"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 07",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/97"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "BIOLOGIA I",
+    "teacher": [
+      {
+        "name": "ROSI D ANDREA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/376"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 07",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/97"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "GEOGRAFIA II",
+    "teacher": [
+      {
+        "name": "CAMILA LIMA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/702"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 07",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/97"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "DES TECNICO",
+    "teacher": [
+      {
+        "name": "ALBERDAN AQUIN",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/10"
+      },
+      {
+        "name": "GLERYSTON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/867"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/106"
+      },
+      {
+        "name": "SDESME UA3",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/47"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "HISTÓRIA II",
+    "teacher": [
+      {
+        "name": "JIVAGO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/200"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 07",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/97"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "MAT-G1/TEC-G2",
+    "teacher": [
+      {
+        "name": "MICHELLINE LIM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/318"
+      },
+      {
+        "name": "VERONICA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/550"
+      }
+    ],
+    "location": [
+      {
+        "name": "METALOGR 1",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/66"
+      },
+      {
+        "name": "ENSAIOS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/89"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "INGLES INST I",
+    "teacher": [
+      {
+        "name": "ADRIANA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/7"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 07",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/97"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "SOCIO II  1ºS",
+    "teacher": [
+      {
+        "name": "MARIA SUELY",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/628"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 07",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/97"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "DES TECNICO",
+    "teacher": [
+      {
+        "name": "ALBERDAN AQUIN",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/10"
+      },
+      {
+        "name": "GLERYSTON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/867"
+      },
+      {
+        "name": "AI-05",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/105"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/106"
+      },
+      {
+        "name": "SDESME UA3",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/47"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "MAT-G1/TEC-G2",
+    "teacher": [
+      {
+        "name": "MICHELLINE LIM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/318"
+      },
+      {
+        "name": "VERONICA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/550"
+      }
+    ],
+    "location": [
+      {
+        "name": "METALOGR 1",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/66"
+      },
+      {
+        "name": "ENSAIOS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/89"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "INGLES INST I",
+    "teacher": [
+      {
+        "name": "ADRIANA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/7"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 07",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/97"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "SOCIO II  1ºS",
+    "teacher": [
+      {
+        "name": "MARIA SUELY",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/628"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 07",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/97"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "MATEMATICA II",
+    "teacher": [
+      {
+        "name": "DIEGO AYLLO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/68"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 07",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/97"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "PORTUGUES II",
+    "teacher": [
+      {
+        "name": "THALYNE KEILA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/391"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 07",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/97"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "QUIMICA II",
+    "teacher": [
+      {
+        "name": "JAILSON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/192"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 07",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/97"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "FISICA II",
+    "teacher": [
+      {
+        "name": "JONATAS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/570"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 07",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/97"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "MATEMATICA II",
+    "teacher": [
+      {
+        "name": "DIEGO AYLLO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/68"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 07",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/97"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "PORTUGUES II",
+    "teacher": [
+      {
+        "name": "THALYNE KEILA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/391"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 07",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/97"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "QUIMICA II",
+    "teacher": [
+      {
+        "name": "JAILSON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/192"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 07",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/97"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "FISICA II",
+    "teacher": [
+      {
+        "name": "JONATAS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/570"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 07",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/97"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "FISICA II",
+    "teacher": [
+      {
+        "name": "JONATAS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/570"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 07",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/97"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "MATEMATICA II",
+    "teacher": [
+      {
+        "name": "DIEGO AYLLO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/68"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 07",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/97"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "PORTUGUES II",
+    "teacher": [
+      {
+        "name": "THALYNE KEILA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/391"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 07",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/97"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "MANUTENCAO",
+    "teacher": [
+      {
+        "name": "CESARINO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/387"
+      }
+    ],
+    "location": []
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "MANUTENCAO",
+    "teacher": [
+      {
+        "name": "CESARINO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/387"
+      }
+    ],
+    "location": []
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "PORTUGUES III",
+    "teacher": [
+      {
+        "name": "BRASILEIRO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/268"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 02 ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/92"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "PORTUGUES III",
+    "teacher": [
+      {
+        "name": "BRASILEIRO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/268"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 02 ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/92"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "PORTUGUES III",
+    "teacher": [
+      {
+        "name": "BRASILEIRO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/268"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 02 ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/92"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "TOR AJ SO PN",
+    "teacher": [
+      {
+        "name": "THIAGO FERREIR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/551"
+      },
+      {
+        "name": "GLERYSTON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/867"
+      },
+      {
+        "name": "ARIEL AIRES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/49"
+      },
+      {
+        "name": "AMANDA GUERRA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/24"
+      }
+    ],
+    "location": [
+      {
+        "name": "TORNEARIA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/110"
+      },
+      {
+        "name": "AJUSTAGEM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/113"
+      },
+      {
+        "name": "SOLDAGEM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/111"
+      },
+      {
+        "name": "PNEUM/HID",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/56"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "FISICA III",
+    "teacher": [
+      {
+        "name": "JONATAS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/570"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 03",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/101"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "MATEMATICA III",
+    "teacher": [
+      {
+        "name": "ALFREDO BRITO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/176"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 03",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/101"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "TOR AJ SO PN",
+    "teacher": [
+      {
+        "name": "THIAGO FERREIR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/551"
+      },
+      {
+        "name": "GLERYSTON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/867"
+      },
+      {
+        "name": "ARIEL AIRES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/49"
+      },
+      {
+        "name": "AMANDA GUERRA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/24"
+      }
+    ],
+    "location": [
+      {
+        "name": "TORNEARIA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/110"
+      },
+      {
+        "name": "AJUSTAGEM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/113"
+      },
+      {
+        "name": "SOLDAGEM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/111"
+      },
+      {
+        "name": "PNEUM/HID",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/56"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "FISICA III",
+    "teacher": [
+      {
+        "name": "JONATAS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/570"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 03",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/101"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "MATEMATICA III",
+    "teacher": [
+      {
+        "name": "ALFREDO BRITO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/176"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 03",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/101"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "TOR AJ SO PN",
+    "teacher": [
+      {
+        "name": "THIAGO FERREIR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/551"
+      },
+      {
+        "name": "GLERYSTON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/867"
+      },
+      {
+        "name": "ARIEL AIRES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/49"
+      },
+      {
+        "name": "AMANDA GUERRA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/24"
+      }
+    ],
+    "location": [
+      {
+        "name": "TORNEARIA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/110"
+      },
+      {
+        "name": "AJUSTAGEM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/113"
+      },
+      {
+        "name": "SOLDAGEM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/111"
+      },
+      {
+        "name": "PNEUM/HID",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/56"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "CAD G2/ELET G1",
+    "teacher": [
+      {
+        "name": "ARIEL AIRES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/49"
+      },
+      {
+        "name": "ANTONIO DALIA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/43"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/106"
+      },
+      {
+        "name": "ELETRIC II",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/99"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "SOCIO III-2ºS",
+    "teacher": [
+      {
+        "name": "ALEXANDRE LIMA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/16"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 03",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/101"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "QUIMICA III",
+    "teacher": [
+      {
+        "name": "SUELY CAR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/395"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 03",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/101"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "BIOLOGIA II",
+    "teacher": [
+      {
+        "name": "ANA VIEIRA ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/538"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 03",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/101"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "TOR AJ SO PN",
+    "teacher": [
+      {
+        "name": "THIAGO FERREIR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/551"
+      },
+      {
+        "name": "GLERYSTON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/867"
+      },
+      {
+        "name": "ARIEL AIRES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/49"
+      },
+      {
+        "name": "AMANDA GUERRA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/24"
+      }
+    ],
+    "location": [
+      {
+        "name": "TORNEARIA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/110"
+      },
+      {
+        "name": "AJUSTAGEM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/113"
+      },
+      {
+        "name": "SOLDAGEM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/111"
+      },
+      {
+        "name": "PNEUM/HID",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/56"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "CAD G2/ELET G1",
+    "teacher": [
+      {
+        "name": "ARIEL AIRES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/49"
+      },
+      {
+        "name": "ANTONIO DALIA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/43"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/106"
+      },
+      {
+        "name": "ELETRIC II",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/99"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "SOCIO III-2ºS",
+    "teacher": [
+      {
+        "name": "ALEXANDRE LIMA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/16"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 03",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/101"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "QUIMICA III",
+    "teacher": [
+      {
+        "name": "SUELY CAR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/395"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 03",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/101"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "BIOLOGIA II",
+    "teacher": [
+      {
+        "name": "ANA VIEIRA ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/538"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 03",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/101"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "INGLES INST II",
+    "teacher": [
+      {
+        "name": "ANNA LIBIA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/38"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 03",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/101"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "CAD G2/ELET G1",
+    "teacher": [
+      {
+        "name": "ARIEL AIRES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/49"
+      },
+      {
+        "name": "MARCIO GOMES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/281"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/106"
+      },
+      {
+        "name": "METROLOGIA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/90"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "MANUTENCAO",
+    "teacher": [
+      {
+        "name": "CESARINO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/387"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-03",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/103"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "CONTR EST PROC",
+    "teacher": [
+      {
+        "name": "MICHELLINE LIM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/318"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 03",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/101"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "M.SÓLIDO 2ºS",
+    "teacher": [
+      {
+        "name": "ERICK CORDEIRO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/115"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 03",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/101"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "INGLES INST II",
+    "teacher": [
+      {
+        "name": "ANNA LIBIA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/38"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 03",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/101"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "CAD G2/ELET G1",
+    "teacher": [
+      {
+        "name": "ARIEL AIRES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/49"
+      },
+      {
+        "name": "MARCIO GOMES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/281"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/106"
+      },
+      {
+        "name": "METROLOGIA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/90"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "MANUTENCAO",
+    "teacher": [
+      {
+        "name": "CESARINO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/387"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-03",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/103"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "CONTR EST PROC",
+    "teacher": [
+      {
+        "name": "MICHELLINE LIM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/318"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 03",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/101"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "M.SÓLIDO 2ºS",
+    "teacher": [
+      {
+        "name": "ERICK CORDEIRO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/115"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 03",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/101"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "ELP CAD SOL FR",
+    "teacher": [
+      {
+        "name": "AMANDA GUERRA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/24"
+      },
+      {
+        "name": "ALEXANDRE R.A.",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/580"
+      },
+      {
+        "name": "MICHELLINE LIM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/318"
+      },
+      {
+        "name": "FRANCISCO NETO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/136"
+      }
+    ],
+    "location": [
+      {
+        "name": "PNEUM/HID",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/56"
+      },
+      {
+        "name": "AI-02",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/102"
+      },
+      {
+        "name": "SOLDAGEM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/111"
+      },
+      {
+        "name": "FRESAGEM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/91"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "PLANEJAM MANUT",
+    "teacher": [
+      {
+        "name": "CESARINO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/387"
+      },
+      {
+        "name": "METALOGR 1",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/66"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 11",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/93"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "HID MOT REF TO",
+    "teacher": [
+      {
+        "name": "FRANCISCO NETO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/136"
+      },
+      {
+        "name": "ERICK CORDEIRO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/115"
+      },
+      {
+        "name": "ALEKSANDRO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/12"
+      },
+      {
+        "name": "THIAGO FERREIR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/551"
+      }
+    ],
+    "location": [
+      {
+        "name": "PNEUM/HID",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/56"
+      },
+      {
+        "name": "CIRC DIG T",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/22"
+      },
+      {
+        "name": "REFRIGERA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/112"
+      },
+      {
+        "name": "TORNEARIA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/110"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 4,
+    "weekday": "sexta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "CLP CNC FUN EE",
+    "teacher": [
+      {
+        "name": "ANTONIO SOARES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/48"
+      },
+      {
+        "name": "ALEKSANDRO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/12"
+      },
+      {
+        "name": "FRANCISCO NETO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/136"
+      },
+      {
+        "name": "MARCELO PAZ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/274"
+      },
+      {
+        "name": "XELEEROSÃ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/130"
+      }
+    ],
+    "location": [
+      {
+        "name": "CLP/RED IN",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/129"
+      },
+      {
+        "name": "AI-05",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/105"
+      },
+      {
+        "name": "FUNDIÇÃO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/28"
+      },
+      {
+        "name": "SALA 11",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/93"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "QUAL PROC SERV",
+    "teacher": [
+      {
+        "name": "ALVARO  FILHO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/819"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 11",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/93"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "ELP CAD SOL FR",
+    "teacher": [
+      {
+        "name": "ALEXANDRE R.A.",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/580"
+      },
+      {
+        "name": "MICHELLINE LIM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/318"
+      },
+      {
+        "name": "FRANCISCO NETO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/136"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-02",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/102"
+      },
+      {
+        "name": "SOLDAGEM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/111"
+      },
+      {
+        "name": "FRESAGEM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/91"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "PLANEJAM MANUT",
+    "teacher": [
+      {
+        "name": "CESARINO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/387"
+      },
+      {
+        "name": "METALOGR 1",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/66"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 11",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/93"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "HID MOT REF TO",
+    "teacher": [
+      {
+        "name": "FRANCISCO NETO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/136"
+      },
+      {
+        "name": "ERICK CORDEIRO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/115"
+      },
+      {
+        "name": "ALEKSANDRO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/12"
+      },
+      {
+        "name": "THIAGO FERREIR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/551"
+      }
+    ],
+    "location": [
+      {
+        "name": "PNEUM/HID",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/56"
+      },
+      {
+        "name": "CIRC DIG T",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/22"
+      },
+      {
+        "name": "REFRIGERA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/112"
+      },
+      {
+        "name": "TORNEARIA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/110"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 4,
+    "weekday": "sexta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "CLP CNC FUN EE",
+    "teacher": [
+      {
+        "name": "ANTONIO SOARES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/48"
+      },
+      {
+        "name": "ALEKSANDRO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/12"
+      },
+      {
+        "name": "FRANCISCO NETO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/136"
+      },
+      {
+        "name": "MARCELO PAZ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/274"
+      },
+      {
+        "name": "LBAMEC.01",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/92"
+      }
+    ],
+    "location": [
+      {
+        "name": "CLP/RED IN",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/129"
+      },
+      {
+        "name": "AI-05",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/105"
+      },
+      {
+        "name": "FUNDIÇÃO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/28"
+      },
+      {
+        "name": "SALA 11",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/93"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "MATEMATICA IV",
+    "teacher": [
+      {
+        "name": "ALFREDO BRITO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/176"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 11",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/93"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "ELP CAD SOL FR",
+    "teacher": [
+      {
+        "name": "ALEXANDRE R.A.",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/580"
+      },
+      {
+        "name": "MICHELLINE LIM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/318"
+      },
+      {
+        "name": "FRANCISCO NETO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/136"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-02",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/102"
+      },
+      {
+        "name": "SOLDAGEM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/111"
+      },
+      {
+        "name": "FRESAGEM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/91"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "BIOLOGIA III",
+    "teacher": [
+      {
+        "name": "ANA VIEIRA ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/538"
+      }
+    ],
+    "location": [
+      {
+        "name": "LAB BIOLOG",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/6"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "HID MOT REF TO",
+    "teacher": [
+      {
+        "name": "FRANCISCO NETO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/136"
+      },
+      {
+        "name": "ERICK CORDEIRO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/115"
+      },
+      {
+        "name": "ALEKSANDRO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/12"
+      },
+      {
+        "name": "THIAGO FERREIR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/551"
+      }
+    ],
+    "location": [
+      {
+        "name": "PNEUM/HID",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/56"
+      },
+      {
+        "name": "CIRC DIG T",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/22"
+      },
+      {
+        "name": "REFRIGERA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/112"
+      },
+      {
+        "name": "TORNEARIA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/110"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 4,
+    "weekday": "sexta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "CLP CNC FUN EE",
+    "teacher": [
+      {
+        "name": "ANTONIO SOARES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/48"
+      },
+      {
+        "name": "ALEKSANDRO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/12"
+      },
+      {
+        "name": "FRANCISCO NETO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/136"
+      },
+      {
+        "name": "MARCELO PAZ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/274"
+      },
+      {
+        "name": "LBAMEC.01",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/92"
+      }
+    ],
+    "location": [
+      {
+        "name": "CLP/RED IN",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/129"
+      },
+      {
+        "name": "AI-05",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/105"
+      },
+      {
+        "name": "FUNDIÇÃO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/28"
+      },
+      {
+        "name": "SALA 11",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/93"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "MATEMATICA IV",
+    "teacher": [
+      {
+        "name": "ALFREDO BRITO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/176"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 11",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/93"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "ELP CAD SOL FR",
+    "teacher": [
+      {
+        "name": "AMANDA GUERRA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/24"
+      },
+      {
+        "name": "ALEXANDRE R.A.",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/580"
+      },
+      {
+        "name": "MICHELLINE LIM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/318"
+      },
+      {
+        "name": "FRANCISCO NETO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/136"
+      }
+    ],
+    "location": [
+      {
+        "name": "PNEUM/HID",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/56"
+      },
+      {
+        "name": "AI-02",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/102"
+      },
+      {
+        "name": "SOLDAGEM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/111"
+      },
+      {
+        "name": "FRESAGEM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/91"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "BIOLOGIA III",
+    "teacher": [
+      {
+        "name": "ANA VIEIRA ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/538"
+      }
+    ],
+    "location": [
+      {
+        "name": "LAB BIOLOG",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/6"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "HID MOT REF TO",
+    "teacher": [
+      {
+        "name": "FRANCISCO NETO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/136"
+      },
+      {
+        "name": "ERICK CORDEIRO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/115"
+      },
+      {
+        "name": "ALEKSANDRO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/12"
+      },
+      {
+        "name": "THIAGO FERREIR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/551"
+      }
+    ],
+    "location": [
+      {
+        "name": "PNEUM/HID",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/56"
+      },
+      {
+        "name": "CIRC DIG T",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/22"
+      },
+      {
+        "name": "REFRIGERA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/112"
+      },
+      {
+        "name": "TORNEARIA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/110"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 4,
+    "weekday": "sexta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "CLP CNC FUN EE",
+    "teacher": [
+      {
+        "name": "ANTONIO SOARES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/48"
+      },
+      {
+        "name": "ALEKSANDRO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/12"
+      },
+      {
+        "name": "FRANCISCO NETO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/136"
+      },
+      {
+        "name": "MARCELO PAZ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/274"
+      },
+      {
+        "name": "LBAMEC.01",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/92"
+      }
+    ],
+    "location": [
+      {
+        "name": "CLP/RED IN",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/129"
+      },
+      {
+        "name": "AI-05",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/105"
+      },
+      {
+        "name": "FUNDIÇÃO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/28"
+      },
+      {
+        "name": "SALA 11",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/93"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "EMPREENDED",
+    "teacher": [
+      {
+        "name": "ALVARO  FILHO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/819"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 11",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/93"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "METOD/TCC",
+    "teacher": [
+      {
+        "name": "VITOR ANGELO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/806"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 11",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/93"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "ELEM MAQUINAS",
+    "teacher": [
+      {
+        "name": "ALEXANDRE R.A.",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/580"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 11",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/93"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "SOCIO  1ºS",
+    "teacher": [
+      {
+        "name": "SALETE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/302"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 11",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/93"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 4,
+    "weekday": "sexta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "FILO IV 1ºS",
+    "teacher": [
+      {
+        "name": "RUBENS SOTERO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/804"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 11",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/93"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "METOD/TCC",
+    "teacher": [
+      {
+        "name": "VITOR ANGELO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/806"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 11",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/93"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "ELEM MAQUINAS",
+    "teacher": [
+      {
+        "name": "ALEXANDRE R.A.",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/580"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 11",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/93"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "SOCIO  1ºS",
+    "teacher": [
+      {
+        "name": "SALETE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/302"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 11",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/93"
+      }
+    ]
+  },
+  {
+    "course": "MECANICA INTEGRADO",
+    "semester": 4,
+    "weekday": "sexta",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "FILO IV 1ºS",
+    "teacher": [
+      {
+        "name": "RUBENS SOTERO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/804"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 11",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/93"
+      }
+    ]
+  }
+]

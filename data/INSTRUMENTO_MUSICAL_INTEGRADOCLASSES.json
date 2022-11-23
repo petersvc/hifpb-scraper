@@ -1,0 +1,1969 @@
+[
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "QUÍMICA I",
+    "teacher": [
+      {
+        "name": "ANDREA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/34"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 11",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/93"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "PORT LIT BR I",
+    "teacher": [
+      {
+        "name": "ERIVAN LOPES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/835"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 11",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/93"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "ARTES",
+    "teacher": [
+      {
+        "name": "SAMARA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/548"
+      },
+      {
+        "name": "RADAMIR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/332"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 11",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/93"
+      },
+      {
+        "name": "SALA 13",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/29"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "HISTÓRIA I",
+    "teacher": [
+      {
+        "name": "STENIO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/394"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 11",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/93"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "QUÍMICA I",
+    "teacher": [
+      {
+        "name": "ANDREA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/34"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 11",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/93"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "PORT LIT BR I",
+    "teacher": [
+      {
+        "name": "ERIVAN LOPES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/835"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 11",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/93"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "ARTES",
+    "teacher": [
+      {
+        "name": "SAMARA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/548"
+      },
+      {
+        "name": "RADAMIR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/332"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 11",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/93"
+      },
+      {
+        "name": "SALA 13",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/29"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "HISTÓRIA I",
+    "teacher": [
+      {
+        "name": "STENIO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/394"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 11",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/93"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "MATEMÁTICA I",
+    "teacher": [
+      {
+        "name": "ALFREDO BRITO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/176"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 11",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/93"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "SOCIOLOGIA I",
+    "teacher": [
+      {
+        "name": "LEANDRO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/249"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 11",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/93"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "MUSICALIZ I",
+    "teacher": [
+      {
+        "name": "MARINA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/307"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL MUS 12",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/11"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "PORT LIT BR I",
+    "teacher": [
+      {
+        "name": "ERIVAN LOPES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/835"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 11",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/93"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "GEOGRAFIA I",
+    "teacher": [
+      {
+        "name": "ALEXANDRE S.",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/821"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 11",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/93"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "HIST MUS OC",
+    "teacher": [
+      {
+        "name": "TERESA CRISTIN",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/578"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL MUS 12",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/11"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "SOCIOLOGIA I",
+    "teacher": [
+      {
+        "name": "LEANDRO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/249"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 11",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/93"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "MUSICALIZ I",
+    "teacher": [
+      {
+        "name": "MARINA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/307"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL MUS 12",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/11"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "MATEMÁTICA I",
+    "teacher": [
+      {
+        "name": "ALFREDO BRITO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/176"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 11",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/93"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "GEOGRAFIA I",
+    "teacher": [
+      {
+        "name": "ALEXANDRE S.",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/821"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 11",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/93"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "HIST MUS OC",
+    "teacher": [
+      {
+        "name": "TERESA CRISTIN",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/578"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL MUS 12",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/11"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "FILOSOFIA I",
+    "teacher": [
+      {
+        "name": "MARCIO DINIZ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/282"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 11",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/93"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "MUSICALIZ I",
+    "teacher": [
+      {
+        "name": "MARINA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/307"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL MUS 12",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/11"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "MATEMÁTICA I",
+    "teacher": [
+      {
+        "name": "ALFREDO BRITO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/176"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 11",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/93"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "CORAL I",
+    "teacher": [
+      {
+        "name": "TAMARA CRUZ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/719"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL MUS 12",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/11"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "FILOSOFIA I",
+    "teacher": [
+      {
+        "name": "MARCIO DINIZ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/282"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 11",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/93"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "CORAL I",
+    "teacher": [
+      {
+        "name": "TAMARA CRUZ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/719"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL MUS 12",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/11"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "INSTRUMENTO I",
+    "teacher": [
+      {
+        "name": "PROF. MUS.2",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/709"
+      }
+    ],
+    "location": []
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "INFO APLIC",
+    "teacher": [
+      {
+        "name": "SEM PROF.UA2",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/464"
+      },
+      {
+        "name": "LINDBERG",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/137"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 12",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/1"
+      },
+      {
+        "name": "SL INFO 09",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/31"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "INSTRUMENTO I",
+    "teacher": [
+      {
+        "name": "PROF. MUS.2",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/709"
+      }
+    ],
+    "location": []
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "INFO APLIC",
+    "teacher": [
+      {
+        "name": "SEM PROF.UA2",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/464"
+      },
+      {
+        "name": "LINDBERG",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/137"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 12",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/1"
+      },
+      {
+        "name": "SL INFO 09",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/31"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "EDU FÍSICA I",
+    "teacher": [
+      {
+        "name": "SUELY DINIZ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/730"
+      }
+    ],
+    "location": []
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "EDU FÍSICA I",
+    "teacher": [
+      {
+        "name": "SUELY DINIZ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/730"
+      }
+    ],
+    "location": []
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "FÍSICA I",
+    "teacher": [
+      {
+        "name": "ANDERSON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/32"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/98"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "HISTÓRIA II",
+    "teacher": [
+      {
+        "name": "FABRICIO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/683"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/98"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "SOCIOLOGIA II",
+    "teacher": [
+      {
+        "name": "LEANDRO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/249"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/98"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "FÍSICA I",
+    "teacher": [
+      {
+        "name": "ANDERSON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/32"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/98"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "MUSICALIZ II",
+    "teacher": [
+      {
+        "name": "VINICIUS AMARA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/541"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL MUS 12",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/11"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "FÍSICA I",
+    "teacher": [
+      {
+        "name": "ANDERSON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/32"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/98"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "HISTÓRIA II",
+    "teacher": [
+      {
+        "name": "FABRICIO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/683"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/98"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "SOCIOLOGIA II",
+    "teacher": [
+      {
+        "name": "LEANDRO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/249"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/98"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "FÍSICA I",
+    "teacher": [
+      {
+        "name": "ANDERSON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/32"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/98"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "MUSICALIZ II",
+    "teacher": [
+      {
+        "name": "VINICIUS AMARA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/541"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL MUS 12",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/11"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "QUÍMICA II",
+    "teacher": [
+      {
+        "name": "ANDREA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/34"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/98"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "GEOGRAFIA II",
+    "teacher": [
+      {
+        "name": "ALEXANDRE S.",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/821"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/98"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "HIST MUS P BR",
+    "teacher": [
+      {
+        "name": "DENISE AMORIM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/373"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL MUS 12",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/11"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "PORT LIT BR II",
+    "teacher": [
+      {
+        "name": "EVALDO MOTA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/124"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/98"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "FILOSOFIA II",
+    "teacher": [
+      {
+        "name": "MARCIO DINIZ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/282"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/98"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "QUÍMICA II",
+    "teacher": [
+      {
+        "name": "ANDREA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/34"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/98"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "GEOGRAFIA II",
+    "teacher": [
+      {
+        "name": "ALEXANDRE S.",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/821"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/98"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "HIST MUS P BR",
+    "teacher": [
+      {
+        "name": "DENISE AMORIM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/373"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL MUS 12",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/11"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "BIOLOGIA I",
+    "teacher": [
+      {
+        "name": "CLEOMAR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/80"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/98"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "FILOSOFIA II",
+    "teacher": [
+      {
+        "name": "MARCIO DINIZ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/282"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/98"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "BIOLOGIA I",
+    "teacher": [
+      {
+        "name": "CLEOMAR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/80"
+      }
+    ],
+    "location": [
+      {
+        "name": "LAB BIOLOG",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/6"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "MATEMÁTICA II",
+    "teacher": [
+      {
+        "name": "PEDRO E. - MAT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/754"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/98"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "PORT LIT BR II",
+    "teacher": [
+      {
+        "name": "EVALDO MOTA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/124"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/98"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "INGLÊS I",
+    "teacher": [
+      {
+        "name": "JACKELINNE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/721"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/98"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "MATEMÁTICA II",
+    "teacher": [
+      {
+        "name": "PEDRO E. - MAT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/754"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/98"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "BIOLOGIA I",
+    "teacher": [
+      {
+        "name": "CLEOMAR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/80"
+      }
+    ],
+    "location": [
+      {
+        "name": "LAB BIOLOG",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/6"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "PORT LIT BR II",
+    "teacher": [
+      {
+        "name": "EVALDO MOTA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/124"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/98"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "INGLÊS I",
+    "teacher": [
+      {
+        "name": "JACKELINNE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/721"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/98"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "MATEMÁTICA II",
+    "teacher": [
+      {
+        "name": "PEDRO E. - MAT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/754"
+      }
+    ],
+    "location": []
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "CORAL II",
+    "teacher": [
+      {
+        "name": "EBENEZER",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/605"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL MUS 12",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/11"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "CORAL II",
+    "teacher": [
+      {
+        "name": "EBENEZER",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/605"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL MUS 12",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/11"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "ED PARTITURAS",
+    "teacher": [
+      {
+        "name": "LINDBERG",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/137"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 09",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/31"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "ED PARTITURAS",
+    "teacher": [
+      {
+        "name": "LINDBERG",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/137"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 09",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/31"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "PORT LITBR III",
+    "teacher": [
+      {
+        "name": "SERGIO FILHO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/385"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 01",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/86"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "FÍSICA II",
+    "teacher": [
+      {
+        "name": "JOSE GILBERTO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/220"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 01",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/86"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "BIOLOGIA II",
+    "teacher": [
+      {
+        "name": "LUCILA KARLA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/878"
+      }
+    ],
+    "location": [
+      {
+        "name": "LAB BIOLOG",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/6"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "QUÍMICA III",
+    "teacher": [
+      {
+        "name": "SUELY CAR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/395"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 01",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/86"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "MUSICALIZ III",
+    "teacher": [
+      {
+        "name": "DANILO CARD",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/88"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 01",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/86"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "PORT LITBR III",
+    "teacher": [
+      {
+        "name": "SERGIO FILHO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/385"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 01",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/86"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "FÍSICA II",
+    "teacher": [
+      {
+        "name": "JOSE GILBERTO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/220"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 01",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/86"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "BIOLOGIA II",
+    "teacher": [
+      {
+        "name": "LUCILA KARLA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/878"
+      }
+    ],
+    "location": [
+      {
+        "name": "LAB BIOLOG",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/6"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "QUÍMICA III",
+    "teacher": [
+      {
+        "name": "SUELY CAR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/395"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 01",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/86"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "MUSICALIZ III",
+    "teacher": [
+      {
+        "name": "DANILO CARD",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/88"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 01",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/86"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "PORT LITBR III",
+    "teacher": [
+      {
+        "name": "SERGIO FILHO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/385"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 01",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/86"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "EDU FÍSIC III",
+    "teacher": [
+      {
+        "name": "SEM PROF.UA5",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/669"
+      }
+    ],
+    "location": []
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "BIOLOGIA II",
+    "teacher": [
+      {
+        "name": "LUCILA KARLA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/878"
+      }
+    ],
+    "location": [
+      {
+        "name": "LAB BIOLOG",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/6"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "EDU FÍSIC III",
+    "teacher": [
+      {
+        "name": "SEM PROF.UA5",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/669"
+      }
+    ],
+    "location": []
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "FÍSICA II",
+    "teacher": [
+      {
+        "name": "JOSE GILBERTO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/220"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 01",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/86"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "MATEMÁTIC III",
+    "teacher": [
+      {
+        "name": "EDNALDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/258"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 01",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/86"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "INGLÊS II",
+    "teacher": [
+      {
+        "name": "ANNA LIBIA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/38"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 01",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/86"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "FÍSICA II",
+    "teacher": [
+      {
+        "name": "JOSE GILBERTO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/220"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 01",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/86"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "MATEMÁTIC III",
+    "teacher": [
+      {
+        "name": "EDNALDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/258"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 01",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/86"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "FILO III -2ºS",
+    "teacher": [
+      {
+        "name": "SEM PROF.",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/710"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 01",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/86"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "INGLÊS II",
+    "teacher": [
+      {
+        "name": "ANNA LIBIA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/38"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 01",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/86"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "HARM TONAL",
+    "teacher": [
+      {
+        "name": "J. ALESSANDRO ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/644"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL MUS 07",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/7"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "HISTÓRIA III",
+    "teacher": [
+      {
+        "name": "STENIO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/394"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 01",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/86"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "MATEMÁTIC III",
+    "teacher": [
+      {
+        "name": "EDNALDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/258"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 01",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/86"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "FILO III -2ºS",
+    "teacher": [
+      {
+        "name": "SEM PROF.",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/710"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 01",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/86"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "INGLÊS II",
+    "teacher": [
+      {
+        "name": "ANNA LIBIA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/38"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 01",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/86"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "HARM TONAL",
+    "teacher": [
+      {
+        "name": "J. ALESSANDRO ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/644"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL MUS 07",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/7"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "HISTÓRIA III",
+    "teacher": [
+      {
+        "name": "STENIO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/394"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 01",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/86"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "PR CONJUNTO I",
+    "teacher": [
+      {
+        "name": "VINICIUS AMARA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/541"
+      }
+    ],
+    "location": []
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "PI ARRANJO",
+    "teacher": [
+      {
+        "name": "SEM PROF.UA1",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/442"
+      }
+    ],
+    "location": []
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "INSTRUMENT III",
+    "teacher": [
+      {
+        "name": "SEM PROF.UA1",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/442"
+      }
+    ],
+    "location": []
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "MUS E TECNOLOG",
+    "teacher": [
+      {
+        "name": "LINDBERG",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/137"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL MUS 07",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/7"
+      }
+    ]
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "PR CONJUNTO I",
+    "teacher": [
+      {
+        "name": "VINICIUS AMARA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/541"
+      }
+    ],
+    "location": []
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "PI ARRANJO",
+    "teacher": [
+      {
+        "name": "SEM PROF.UA1",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/442"
+      }
+    ],
+    "location": []
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "INSTRUMENT III",
+    "teacher": [
+      {
+        "name": "SEM PROF.UA1",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/442"
+      }
+    ],
+    "location": []
+  },
+  {
+    "course": "INSTRUMENTO MUSICAL INTEGRADO",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "MUS E TECNOLOG",
+    "teacher": [
+      {
+        "name": "LINDBERG",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/137"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL MUS 07",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/7"
+      }
+    ]
+  }
+]

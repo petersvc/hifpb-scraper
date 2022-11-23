@@ -1,0 +1,3026 @@
+[
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "ALG LOG PROG",
+    "teacher": [
+      {
+        "name": "PATRIC LACOUTH",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/339"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 09",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/31"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "FUND REDES P1",
+    "teacher": [
+      {
+        "name": "EVERALDO SOUTO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/535"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/33"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "ALG LOG PROG",
+    "teacher": [
+      {
+        "name": "PATRIC LACOUTH",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/339"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 09",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/31"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "ALGEBRA VET",
+    "teacher": [
+      {
+        "name": "KERLY",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/624"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 22",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/16"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "CAL DIF INT I",
+    "teacher": [
+      {
+        "name": "KERLY",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/624"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 22",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/16"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "ALG LOG PROG",
+    "teacher": [
+      {
+        "name": "PATRIC LACOUTH",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/339"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 09",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/31"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "FUND REDES P1",
+    "teacher": [
+      {
+        "name": "EVERALDO SOUTO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/535"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/33"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "ALG LOG PROG",
+    "teacher": [
+      {
+        "name": "PATRIC LACOUTH",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/339"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 09",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/31"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "ALGEBRA VET",
+    "teacher": [
+      {
+        "name": "KERLY",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/624"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 22",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/16"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "CAL DIF INT I",
+    "teacher": [
+      {
+        "name": "KERLY",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/624"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 22",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/16"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "CAL DIF INT I",
+    "teacher": [
+      {
+        "name": "KERLY",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/624"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 22",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/16"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "EB",
+    "teacher": [
+      {
+        "name": "ERIK FARIAS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/771"
+      },
+      {
+        "name": "ALFREDO GOMES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/19"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-02",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/102"
+      },
+      {
+        "name": "TELECOM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/76"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "FUND REDES P1",
+    "teacher": [
+      {
+        "name": "EVERALDO SOUTO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/535"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 09",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/31"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "INGLES INST G2",
+    "teacher": [
+      {
+        "name": "LIANE LEITÃO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/798"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 15",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/23"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "ALGEBRA VET",
+    "teacher": [
+      {
+        "name": "KERLY",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/624"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 22",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/16"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "CAL DIF INT I",
+    "teacher": [
+      {
+        "name": "KERLY",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/624"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 22",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/16"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "EB",
+    "teacher": [
+      {
+        "name": "ERIK FARIAS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/771"
+      },
+      {
+        "name": "ALFREDO GOMES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/19"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-02",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/102"
+      },
+      {
+        "name": "TELECOM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/76"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "FUND REDES P1",
+    "teacher": [
+      {
+        "name": "EVERALDO SOUTO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/535"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 09",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/31"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "INGLES INST G2",
+    "teacher": [
+      {
+        "name": "LIANE LEITÃO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/798"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 15",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/23"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "ALGEBRA VET",
+    "teacher": [
+      {
+        "name": "KERLY",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/624"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 22",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/16"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "CAL DIF INT I",
+    "teacher": [
+      {
+        "name": "KERLY",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/624"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 22",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/16"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "EB",
+    "teacher": [
+      {
+        "name": "ERIK FARIAS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/771"
+      },
+      {
+        "name": "ALFREDO GOMES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/19"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-02",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/102"
+      },
+      {
+        "name": "TELECOM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/76"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "FUND REDES P1",
+    "teacher": [
+      {
+        "name": "EVERALDO SOUTO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/535"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 09",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/31"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "INGLES INST G2",
+    "teacher": [
+      {
+        "name": "LIANE LEITÃO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/798"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 15",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/23"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "MAT APLIC",
+    "teacher": [
+      {
+        "name": "THIAGO ANDRADE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/465"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 16",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/22"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "MAT APLIC",
+    "teacher": [
+      {
+        "name": "THIAGO ANDRADE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/465"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 16",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/22"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "ELE E MAGNET",
+    "teacher": [
+      {
+        "name": "FABIO GR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/713"
+      }
+    ],
+    "location": [
+      {
+        "name": "LAB FÍSIC",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/25"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "CIRC LOGICOS",
+    "teacher": [
+      {
+        "name": "GUSTAVO ARAUJO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/736"
+      },
+      {
+        "name": "ELETRO II",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/7"
+      },
+      {
+        "name": "SL INFO 03",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/65"
+      },
+      {
+        "name": "AI-05",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/105"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/33"
+      },
+      {
+        "name": "LINCOLN ARAUJO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/255"
+      },
+      {
+        "name": "THYAGO LIMA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/875"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "CIRC LOGICOS",
+    "teacher": [
+      {
+        "name": "THYAGO LIMA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/875"
+      },
+      {
+        "name": "LINCOLN ARAUJO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/255"
+      },
+      {
+        "name": "GUSTAVO ARAUJO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/736"
+      },
+      {
+        "name": "ELETRO II",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/7"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-05",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/105"
+      },
+      {
+        "name": "INFO 57",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/134"
+      },
+      {
+        "name": "SL INFO 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/33"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "MAT APLIC",
+    "teacher": [
+      {
+        "name": "THIAGO ANDRADE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/465"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 16",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/22"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "MAT APLIC",
+    "teacher": [
+      {
+        "name": "THIAGO ANDRADE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/465"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 16",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/22"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "ELE E MAGNET",
+    "teacher": [
+      {
+        "name": "FABIO GR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/713"
+      }
+    ],
+    "location": [
+      {
+        "name": "LAB FÍSIC",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/25"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "CIRC LOGICOS",
+    "teacher": [
+      {
+        "name": "THYAGO LIMA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/875"
+      },
+      {
+        "name": "LINCOLN ARAUJO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/255"
+      },
+      {
+        "name": "GUSTAVO ARAUJO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/736"
+      },
+      {
+        "name": "ELETRO II",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/7"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-05",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/105"
+      },
+      {
+        "name": "SL INFO 03",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/65"
+      },
+      {
+        "name": "SL INFO 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/33"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "CIRC LOGICOS",
+    "teacher": [
+      {
+        "name": "THYAGO LIMA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/875"
+      },
+      {
+        "name": "LINCOLN ARAUJO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/255"
+      },
+      {
+        "name": "GUSTAVO ARAUJO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/736"
+      },
+      {
+        "name": "ELETRO II",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/7"
+      }
+    ],
+    "location": [
+      {
+        "name": "AI-05",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/105"
+      },
+      {
+        "name": "INFO 57",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/134"
+      },
+      {
+        "name": "SL INFO 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/33"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "ELETR ANA",
+    "teacher": [
+      {
+        "name": "ROSSANA MORENO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/377"
+      }
+    ],
+    "location": [
+      {
+        "name": "TELECOM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/76"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "MAT APLIC",
+    "teacher": [
+      {
+        "name": "THIAGO ANDRADE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/465"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 16",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/22"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "ELE E MAGNET",
+    "teacher": [
+      {
+        "name": "FABIO GR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/713"
+      }
+    ],
+    "location": [
+      {
+        "name": "LAB FÍSIC",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/25"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "PROGR ESTRUT",
+    "teacher": [
+      {
+        "name": "PATRIC LACOUTH",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/339"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 09",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/31"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "PROGR ESTRUT",
+    "teacher": [
+      {
+        "name": "PATRIC LACOUTH",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/339"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 09",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/31"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "ELETR ANA",
+    "teacher": [
+      {
+        "name": "ROSSANA MORENO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/377"
+      }
+    ],
+    "location": [
+      {
+        "name": "TELECOM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/76"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "ELE E MAGNET",
+    "teacher": [
+      {
+        "name": "FABIO GR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/713"
+      }
+    ],
+    "location": [
+      {
+        "name": "LAB FÍSIC",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/25"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "ELETR ANA",
+    "teacher": [
+      {
+        "name": "ROSSANA MORENO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/377"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 22",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/16"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "PROGR ESTRUT",
+    "teacher": [
+      {
+        "name": "PATRIC LACOUTH",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/339"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 09",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/31"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "PROGR ESTRUT",
+    "teacher": [
+      {
+        "name": "PATRIC LACOUTH",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/339"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 09",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/31"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "ELETR ANA",
+    "teacher": [
+      {
+        "name": "ROSSANA MORENO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/377"
+      }
+    ],
+    "location": [
+      {
+        "name": "TELECOM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/76"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "ELE E MAGNET",
+    "teacher": [
+      {
+        "name": "FABIO GR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/713"
+      }
+    ],
+    "location": [
+      {
+        "name": "LAB FÍSIC",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/25"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "ELETR ANA",
+    "teacher": [
+      {
+        "name": "ROSSANA MORENO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/377"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 22",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/16"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "ALGEBRA LINEAR",
+    "teacher": [
+      {
+        "name": "GUTEMBERG",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/46"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 19",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/19"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "CAMPOS ONDAS",
+    "teacher": [
+      {
+        "name": "FABIO GR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/713"
+      }
+    ],
+    "location": [
+      {
+        "name": "LAB FÍSIC",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/25"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "TEORIA ESTAT",
+    "teacher": [
+      {
+        "name": "LAISE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/813"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 15",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/23"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "MET NUMERICOS",
+    "teacher": [
+      {
+        "name": "PATRIC LACOUTH",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/339"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 09",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/31"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "ALGEBRA LINEAR",
+    "teacher": [
+      {
+        "name": "GUTEMBERG",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/46"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 19",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/19"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "ALGEBRA LINEAR",
+    "teacher": [
+      {
+        "name": "GUTEMBERG",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/46"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 19",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/19"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "CAMPOS ONDAS",
+    "teacher": [
+      {
+        "name": "FABIO GR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/713"
+      }
+    ],
+    "location": [
+      {
+        "name": "LAB FÍSIC",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/25"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "TEORIA ESTAT",
+    "teacher": [
+      {
+        "name": "LAISE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/813"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 15",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/23"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "MET NUMERICOS",
+    "teacher": [
+      {
+        "name": "PATRIC LACOUTH",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/339"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 09",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/31"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "ALGEBRA LINEAR",
+    "teacher": [
+      {
+        "name": "GUTEMBERG",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/46"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 19",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/19"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "CAMPOS ONDAS",
+    "teacher": [
+      {
+        "name": "FABIO GR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/713"
+      }
+    ],
+    "location": [
+      {
+        "name": "LAB FÍSIC",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/25"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "TEORIA ESTAT",
+    "teacher": [
+      {
+        "name": "LAISE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/813"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 15",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/23"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "FUND MET CIENT",
+    "teacher": [
+      {
+        "name": "CHAQUIBE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/71"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 22",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/16"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "FUND MET CIENT",
+    "teacher": [
+      {
+        "name": "CHAQUIBE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/71"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 22",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/16"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "ANALISE CIR EL",
+    "teacher": [
+      {
+        "name": "EDVALDO PIRES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/640"
+      }
+    ],
+    "location": [
+      {
+        "name": "TELECOM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/76"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "CAMPOS ONDAS",
+    "teacher": [
+      {
+        "name": "FABIO GR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/713"
+      }
+    ],
+    "location": [
+      {
+        "name": "LAB FÍSIC",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/25"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "TEORIA ESTAT",
+    "teacher": [
+      {
+        "name": "LAISE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/813"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 15",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/23"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "MET NUMERICOS",
+    "teacher": [
+      {
+        "name": "PATRIC LACOUTH",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/339"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/33"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "ANALISE CIR EL",
+    "teacher": [
+      {
+        "name": "EDVALDO PIRES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/640"
+      }
+    ],
+    "location": [
+      {
+        "name": "ELETRO I",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/20"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "ANALISE CIR EL",
+    "teacher": [
+      {
+        "name": "EDVALDO PIRES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/640"
+      }
+    ],
+    "location": [
+      {
+        "name": "TELECOM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/76"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "CAMPOS ONDAS",
+    "teacher": [
+      {
+        "name": "FABIO GR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/713"
+      }
+    ],
+    "location": [
+      {
+        "name": "LAB FÍSIC",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/25"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "TEORIA ESTAT",
+    "teacher": [
+      {
+        "name": "LAISE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/813"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 15",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/23"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "MET NUMERICOS",
+    "teacher": [
+      {
+        "name": "PATRIC LACOUTH",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/339"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/33"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "ANALISE CIR EL",
+    "teacher": [
+      {
+        "name": "EDVALDO PIRES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/640"
+      }
+    ],
+    "location": [
+      {
+        "name": "ELETRO I",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/20"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "ANALISE CIR EL",
+    "teacher": [
+      {
+        "name": "EDVALDO PIRES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/640"
+      }
+    ],
+    "location": [
+      {
+        "name": "TELECOM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/76"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "CAB ESTRUT",
+    "teacher": [
+      {
+        "name": "GUSTAVO ARAUJO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/736"
+      }
+    ],
+    "location": [
+      {
+        "name": "FIBRA OPT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/80"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "CAB ESTRUT",
+    "teacher": [
+      {
+        "name": "GUSTAVO ARAUJO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/736"
+      }
+    ],
+    "location": [
+      {
+        "name": "FIBRA OPT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/80"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "SIST TELECOM",
+    "teacher": [
+      {
+        "name": "JEFERSON COSTA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/197"
+      }
+    ],
+    "location": [
+      {
+        "name": "TELECOM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/76"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "ESTR G DIS MIC",
+    "teacher": [
+      {
+        "name": "ADAILDO GOMES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/2"
+      }
+    ],
+    "location": [
+      {
+        "name": "FIBRA OPT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/80"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 4,
+    "weekday": "sexta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "TEORIA INFORM",
+    "teacher": [
+      {
+        "name": "SUZETE ELIDA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/396"
+      }
+    ],
+    "location": [
+      {
+        "name": "FIBRA OPT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/80"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "CAB ESTRUT",
+    "teacher": [
+      {
+        "name": "GUSTAVO ARAUJO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/736"
+      }
+    ],
+    "location": [
+      {
+        "name": "FIBRA OPT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/80"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "CAB ESTRUT",
+    "teacher": [
+      {
+        "name": "GUSTAVO ARAUJO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/736"
+      }
+    ],
+    "location": [
+      {
+        "name": "FIBRA OPT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/80"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "SIST TELECOM",
+    "teacher": [
+      {
+        "name": "JEFERSON COSTA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/197"
+      }
+    ],
+    "location": [
+      {
+        "name": "TELECOM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/76"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "ESTR G DIS MIC",
+    "teacher": [
+      {
+        "name": "ADAILDO GOMES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/2"
+      }
+    ],
+    "location": [
+      {
+        "name": "FIBRA OPT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/80"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 4,
+    "weekday": "sexta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "TEORIA INFORM",
+    "teacher": [
+      {
+        "name": "SUZETE ELIDA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/396"
+      }
+    ],
+    "location": [
+      {
+        "name": "FIBRA OPT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/80"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "TEORIA INFORM",
+    "teacher": [
+      {
+        "name": "SUZETE ELIDA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/396"
+      }
+    ],
+    "location": [
+      {
+        "name": "FIBRA OPT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/80"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "MET TEC PESQ",
+    "teacher": [
+      {
+        "name": "ITALO ORIENTE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/186"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/33"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "SIST TELECOM",
+    "teacher": [
+      {
+        "name": "JEFERSON COSTA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/197"
+      }
+    ],
+    "location": [
+      {
+        "name": "TELECOM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/76"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "ESTR G DIS MIC",
+    "teacher": [
+      {
+        "name": "ADAILDO GOMES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/2"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/33"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 4,
+    "weekday": "sexta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "GESTAO PROJETO",
+    "teacher": [
+      {
+        "name": "VANDERLAN ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/797"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 09",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/95"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "TEORIA INFORM",
+    "teacher": [
+      {
+        "name": "SUZETE ELIDA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/396"
+      }
+    ],
+    "location": [
+      {
+        "name": "FIBRA OPT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/80"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "MET TEC PESQ",
+    "teacher": [
+      {
+        "name": "ITALO ORIENTE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/186"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/33"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "SIST TELECOM",
+    "teacher": [
+      {
+        "name": "JEFERSON COSTA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/197"
+      }
+    ],
+    "location": [
+      {
+        "name": "TELECOM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/76"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "ESTR G DIS MIC",
+    "teacher": [
+      {
+        "name": "ADAILDO GOMES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/2"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/33"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 4,
+    "weekday": "sexta",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "GESTAO PROJETO",
+    "teacher": [
+      {
+        "name": "VANDERLAN ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/797"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 09",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/95"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "GESTAO PROJETO",
+    "teacher": [
+      {
+        "name": "VANDERLAN ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/797"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/33"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "MET TEC PESQ",
+    "teacher": [
+      {
+        "name": "ITALO ORIENTE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/186"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/33"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "SIST TELECOM",
+    "teacher": [
+      {
+        "name": "JEFERSON COSTA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/197"
+      }
+    ],
+    "location": [
+      {
+        "name": "TELECOM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/76"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "ESTR G DIS MIC",
+    "teacher": [
+      {
+        "name": "ADAILDO GOMES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/2"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/33"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 4,
+    "weekday": "sexta",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "GESTAO PROJETO",
+    "teacher": [
+      {
+        "name": "VANDERLAN ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/797"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 09",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/95"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 5,
+    "weekday": "segunda",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "TELEFONIA",
+    "teacher": [
+      {
+        "name": "MICHEL DIAS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/315"
+      }
+    ],
+    "location": [
+      {
+        "name": "TELEF R C",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/77"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 5,
+    "weekday": "terca",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "ANT E PROPAG",
+    "teacher": [
+      {
+        "name": "JEFERSON COSTA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/197"
+      }
+    ],
+    "location": [
+      {
+        "name": "MED TELECO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/65"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 5,
+    "weekday": "quarta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "SIST RADIODIF",
+    "teacher": [
+      {
+        "name": "JOABSON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/201"
+      }
+    ],
+    "location": [
+      {
+        "name": "MED TELECO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/65"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 5,
+    "weekday": "quinta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "PROC DIG SIN",
+    "teacher": [
+      {
+        "name": "EDVALDO PIRES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/640"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 04",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/88"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 5,
+    "weekday": "sexta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "PROC DIG SIN",
+    "teacher": [
+      {
+        "name": "EDVALDO PIRES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/640"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 09",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/31"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 5,
+    "weekday": "segunda",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "TELEFONIA",
+    "teacher": [
+      {
+        "name": "MICHEL DIAS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/315"
+      }
+    ],
+    "location": [
+      {
+        "name": "TELEF R C",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/77"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 5,
+    "weekday": "terca",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "ANT E PROPAG",
+    "teacher": [
+      {
+        "name": "JEFERSON COSTA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/197"
+      }
+    ],
+    "location": [
+      {
+        "name": "MED TELECO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/65"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 5,
+    "weekday": "quarta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "SIST RADIODIF",
+    "teacher": [
+      {
+        "name": "JOABSON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/201"
+      }
+    ],
+    "location": [
+      {
+        "name": "MED TELECO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/65"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 5,
+    "weekday": "quinta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "PROC DIG SIN",
+    "teacher": [
+      {
+        "name": "EDVALDO PIRES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/640"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 04",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/88"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 5,
+    "weekday": "sexta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "PROC DIG SIN",
+    "teacher": [
+      {
+        "name": "EDVALDO PIRES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/640"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 09",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/31"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 5,
+    "weekday": "segunda",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "TELEFONIA",
+    "teacher": [
+      {
+        "name": "MICHEL DIAS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/315"
+      }
+    ],
+    "location": [
+      {
+        "name": "TELEF R C",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/77"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 5,
+    "weekday": "terca",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "SIST RADIODIF",
+    "teacher": [
+      {
+        "name": "JOABSON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/201"
+      }
+    ],
+    "location": [
+      {
+        "name": "MED TELECO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/65"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 5,
+    "weekday": "quarta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "PR INT RED COM",
+    "teacher": [
+      {
+        "name": "CAIO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/57"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 03",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/65"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 5,
+    "weekday": "quinta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "ANT E PROPAG",
+    "teacher": [
+      {
+        "name": "JEFERSON COSTA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/197"
+      }
+    ],
+    "location": [
+      {
+        "name": "MED TELECO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/65"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 5,
+    "weekday": "sexta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "PR INT RED COM",
+    "teacher": [
+      {
+        "name": "CAIO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/57"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/33"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 5,
+    "weekday": "segunda",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "TELEFONIA",
+    "teacher": [
+      {
+        "name": "MICHEL DIAS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/315"
+      }
+    ],
+    "location": [
+      {
+        "name": "TELEF R C",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/77"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 5,
+    "weekday": "terca",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "SIST RADIODIF",
+    "teacher": [
+      {
+        "name": "JOABSON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/201"
+      }
+    ],
+    "location": [
+      {
+        "name": "MED TELECO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/65"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 5,
+    "weekday": "quarta",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "PR INT RED COM",
+    "teacher": [
+      {
+        "name": "CAIO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/57"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 03",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/65"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 5,
+    "weekday": "quinta",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "ANT E PROPAG",
+    "teacher": [
+      {
+        "name": "JEFERSON COSTA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/197"
+      }
+    ],
+    "location": [
+      {
+        "name": "MED TELECO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/65"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 5,
+    "weekday": "sexta",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "PR INT RED COM",
+    "teacher": [
+      {
+        "name": "CAIO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/57"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/33"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 5,
+    "weekday": "segunda",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "TELEFONIA",
+    "teacher": [
+      {
+        "name": "MICHEL DIAS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/315"
+      }
+    ],
+    "location": [
+      {
+        "name": "TELEF R C",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/77"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 5,
+    "weekday": "terca",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "SIST RADIODIF",
+    "teacher": [
+      {
+        "name": "JOABSON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/201"
+      }
+    ],
+    "location": [
+      {
+        "name": "MED TELECO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/65"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 5,
+    "weekday": "quarta",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "PR INT RED COM",
+    "teacher": [
+      {
+        "name": "CAIO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/57"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 03",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/65"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 5,
+    "weekday": "quinta",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "ANT E PROPAG",
+    "teacher": [
+      {
+        "name": "JEFERSON COSTA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/197"
+      }
+    ],
+    "location": [
+      {
+        "name": "MED TELECO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/65"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 6,
+    "weekday": "segunda",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "COMUN DIGITAIS",
+    "teacher": [
+      {
+        "name": "ROMEU",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/735"
+      }
+    ],
+    "location": [
+      {
+        "name": "TELECOM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/76"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 6,
+    "weekday": "terca",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "COMUN MOVEIS",
+    "teacher": [
+      {
+        "name": "JOABSON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/201"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 19",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/19"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 6,
+    "weekday": "quarta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "COMUN OPTICAS",
+    "teacher": [
+      {
+        "name": "ROSSANA MORENO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/377"
+      }
+    ],
+    "location": [
+      {
+        "name": "FIBRA OPT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/80"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 6,
+    "weekday": "quinta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "COMUN MOVEIS",
+    "teacher": [
+      {
+        "name": "JOABSON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/201"
+      }
+    ],
+    "location": [
+      {
+        "name": "MED TELECO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/65"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 6,
+    "weekday": "sexta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "EMPREENDED",
+    "teacher": [
+      {
+        "name": "VANDERLAN ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/797"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 09",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/95"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 6,
+    "weekday": "segunda",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "COMUN DIGITAIS",
+    "teacher": [
+      {
+        "name": "ROMEU",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/735"
+      }
+    ],
+    "location": [
+      {
+        "name": "TELECOM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/76"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 6,
+    "weekday": "terca",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "COMUN MOVEIS",
+    "teacher": [
+      {
+        "name": "JOABSON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/201"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 19",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/19"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 6,
+    "weekday": "quarta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "COMUN OPTICAS",
+    "teacher": [
+      {
+        "name": "ROSSANA MORENO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/377"
+      }
+    ],
+    "location": [
+      {
+        "name": "FIBRA OPT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/80"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 6,
+    "weekday": "quinta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "COMUN MOVEIS",
+    "teacher": [
+      {
+        "name": "JOABSON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/201"
+      }
+    ],
+    "location": [
+      {
+        "name": "MED TELECO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/65"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 6,
+    "weekday": "sexta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "EMPREENDED",
+    "teacher": [
+      {
+        "name": "VANDERLAN ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/797"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 09",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/95"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 6,
+    "weekday": "segunda",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "EMPREENDED",
+    "teacher": [
+      {
+        "name": "VANDERLAN ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/797"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 09",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/95"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 6,
+    "weekday": "terca",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "PSIC TRABALHO",
+    "teacher": [
+      {
+        "name": "SEM PROF",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/467"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 18",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/20"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 6,
+    "weekday": "quarta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "LEGISL TELECOM",
+    "teacher": [
+      {
+        "name": "ANNUSKA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/39"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 101",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/66"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 6,
+    "weekday": "quinta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "PR SIST COMUNI",
+    "teacher": [
+      {
+        "name": "ITALO ORIENTE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/186"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 03",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/65"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 6,
+    "weekday": "sexta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "COMUN DIGITAIS",
+    "teacher": [
+      {
+        "name": "ROMEU",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/735"
+      }
+    ],
+    "location": [
+      {
+        "name": "FIBRA OPT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/80"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 6,
+    "weekday": "segunda",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "EMPREENDED",
+    "teacher": [
+      {
+        "name": "VANDERLAN ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/797"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 09",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/95"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 6,
+    "weekday": "terca",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "PSIC TRABALHO",
+    "teacher": [
+      {
+        "name": "SEM PROF",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/467"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 18",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/20"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 6,
+    "weekday": "quarta",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "LEGISL TELECOM",
+    "teacher": [
+      {
+        "name": "ANNUSKA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/39"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 101",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/66"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 6,
+    "weekday": "quinta",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "COMUN OPTICAS",
+    "teacher": [
+      {
+        "name": "ROSSANA MORENO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/377"
+      }
+    ],
+    "location": [
+      {
+        "name": "FIBRA OPT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/80"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 6,
+    "weekday": "sexta",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "COMUN DIGITAIS",
+    "teacher": [
+      {
+        "name": "ROMEU",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/735"
+      }
+    ],
+    "location": [
+      {
+        "name": "FIBRA OPT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/80"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 6,
+    "weekday": "segunda",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "PR SIST COMUNI",
+    "teacher": [
+      {
+        "name": "ITALO ORIENTE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/186"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 03",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/65"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 6,
+    "weekday": "terca",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "PSIC TRABALHO",
+    "teacher": [
+      {
+        "name": "SEM PROF",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/467"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 18",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/20"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 6,
+    "weekday": "quarta",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "LEGISL TELECOM",
+    "teacher": [
+      {
+        "name": "ANNUSKA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/39"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 101",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/66"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 6,
+    "weekday": "quinta",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "COMUN OPTICAS",
+    "teacher": [
+      {
+        "name": "ROSSANA MORENO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/377"
+      }
+    ],
+    "location": [
+      {
+        "name": "FIBRA OPT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/80"
+      }
+    ]
+  },
+  {
+    "course": "SISTEMAS DE TELECOMUNICACOES",
+    "semester": 6,
+    "weekday": "sexta",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "COMUN DIGITAIS",
+    "teacher": [
+      {
+        "name": "ROMEU",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/735"
+      }
+    ],
+    "location": [
+      {
+        "name": "FIBRA OPT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/80"
+      }
+    ]
+  }
+]

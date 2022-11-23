@@ -1,0 +1,3342 @@
+[
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "MAT FINANCEIRA",
+    "teacher": [
+      {
+        "name": "HERBERT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/177"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 301",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/34"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "MAT FINANCEIRA",
+    "teacher": [
+      {
+        "name": "HERBERT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/177"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 301",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/34"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "MATEMATICA I",
+    "teacher": [
+      {
+        "name": "J. CARLOS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/503"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 301",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/34"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "FUND ADM",
+    "teacher": [
+      {
+        "name": "FERNANDA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/161"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 301",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/34"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "COMUN ORGANIZ",
+    "teacher": [
+      {
+        "name": "RAISSA BARBOSA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/843"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 301",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/34"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "MAT FINANCEIRA",
+    "teacher": [
+      {
+        "name": "HERBERT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/177"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 301",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/34"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "MAT FINANCEIRA",
+    "teacher": [
+      {
+        "name": "HERBERT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/177"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 301",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/34"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "MATEMATICA I",
+    "teacher": [
+      {
+        "name": "J. CARLOS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/503"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 301",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/34"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "FUND ADM",
+    "teacher": [
+      {
+        "name": "FERNANDA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/161"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 301",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/34"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "COMUN ORGANIZ",
+    "teacher": [
+      {
+        "name": "RAISSA BARBOSA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/843"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 301",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/34"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "SOC APLIC ADM",
+    "teacher": [
+      {
+        "name": "SALETE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/302"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 301",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/34"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "FUND ADM",
+    "teacher": [
+      {
+        "name": "FERNANDA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/161"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 301",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/34"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "FILO ETIC PROF",
+    "teacher": [
+      {
+        "name": "TIAGO ADONIAS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/847"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 301",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/34"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "INFOR BASICA",
+    "teacher": [
+      {
+        "name": "FERNANDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/686"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 02",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/64"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "COMUN ORGANIZ",
+    "teacher": [
+      {
+        "name": "RAISSA BARBOSA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/843"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 301",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/34"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "SOC APLIC ADM",
+    "teacher": [
+      {
+        "name": "SALETE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/302"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 301",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/34"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "FUND ADM",
+    "teacher": [
+      {
+        "name": "FERNANDA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/161"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 301",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/34"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "FILO ETIC PROF",
+    "teacher": [
+      {
+        "name": "TIAGO ADONIAS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/847"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 301",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/34"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "INFOR BASICA",
+    "teacher": [
+      {
+        "name": "FERNANDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/686"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 02",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/64"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "MATEMATICA I",
+    "teacher": [
+      {
+        "name": "J. CARLOS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/503"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 301",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/34"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "SOC APLIC ADM",
+    "teacher": [
+      {
+        "name": "SALETE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/302"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 301",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/34"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "FILO ETIC PROF",
+    "teacher": [
+      {
+        "name": "TIAGO ADONIAS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/847"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 301",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/34"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "INFOR BASICA",
+    "teacher": [
+      {
+        "name": "FERNANDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/686"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 02",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/64"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "MATEMATICA I",
+    "teacher": [
+      {
+        "name": "J. CARLOS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/503"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 301",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/34"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "PSICOL APL ADM",
+    "teacher": [
+      {
+        "name": "GLAUCO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/529"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 302",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/82"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "ECON MERC",
+    "teacher": [
+      {
+        "name": "MARCELLA T.",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/272"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 302",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/82"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "TEORIA ORGANIZ",
+    "teacher": [
+      {
+        "name": "ALVARO  FILHO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/819"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 302",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/82"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "SAUDE E TRAB",
+    "teacher": [
+      {
+        "name": "MARIA LUIZA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/300"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 302",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/82"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "EST BASICA",
+    "teacher": [
+      {
+        "name": "FABIO SILV",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/128"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 302",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/82"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "PSICOL APL ADM",
+    "teacher": [
+      {
+        "name": "GLAUCO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/529"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 302",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/82"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "ECON MERC",
+    "teacher": [
+      {
+        "name": "MARCELLA T.",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/272"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 302",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/82"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "TEORIA ORGANIZ",
+    "teacher": [
+      {
+        "name": "ALVARO  FILHO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/819"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 302",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/82"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "SAUDE E TRAB",
+    "teacher": [
+      {
+        "name": "MARIA LUIZA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/300"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 302",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/82"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "EST BASICA",
+    "teacher": [
+      {
+        "name": "FABIO SILV",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/128"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 302",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/82"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "PSICOL APL ADM",
+    "teacher": [
+      {
+        "name": "GLAUCO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/529"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 302",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/82"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "ECON MERC",
+    "teacher": [
+      {
+        "name": "MARCELLA T.",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/272"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 302",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/82"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "INGLES NEGOCIO",
+    "teacher": [
+      {
+        "name": "RAMON BRASILEI",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/801"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 302",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/82"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "MATEMATICA II",
+    "teacher": [
+      {
+        "name": "FABIO SILV",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/128"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 302",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/82"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "EST BASICA",
+    "teacher": [
+      {
+        "name": "FABIO SILV",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/128"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 302",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/82"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "PSICOL APL ADM",
+    "teacher": [
+      {
+        "name": "GLAUCO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/529"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 302",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/82"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "TEORIA ORGANIZ",
+    "teacher": [
+      {
+        "name": "ALVARO  FILHO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/819"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 302",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/82"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "INGLES NEGOCIO",
+    "teacher": [
+      {
+        "name": "RAMON BRASILEI",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/801"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 302",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/82"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "MATEMATICA II",
+    "teacher": [
+      {
+        "name": "FABIO SILV",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/128"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 302",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/82"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "EST BASICA",
+    "teacher": [
+      {
+        "name": "FABIO SILV",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/128"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 302",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/82"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "ECON MERC",
+    "teacher": [
+      {
+        "name": "MARCELLA T.",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/272"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 302",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/82"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "TEORIA ORGANIZ",
+    "teacher": [
+      {
+        "name": "ALVARO  FILHO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/819"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 302",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/82"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "INGLES NEGOCIO",
+    "teacher": [
+      {
+        "name": "RAMON BRASILEI",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/801"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 302",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/82"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "MATEMATICA II",
+    "teacher": [
+      {
+        "name": "FABIO SILV",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/128"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 302",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/82"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "MATEMATICA II",
+    "teacher": [
+      {
+        "name": "FABIO SILV",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/128"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 302",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/82"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "CONTAB GERAL",
+    "teacher": [
+      {
+        "name": "GILVAN MEDEIR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/163"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 21",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/17"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "GESTAO AMB",
+    "teacher": [
+      {
+        "name": "ANDRE_PEDROSA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/33"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 303",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/90"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "ESTRAT ORGANIZ",
+    "teacher": [
+      {
+        "name": "ARIELLE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/50"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 303",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/90"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "CONTAB GERAL",
+    "teacher": [
+      {
+        "name": "GILVAN MEDEIR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/163"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 21",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/17"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "ORG SIST MET",
+    "teacher": [
+      {
+        "name": "ALYSSON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/23"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 303",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/90"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "CONTAB GERAL",
+    "teacher": [
+      {
+        "name": "GILVAN MEDEIR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/163"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 21",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/17"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "GESTAO AMB",
+    "teacher": [
+      {
+        "name": "ANDRE_PEDROSA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/33"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 303",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/90"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "ESTRAT ORGANIZ",
+    "teacher": [
+      {
+        "name": "ARIELLE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/50"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 303",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/90"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "CONTAB GERAL",
+    "teacher": [
+      {
+        "name": "GILVAN MEDEIR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/163"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 21",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/17"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "ORG SIST MET",
+    "teacher": [
+      {
+        "name": "ALYSSON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/23"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 303",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/90"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "ECO BRASILEIRA",
+    "teacher": [
+      {
+        "name": "PATRICIA ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/340"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 303",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/90"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "GESTAO AMB",
+    "teacher": [
+      {
+        "name": "ANDRE_PEDROSA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/33"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 303",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/90"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "ESTRAT ORGANIZ",
+    "teacher": [
+      {
+        "name": "ARIELLE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/50"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 303",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/90"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "EST APL ADM",
+    "teacher": [
+      {
+        "name": "LAISE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/813"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 303",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/90"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "ORG SIST MET",
+    "teacher": [
+      {
+        "name": "ALYSSON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/23"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 303",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/90"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "ECO BRASILEIRA",
+    "teacher": [
+      {
+        "name": "PATRICIA ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/340"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 303",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/90"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "ADM PESSOAS",
+    "teacher": [
+      {
+        "name": "EMMANUELLE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/114"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 303",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/90"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "ADM PESSOAS",
+    "teacher": [
+      {
+        "name": "EMMANUELLE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/114"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 303",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/90"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "EST APL ADM",
+    "teacher": [
+      {
+        "name": "LAISE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/813"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 303",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/90"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "ORG SIST MET",
+    "teacher": [
+      {
+        "name": "ALYSSON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/23"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 303",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/90"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "ECO BRASILEIRA",
+    "teacher": [
+      {
+        "name": "PATRICIA ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/340"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 303",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/90"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "ADM PESSOAS",
+    "teacher": [
+      {
+        "name": "EMMANUELLE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/114"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 303",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/90"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "ADM PESSOAS",
+    "teacher": [
+      {
+        "name": "EMMANUELLE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/114"
+      },
+      {
+        "name": "IPP",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/86"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 303",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/90"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "EST APL ADM",
+    "teacher": [
+      {
+        "name": "LAISE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/813"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 303",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/90"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "EST APL ADM",
+    "teacher": [
+      {
+        "name": "LAISE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/813"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 303",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/90"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "DI PUB PRIV TC",
+    "teacher": [
+      {
+        "name": "GIORGIONE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/166"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 304",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/28"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "ADM PRO MANUF",
+    "teacher": [
+      {
+        "name": "ALVARO  FILHO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/819"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 304",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/28"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "DI PUB PRIV TC",
+    "teacher": [
+      {
+        "name": "GIORGIONE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/166"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 304",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/28"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "ADM MARKET",
+    "teacher": [
+      {
+        "name": "CERES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/70"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 304",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/28"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 4,
+    "weekday": "sexta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "ADM MAT PAT",
+    "teacher": [
+      {
+        "name": "JOSÉ OZILDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/662"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 304",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/28"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "DI PUB PRIV TC",
+    "teacher": [
+      {
+        "name": "GIORGIONE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/166"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 304",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/28"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "ADM PRO MANUF",
+    "teacher": [
+      {
+        "name": "ALVARO  FILHO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/819"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 304",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/28"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "DI PUB PRIV TC",
+    "teacher": [
+      {
+        "name": "GIORGIONE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/166"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 304",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/28"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "ADM MARKET",
+    "teacher": [
+      {
+        "name": "CERES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/70"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 304",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/28"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 4,
+    "weekday": "sexta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "ADM MAT PAT",
+    "teacher": [
+      {
+        "name": "JOSÉ OZILDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/662"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 304",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/28"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "PRA PE ADM PES",
+    "teacher": [
+      {
+        "name": "ALICE_INES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/20"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 101",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/66"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "MET TEC PESQ",
+    "teacher": [
+      {
+        "name": "JE WASHINGTON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/231"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 304",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/28"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "ADM PRO MANUF",
+    "teacher": [
+      {
+        "name": "ALVARO  FILHO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/819"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 304",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/28"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "ADM MARKET",
+    "teacher": [
+      {
+        "name": "CERES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/70"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 304",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/28"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 4,
+    "weekday": "sexta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "ADM MAT PAT",
+    "teacher": [
+      {
+        "name": "JOSÉ OZILDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/662"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 304",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/28"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "PRA PE ADM PES",
+    "teacher": [
+      {
+        "name": "ALICE_INES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/20"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 101",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/66"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "MET TEC PESQ",
+    "teacher": [
+      {
+        "name": "JE WASHINGTON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/231"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 304",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/28"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "ADM PRO MANUF",
+    "teacher": [
+      {
+        "name": "ALVARO  FILHO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/819"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 304",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/28"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "ADM MARKET",
+    "teacher": [
+      {
+        "name": "CERES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/70"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 304",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/28"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 4,
+    "weekday": "sexta",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "ADM MAT PAT",
+    "teacher": [
+      {
+        "name": "JOSÉ OZILDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/662"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 304",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/28"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "PRA PE ADM PES",
+    "teacher": [
+      {
+        "name": "ALICE_INES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/20"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 101",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/66"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "MET TEC PESQ",
+    "teacher": [
+      {
+        "name": "JE WASHINGTON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/231"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 304",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/28"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "MET TEC PESQ",
+    "teacher": [
+      {
+        "name": "JE WASHINGTON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/231"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 304",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/28"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "PRA PE ADM PES",
+    "teacher": [
+      {
+        "name": "ALICE_INES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/20"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 304",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/28"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 5,
+    "weekday": "segunda",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "ADM FIN ORC",
+    "teacher": [
+      {
+        "name": "ODILON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/334"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 305",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/79"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 5,
+    "weekday": "terca",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "ADM FIN ORC",
+    "teacher": [
+      {
+        "name": "ODILON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/334"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 305",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/79"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 5,
+    "weekday": "quarta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "ADM SI",
+    "teacher": [
+      {
+        "name": "AMANNA_PEIXOTO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/531"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 305",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/79"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 5,
+    "weekday": "quinta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "CONTAB GEREN",
+    "teacher": [
+      {
+        "name": "VILMA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/413"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 12",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/1"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 5,
+    "weekday": "sexta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "LEGIS SOCIAL",
+    "teacher": [
+      {
+        "name": "GIORGIONE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/166"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 305",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/79"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 5,
+    "weekday": "segunda",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "ADM FIN ORC",
+    "teacher": [
+      {
+        "name": "ODILON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/334"
+      },
+      {
+        "name": "INFO 57",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/134"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 305",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/79"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 5,
+    "weekday": "terca",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "ADM FIN ORC",
+    "teacher": [
+      {
+        "name": "ODILON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/334"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 305",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/79"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 5,
+    "weekday": "quarta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "ADM SI",
+    "teacher": [
+      {
+        "name": "AMANNA_PEIXOTO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/531"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 305",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/79"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 5,
+    "weekday": "quinta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "CONTAB GEREN",
+    "teacher": [
+      {
+        "name": "VILMA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/413"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 12",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/1"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 5,
+    "weekday": "sexta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "LEGIS SOCIAL",
+    "teacher": [
+      {
+        "name": "GIORGIONE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/166"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 305",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/79"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 5,
+    "weekday": "segunda",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "PR ADM MARK",
+    "teacher": [
+      {
+        "name": "FATIMA OLIVEIR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/296"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 305",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/79"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 5,
+    "weekday": "terca",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "PR ADM PROD",
+    "teacher": [
+      {
+        "name": "ELAINE CRI",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/106"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/68"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 5,
+    "weekday": "quarta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "ADM SI",
+    "teacher": [
+      {
+        "name": "AMANNA_PEIXOTO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/531"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 305",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/79"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 5,
+    "weekday": "quinta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "CONTAB GEREN",
+    "teacher": [
+      {
+        "name": "VILMA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/413"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 12",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/1"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 5,
+    "weekday": "sexta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "LEGIS SOCIAL",
+    "teacher": [
+      {
+        "name": "GIORGIONE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/166"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 305",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/79"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 5,
+    "weekday": "segunda",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "PR ADM MARK",
+    "teacher": [
+      {
+        "name": "FATIMA OLIVEIR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/296"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 305",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/79"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 5,
+    "weekday": "terca",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "PR ADM PROD",
+    "teacher": [
+      {
+        "name": "ELAINE CRI",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/106"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/68"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 5,
+    "weekday": "quarta",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "ADM SI",
+    "teacher": [
+      {
+        "name": "AMANNA_PEIXOTO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/531"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 305",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/79"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 5,
+    "weekday": "quinta",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "CONTAB GEREN",
+    "teacher": [
+      {
+        "name": "VILMA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/413"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 12",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/1"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 5,
+    "weekday": "sexta",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "LEGIS SOCIAL",
+    "teacher": [
+      {
+        "name": "GIORGIONE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/166"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 305",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/79"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 5,
+    "weekday": "segunda",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "PR ADM MARK",
+    "teacher": [
+      {
+        "name": "FATIMA OLIVEIR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/296"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 305",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/79"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 5,
+    "weekday": "terca",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "PR ADM PROD",
+    "teacher": [
+      {
+        "name": "ELAINE CRI",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/106"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/68"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 5,
+    "weekday": "quarta",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "PR ADM PROD",
+    "teacher": [
+      {
+        "name": "ELAINE CRI",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/106"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 305",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/79"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 5,
+    "weekday": "quinta",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "PR ADM MARK",
+    "teacher": [
+      {
+        "name": "FATIMA OLIVEIR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/296"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 305",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/79"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 6,
+    "weekday": "segunda",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "DESENV ORGAN",
+    "teacher": [
+      {
+        "name": "ALICE_INES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/20"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 101",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/66"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 6,
+    "weekday": "terca",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "GEST QUALID",
+    "teacher": [
+      {
+        "name": "ANNA CAROLINA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/827"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 306",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/91"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 6,
+    "weekday": "quarta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "GEST QUALID",
+    "teacher": [
+      {
+        "name": "ANNA CAROLINA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/827"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 306",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/91"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 6,
+    "weekday": "quinta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "GES SA SEG TRA",
+    "teacher": [
+      {
+        "name": "JOSÉ OZILDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/662"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 306",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/91"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 6,
+    "weekday": "sexta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "PESQ OPER",
+    "teacher": [
+      {
+        "name": "ELAINE CRI",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/106"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 14",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/25"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 6,
+    "weekday": "segunda",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "DESENV ORGAN",
+    "teacher": [
+      {
+        "name": "ALICE_INES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/20"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 101",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/66"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 6,
+    "weekday": "terca",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "GEST QUALID",
+    "teacher": [
+      {
+        "name": "ANNA CAROLINA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/827"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 306",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/91"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 6,
+    "weekday": "quarta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "GEST QUALID",
+    "teacher": [
+      {
+        "name": "ANNA CAROLINA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/827"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 306",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/91"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 6,
+    "weekday": "quinta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "GES SA SEG TRA",
+    "teacher": [
+      {
+        "name": "JOSÉ OZILDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/662"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 306",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/91"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 6,
+    "weekday": "sexta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "PESQ OPER",
+    "teacher": [
+      {
+        "name": "ELAINE CRI",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/106"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 14",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/25"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 6,
+    "weekday": "segunda",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "PE FIN ORÇ",
+    "teacher": [
+      {
+        "name": "ODILON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/334"
+      },
+      {
+        "name": "INFO 57",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/134"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 306",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/91"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 6,
+    "weekday": "terca",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "DESENV ORGAN",
+    "teacher": [
+      {
+        "name": "ALICE_INES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/20"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 102",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/84"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 6,
+    "weekday": "quarta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "PR REC MATER",
+    "teacher": [
+      {
+        "name": "CONCEICAO MONT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/293"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 306",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/91"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 6,
+    "weekday": "quinta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "GES SA SEG TRA",
+    "teacher": [
+      {
+        "name": "JOSÉ OZILDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/662"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 306",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/91"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 6,
+    "weekday": "sexta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "PESQ OPER",
+    "teacher": [
+      {
+        "name": "ELAINE CRI",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/106"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 14",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/25"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 6,
+    "weekday": "segunda",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "PE FIN ORÇ",
+    "teacher": [
+      {
+        "name": "ODILON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/334"
+      },
+      {
+        "name": "INFO 57",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/134"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 306",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/91"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 6,
+    "weekday": "terca",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "DESENV ORGAN",
+    "teacher": [
+      {
+        "name": "ALICE_INES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/20"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 102",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/84"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 6,
+    "weekday": "quarta",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "PR REC MATER",
+    "teacher": [
+      {
+        "name": "CONCEICAO MONT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/293"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 306",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/91"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 6,
+    "weekday": "quinta",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "GES SA SEG TRA",
+    "teacher": [
+      {
+        "name": "JOSÉ OZILDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/662"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 306",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/91"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 6,
+    "weekday": "sexta",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "PESQ OPER",
+    "teacher": [
+      {
+        "name": "ELAINE CRI",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/106"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 14",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/25"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 6,
+    "weekday": "segunda",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "PE FIN ORÇ",
+    "teacher": [
+      {
+        "name": "ODILON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/334"
+      },
+      {
+        "name": "INFO 57",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/134"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 306",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/91"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 6,
+    "weekday": "terca",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "PE FIN ORÇ",
+    "teacher": [
+      {
+        "name": "ODILON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/334"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 306",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/91"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 6,
+    "weekday": "quarta",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "PR REC MATER",
+    "teacher": [
+      {
+        "name": "CONCEICAO MONT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/293"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 306",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/91"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 6,
+    "weekday": "quinta",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "PR REC MATER",
+    "teacher": [
+      {
+        "name": "CONCEICAO MONT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/293"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 306",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/91"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 7,
+    "weekday": "segunda",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "GEST PROJETOS",
+    "teacher": [
+      {
+        "name": "AGNES_CAMPELLO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/476"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 02",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/64"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 7,
+    "weekday": "terca",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "POLÍTICAS",
+    "teacher": [
+      {
+        "name": "EMMANUELLE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/114"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 08",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/96"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 7,
+    "weekday": "quarta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "POLÍTICAS",
+    "teacher": [
+      {
+        "name": "EMMANUELLE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/114"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 08",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/96"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 7,
+    "weekday": "quinta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "JOGOS EMPRESA",
+    "teacher": [
+      {
+        "name": "RAISSA BARBOSA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/843"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/68"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 7,
+    "weekday": "sexta",
+    "start": "18:20",
+    "end": "19:10",
+    "className": "PR ADM SI",
+    "teacher": [
+      {
+        "name": "AMANNA_PEIXOTO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/531"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 08",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/96"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 7,
+    "weekday": "segunda",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "GEST PROJETOS",
+    "teacher": [
+      {
+        "name": "AGNES_CAMPELLO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/476"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 02",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/64"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 7,
+    "weekday": "terca",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "FORM.EMPREENDE",
+    "teacher": [
+      {
+        "name": "CRISTIANO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/763"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 08",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/96"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 7,
+    "weekday": "quarta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "POLÍTICAS",
+    "teacher": [
+      {
+        "name": "EMMANUELLE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/114"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 08",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/96"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 7,
+    "weekday": "quinta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "JOGOS EMPRESA",
+    "teacher": [
+      {
+        "name": "RAISSA BARBOSA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/843"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/68"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 7,
+    "weekday": "sexta",
+    "start": "19:10",
+    "end": "20:00",
+    "className": "PR ADM SI",
+    "teacher": [
+      {
+        "name": "AMANNA_PEIXOTO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/531"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 08",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/96"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 7,
+    "weekday": "segunda",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "GEST PROJETOS",
+    "teacher": [
+      {
+        "name": "AGNES_CAMPELLO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/476"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 02",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/64"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 7,
+    "weekday": "terca",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "FORM.EMPREENDE",
+    "teacher": [
+      {
+        "name": "CRISTIANO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/763"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 08",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/96"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 7,
+    "weekday": "quarta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "POLÍTICAS",
+    "teacher": [
+      {
+        "name": "EMMANUELLE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/114"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 08",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/96"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 7,
+    "weekday": "quinta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "JOGOS EMPRESA",
+    "teacher": [
+      {
+        "name": "RAISSA BARBOSA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/843"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/68"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 7,
+    "weekday": "sexta",
+    "start": "20:00",
+    "end": "20:50",
+    "className": "PR ADM SI",
+    "teacher": [
+      {
+        "name": "AMANNA_PEIXOTO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/531"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 08",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/96"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 7,
+    "weekday": "segunda",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "GEST PROJETOS",
+    "teacher": [
+      {
+        "name": "AGNES_CAMPELLO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/476"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 02",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/64"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 7,
+    "weekday": "terca",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "FORM.EMPREENDE",
+    "teacher": [
+      {
+        "name": "CRISTIANO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/763"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 08",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/96"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 7,
+    "weekday": "quinta",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "JOGOS EMPRESA",
+    "teacher": [
+      {
+        "name": "RAISSA BARBOSA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/843"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/68"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 7,
+    "weekday": "sexta",
+    "start": "20:50",
+    "end": "21:40",
+    "className": "PR ADM SI",
+    "teacher": [
+      {
+        "name": "AMANNA_PEIXOTO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/531"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 08",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/96"
+      }
+    ]
+  },
+  {
+    "course": "ADMINISTRACAO NOTURNO",
+    "semester": 7,
+    "weekday": "terca",
+    "start": "21:40",
+    "end": "22:30",
+    "className": "FORM.EMPREENDE",
+    "teacher": [
+      {
+        "name": "CRISTIANO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/763"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 08",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/96"
+      }
+    ]
+  }
+]

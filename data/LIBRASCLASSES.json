@@ -1,0 +1,217 @@
+[
+  {
+    "course": "LIBRAS",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "LIBRAS I ETIM",
+    "teacher": [
+      {
+        "name": "ZULEMA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/824"
+      }
+    ],
+    "location": []
+  },
+  {
+    "course": "LIBRAS",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "LIBRAS I ETIM",
+    "teacher": [
+      {
+        "name": "ZULEMA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/824"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/98"
+      }
+    ]
+  },
+  {
+    "course": "LIBRAS",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "LIBRAS I ETIM",
+    "teacher": [
+      {
+        "name": "ZULEMA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/824"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/98"
+      }
+    ]
+  },
+  {
+    "course": "LIBRAS",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "LIBRAS I ETIM",
+    "teacher": [
+      {
+        "name": "ZULEMA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/824"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 04",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/100"
+      }
+    ]
+  },
+  {
+    "course": "LIBRAS",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "LIBRAS I ETIM",
+    "teacher": [
+      {
+        "name": "ZULEMA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/824"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/98"
+      }
+    ]
+  },
+  {
+    "course": "LIBRAS",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "LIBRAS I ETIM",
+    "teacher": [
+      {
+        "name": "ZULEMA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/824"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 04",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/100"
+      }
+    ]
+  },
+  {
+    "course": "LIBRAS",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "LIBRAS II",
+    "teacher": [
+      {
+        "name": "NEMUEL",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/661"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 401",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/24"
+      }
+    ]
+  },
+  {
+    "course": "LIBRAS",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "LIBRAS II",
+    "teacher": [
+      {
+        "name": "NEMUEL",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/661"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 401",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/24"
+      }
+    ]
+  },
+  {
+    "course": "LIBRAS",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "LIBRAS II",
+    "teacher": [
+      {
+        "name": "NEMUEL",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/661"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 401",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/24"
+      }
+    ]
+  },
+  {
+    "course": "LIBRAS",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "LIBRAS OPTATIV",
+    "teacher": [
+      {
+        "name": "ERICKA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/116"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 17",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/21"
+      }
+    ]
+  },
+  {
+    "course": "LIBRAS",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "LIBRAS OPTATIV",
+    "teacher": [
+      {
+        "name": "ERICKA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/116"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 17",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/21"
+      }
+    ]
+  }
+]

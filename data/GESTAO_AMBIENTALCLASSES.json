@@ -1,0 +1,2322 @@
+[
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "MAT GEST AMB",
+    "teacher": [
+      {
+        "name": "THIAGO ANDRADE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/465"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 23",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/15"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "ECOLOGIA GERAL",
+    "teacher": [
+      {
+        "name": "GILCEAN",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/162"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 23",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/15"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "QUIM GERAL AMB",
+    "teacher": [
+      {
+        "name": "MARIA MONICA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/800"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 23",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/15"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "FUND GESTAO",
+    "teacher": [
+      {
+        "name": "ARILDE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/51"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 23",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/15"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "SO ET MEIO AMB",
+    "teacher": [
+      {
+        "name": "ARILDE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/51"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 23",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/15"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "MAT GEST AMB",
+    "teacher": [
+      {
+        "name": "THIAGO ANDRADE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/465"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 23",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/15"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "ECOLOGIA GERAL",
+    "teacher": [
+      {
+        "name": "GILCEAN",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/162"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 23",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/15"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "QUIM GERAL AMB",
+    "teacher": [
+      {
+        "name": "MARIA MONICA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/800"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 23",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/15"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "FUND GESTAO",
+    "teacher": [
+      {
+        "name": "ARILDE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/51"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 23",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/15"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "SO ET MEIO AMB",
+    "teacher": [
+      {
+        "name": "ARILDE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/51"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 23",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/15"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "PORT INSTR",
+    "teacher": [
+      {
+        "name": "ANA CAVALCANTE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/842"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 23",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/15"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "GEOGRAFIA",
+    "teacher": [
+      {
+        "name": "MARCIA V",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/487"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 23",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/15"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "SO ET MEIO AMB",
+    "teacher": [
+      {
+        "name": "ARILDE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/51"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 23",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/15"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "PORT INSTR",
+    "teacher": [
+      {
+        "name": "ANA CAVALCANTE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/842"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 23",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/15"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "GEOGRAFIA",
+    "teacher": [
+      {
+        "name": "MARCIA V",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/487"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 23",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/15"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "ECOLOGIA GERAL",
+    "teacher": [
+      {
+        "name": "GILCEAN",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/162"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 23",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/15"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "MAT GEST AMB",
+    "teacher": [
+      {
+        "name": "THIAGO ANDRADE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/465"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 23",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/15"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "QUIM GERAL AMB",
+    "teacher": [
+      {
+        "name": "MARIA MONICA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/800"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 23",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/15"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "PORT INSTR",
+    "teacher": [
+      {
+        "name": "ANA CAVALCANTE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/842"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 23",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/15"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "GEOGRAFIA",
+    "teacher": [
+      {
+        "name": "MARCIA V",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/487"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 23",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/15"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "ECOLOGIA GERAL",
+    "teacher": [
+      {
+        "name": "GILCEAN",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/162"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 23",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/15"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "MAT GEST AMB",
+    "teacher": [
+      {
+        "name": "THIAGO ANDRADE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/465"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 23",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/15"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "QUIM GERAL AMB",
+    "teacher": [
+      {
+        "name": "MARIA MONICA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/800"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 23",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/15"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "ECOLOGIA GERAL",
+    "teacher": [
+      {
+        "name": "GILCEAN",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/162"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 23",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/15"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "QUALIDADE AMB",
+    "teacher": [
+      {
+        "name": "ANTONIO CICERO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/42"
+      }
+    ],
+    "location": [
+      {
+        "name": "FIS.QUIMIC",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/82"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "HIDROLOGIA",
+    "teacher": [
+      {
+        "name": "EDELCIDES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/448"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 101",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/66"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "MICROB AMB",
+    "teacher": [
+      {
+        "name": "GILCEAN",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/162"
+      }
+    ],
+    "location": [
+      {
+        "name": "LAB MICROB",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/81"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "QUALIDADE AMB",
+    "teacher": [
+      {
+        "name": "ANTONIO CICERO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/42"
+      }
+    ],
+    "location": [
+      {
+        "name": "FIS.QUIMIC",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/82"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "MICROB AMB",
+    "teacher": [
+      {
+        "name": "GILCEAN",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/162"
+      }
+    ],
+    "location": [
+      {
+        "name": "LAB MICROB",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/81"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "HIDROLOGIA",
+    "teacher": [
+      {
+        "name": "EDELCIDES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/448"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 101",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/66"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "MICROB AMB",
+    "teacher": [
+      {
+        "name": "GILCEAN",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/162"
+      }
+    ],
+    "location": [
+      {
+        "name": "LAB MICROB",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/81"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "GES LABORAT",
+    "teacher": [
+      {
+        "name": "ANTONIO CICERO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/42"
+      }
+    ],
+    "location": [
+      {
+        "name": "FIS.QUIMIC",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/82"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "MICROB AMB",
+    "teacher": [
+      {
+        "name": "GILCEAN",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/162"
+      }
+    ],
+    "location": [
+      {
+        "name": "LAB MICROB",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/81"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "ESTATISTICA",
+    "teacher": [
+      {
+        "name": "DANIEL",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/86"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 18",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/20"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "HIDROLOGIA",
+    "teacher": [
+      {
+        "name": "EDELCIDES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/448"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 101",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/66"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "ESTATISTICA",
+    "teacher": [
+      {
+        "name": "DANIEL",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/86"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 103",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/102"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "GES LABORAT",
+    "teacher": [
+      {
+        "name": "ANTONIO CICERO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/42"
+      }
+    ],
+    "location": [
+      {
+        "name": "FIS.QUIMIC",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/82"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "DIR AMB",
+    "teacher": [
+      {
+        "name": "ANNUSKA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/39"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 101",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/66"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "ESTATISTICA",
+    "teacher": [
+      {
+        "name": "DANIEL",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/86"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 18",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/20"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "ESTATISTICA",
+    "teacher": [
+      {
+        "name": "DANIEL",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/86"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 103",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/102"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "DIR AMB",
+    "teacher": [
+      {
+        "name": "ANNUSKA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/39"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 101",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/66"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "GEOPROCES",
+    "teacher": [
+      {
+        "name": "DIEGO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/94"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 12",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/1"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "DIR AMB",
+    "teacher": [
+      {
+        "name": "ANNUSKA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/39"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 101",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/66"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "GEOPROCES",
+    "teacher": [
+      {
+        "name": "DIEGO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/94"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 12",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/1"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "GES REC HID",
+    "teacher": [
+      {
+        "name": "EDELCIDES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/448"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 32",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/61"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "MET PESQ CIENT",
+    "teacher": [
+      {
+        "name": "VALDITH",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/407"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 32",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/61"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "GES REC HID",
+    "teacher": [
+      {
+        "name": "EDELCIDES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/448"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 32",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/61"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "MET PESQ CIENT",
+    "teacher": [
+      {
+        "name": "VALDITH",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/407"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 32",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/61"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "MET PESQ CIENT",
+    "teacher": [
+      {
+        "name": "VALDITH",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/407"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 32",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/61"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "SIG",
+    "teacher": [
+      {
+        "name": "LAMARQUE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/63"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 31",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/54"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "REC ENERGETIC",
+    "teacher": [
+      {
+        "name": "ROBERIO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/367"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 13",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/26"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "GES REC HID",
+    "teacher": [
+      {
+        "name": "EDELCIDES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/448"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 32",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/61"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "MET PESQ CIENT",
+    "teacher": [
+      {
+        "name": "VALDITH",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/407"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 32",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/61"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "ANA FIS QUIM",
+    "teacher": [
+      {
+        "name": "ANTONIO CICERO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/42"
+      }
+    ],
+    "location": [
+      {
+        "name": "FIS.QUIMIC",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/82"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "SIG",
+    "teacher": [
+      {
+        "name": "LAMARQUE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/63"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 31",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/54"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "REC ENERGETIC",
+    "teacher": [
+      {
+        "name": "ROBERIO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/367"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 13",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/26"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "INGLES INST",
+    "teacher": [
+      {
+        "name": "MARIA THERESA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/304"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 32",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/61"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "SIG",
+    "teacher": [
+      {
+        "name": "LAMARQUE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/63"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 31",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/54"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "ANA FIS QUIM",
+    "teacher": [
+      {
+        "name": "ANTONIO CICERO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/42"
+      }
+    ],
+    "location": [
+      {
+        "name": "FIS.QUIMIC",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/82"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "SENS REMOTO",
+    "teacher": [
+      {
+        "name": "ERMANO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/119"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 31",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/54"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "SAUDE AMB",
+    "teacher": [
+      {
+        "name": "ARILDE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/51"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 45",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/48"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "INGLES INST",
+    "teacher": [
+      {
+        "name": "MARIA THERESA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/304"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 32",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/61"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "SIG",
+    "teacher": [
+      {
+        "name": "LAMARQUE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/63"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 31",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/54"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "ANA FIS QUIM",
+    "teacher": [
+      {
+        "name": "ANTONIO CICERO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/42"
+      }
+    ],
+    "location": [
+      {
+        "name": "FIS.QUIMIC",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/82"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "SENS REMOTO",
+    "teacher": [
+      {
+        "name": "ERMANO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/119"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 31",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/54"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "SAUDE AMB",
+    "teacher": [
+      {
+        "name": "ARILDE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/51"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 45",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/48"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "INGLES INST",
+    "teacher": [
+      {
+        "name": "MARIA THERESA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/304"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 32",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/61"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "ANA FIS QUIM",
+    "teacher": [
+      {
+        "name": "ANTONIO CICERO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/42"
+      }
+    ],
+    "location": [
+      {
+        "name": "FIS.QUIMIC",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/82"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "ZONEAMENTO AMB",
+    "teacher": [
+      {
+        "name": "ARILDE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/51"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 403",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/37"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "INTERP ESPAC",
+    "teacher": [
+      {
+        "name": "LAMARQUE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/63"
+      }
+    ],
+    "location": [
+      {
+        "name": "ATELIER.1",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/83"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "GES REC NAT",
+    "teacher": [
+      {
+        "name": "DEISE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/299"
+      }
+    ],
+    "location": [
+      {
+        "name": "FIS.QUIMIC",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/82"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "ZONEAMENTO AMB",
+    "teacher": [
+      {
+        "name": "ARILDE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/51"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 403",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/37"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "GES REC NAT",
+    "teacher": [
+      {
+        "name": "DEISE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/299"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 24",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/14"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "INTERP ESPAC",
+    "teacher": [
+      {
+        "name": "LAMARQUE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/63"
+      }
+    ],
+    "location": [
+      {
+        "name": "ATELIER.1",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/83"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "GES REC NAT",
+    "teacher": [
+      {
+        "name": "DEISE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/299"
+      }
+    ],
+    "location": [
+      {
+        "name": "FIS.QUIMIC",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/82"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "ZONEAMENTO AMB",
+    "teacher": [
+      {
+        "name": "ARILDE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/51"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 403",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/37"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "GES REC NAT",
+    "teacher": [
+      {
+        "name": "DEISE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/299"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 24",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/14"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "GER RISCOS AMB",
+    "teacher": [
+      {
+        "name": "JOÃO NETO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/812"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 403",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/37"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "LICENC AVA IMP",
+    "teacher": [
+      {
+        "name": "CYBELLE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/127"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 403",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/37"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "EDAFOLOGIA",
+    "teacher": [
+      {
+        "name": "ALEXANDRE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/15"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 403",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/37"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "GES AGUA EF LQ",
+    "teacher": [
+      {
+        "name": "VALDITH",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/407"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 301",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/34"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "GER RISCOS AMB",
+    "teacher": [
+      {
+        "name": "JOÃO NETO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/812"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 403",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/37"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "LICENC AVA IMP",
+    "teacher": [
+      {
+        "name": "CYBELLE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/127"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 403",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/37"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "EDAFOLOGIA",
+    "teacher": [
+      {
+        "name": "ALEXANDRE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/15"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 403",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/37"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "GES AGUA EF LQ",
+    "teacher": [
+      {
+        "name": "VALDITH",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/407"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 301",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/34"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "LICENC AVA IMP",
+    "teacher": [
+      {
+        "name": "CYBELLE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/127"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 403",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/37"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "EDAFOLOGIA",
+    "teacher": [
+      {
+        "name": "ALEXANDRE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/15"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 403",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/37"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "GES AGUA EF LQ",
+    "teacher": [
+      {
+        "name": "VALDITH",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/407"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 301",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/34"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 5,
+    "weekday": "quinta",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "ESTRA EDUC AMB",
+    "teacher": [
+      {
+        "name": "KELIANA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/436"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 31",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/85"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 5,
+    "weekday": "sexta",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "ADM SI",
+    "teacher": [
+      {
+        "name": "NADJA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/327"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 07",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/69"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 5,
+    "weekday": "quarta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "PSIC TRABALHO",
+    "teacher": [
+      {
+        "name": "RENNATA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/794"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 31",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/85"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 5,
+    "weekday": "quinta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "ESTRA EDUC AMB",
+    "teacher": [
+      {
+        "name": "KELIANA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/436"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 31",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/85"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 5,
+    "weekday": "sexta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "ADM SI",
+    "teacher": [
+      {
+        "name": "NADJA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/327"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 07",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/69"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 5,
+    "weekday": "terca",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "ECO MEIO AMB",
+    "teacher": [
+      {
+        "name": "ALEXANDRE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/15"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 31",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/85"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 5,
+    "weekday": "quarta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "PSIC TRABALHO",
+    "teacher": [
+      {
+        "name": "RENNATA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/794"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 31",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/85"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 5,
+    "weekday": "quinta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "ESTRA EDUC AMB",
+    "teacher": [
+      {
+        "name": "KELIANA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/436"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 31",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/85"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 5,
+    "weekday": "terca",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "ECO MEIO AMB",
+    "teacher": [
+      {
+        "name": "ALEXANDRE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/15"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 31",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/85"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 5,
+    "weekday": "quarta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "PSIC TRABALHO",
+    "teacher": [
+      {
+        "name": "RENNATA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/794"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 31",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/85"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 5,
+    "weekday": "quinta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "PROJETOS AMB",
+    "teacher": [
+      {
+        "name": "DEISE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/299"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 31",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/85"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 5,
+    "weekday": "sexta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "GESTAO AMB CID",
+    "teacher": [
+      {
+        "name": "HOMERO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/179"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 31",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/85"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 5,
+    "weekday": "terca",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "ADM SI",
+    "teacher": [
+      {
+        "name": "NADJA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/327"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 07",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/69"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 5,
+    "weekday": "quarta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "GES RESI SOL",
+    "teacher": [
+      {
+        "name": "VALDITH",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/407"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 31",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/85"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 5,
+    "weekday": "quinta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "PROJETOS AMB",
+    "teacher": [
+      {
+        "name": "DEISE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/299"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 31",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/85"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 5,
+    "weekday": "sexta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "GESTAO AMB CID",
+    "teacher": [
+      {
+        "name": "HOMERO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/179"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 31",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/85"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 5,
+    "weekday": "terca",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "ADM SI",
+    "teacher": [
+      {
+        "name": "NADJA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/327"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 07",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/69"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 5,
+    "weekday": "quarta",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "GES RESI SOL",
+    "teacher": [
+      {
+        "name": "VALDITH",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/407"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 31",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/85"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 6,
+    "weekday": "sexta",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "EMPREENDED",
+    "teacher": [
+      {
+        "name": "REBECA COR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/361"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 31",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/85"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 6,
+    "weekday": "sexta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "EMPREENDED",
+    "teacher": [
+      {
+        "name": "REBECA COR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/361"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 31",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/85"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 6,
+    "weekday": "terca",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "CERT AUD AMB",
+    "teacher": [
+      {
+        "name": "JOÃO NETO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/812"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 21",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/17"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 6,
+    "weekday": "terca",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "CERT AUD AMB",
+    "teacher": [
+      {
+        "name": "JOÃO NETO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/812"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 21",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/17"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 6,
+    "weekday": "quarta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "TCC",
+    "teacher": [
+      {
+        "name": "ARILDE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/51"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 22",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/71"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 6,
+    "weekday": "segunda",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "EMPREENDED",
+    "teacher": [
+      {
+        "name": "REBECA COR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/361"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 31",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/85"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 6,
+    "weekday": "terca",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "CERT AUD AMB",
+    "teacher": [
+      {
+        "name": "JOÃO NETO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/812"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 21",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/17"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 6,
+    "weekday": "quarta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "TCC",
+    "teacher": [
+      {
+        "name": "ARILDE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/51"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 22",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/71"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 6,
+    "weekday": "segunda",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "EMPREENDED",
+    "teacher": [
+      {
+        "name": "REBECA COR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/361"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 31",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/85"
+      }
+    ]
+  },
+  {
+    "course": "GESTAO AMBIENTAL",
+    "semester": 6,
+    "weekday": "quarta",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "TCC",
+    "teacher": [
+      {
+        "name": "ARILDE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/51"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 22",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/71"
+      }
+    ]
+  }
+]

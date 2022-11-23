@@ -1,0 +1,2138 @@
+[
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "INGLES INST I",
+    "teacher": [
+      {
+        "name": "ADRIANA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/7"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 25",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/13"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "MATEMATICA I",
+    "teacher": [
+      {
+        "name": "ROMULO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/837"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 25",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/13"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "FISICA I",
+    "teacher": [
+      {
+        "name": "CARLOS ALBERTO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/418"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 25",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/13"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "BIOLOGIA I",
+    "teacher": [
+      {
+        "name": "CLEOMAR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/80"
+      }
+    ],
+    "location": [
+      {
+        "name": "LAB BIOLOG",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/6"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "GEOGRAFIA - I",
+    "teacher": [
+      {
+        "name": "MARCIA V",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/487"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 25",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/13"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "INGLES INST I",
+    "teacher": [
+      {
+        "name": "ADRIANA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/7"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 25",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/13"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "MATEMATICA I",
+    "teacher": [
+      {
+        "name": "ROMULO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/837"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 25",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/13"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "FISICA I",
+    "teacher": [
+      {
+        "name": "CARLOS ALBERTO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/418"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 25",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/13"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "BIOLOGIA I",
+    "teacher": [
+      {
+        "name": "CLEOMAR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/80"
+      }
+    ],
+    "location": [
+      {
+        "name": "LAB BIOLOG",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/6"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "GEOGRAFIA - I",
+    "teacher": [
+      {
+        "name": "MARCIA V",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/487"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 25",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/13"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "QUIMICA I",
+    "teacher": [
+      {
+        "name": "MARIA MONICA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/800"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 25",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/13"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "MATEMATICA I",
+    "teacher": [
+      {
+        "name": "ROMULO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/837"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 25",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/13"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "HIST GE BRA I",
+    "teacher": [
+      {
+        "name": "FRANCISCO HENR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/764"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 25",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/13"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "BIOLOGIA I",
+    "teacher": [
+      {
+        "name": "CLEOMAR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/80"
+      }
+    ],
+    "location": [
+      {
+        "name": "LAB BIOLOG",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/6"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "QUIMICA I",
+    "teacher": [
+      {
+        "name": "MARIA MONICA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/800"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 25",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/13"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "SOCIO I 2ºS",
+    "teacher": [
+      {
+        "name": "GEKBEDE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/154"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 25",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/13"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "HIST GE BRA I",
+    "teacher": [
+      {
+        "name": "FRANCISCO HENR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/764"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 25",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/13"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "FISICA I",
+    "teacher": [
+      {
+        "name": "CARLOS ALBERTO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/418"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 25",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/13"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "POR LIT BR I",
+    "teacher": [
+      {
+        "name": "ANA CAVALCANTE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/842"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 25",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/13"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "INFOR BASICA I",
+    "teacher": [
+      {
+        "name": "PAULO COST",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/346"
+      }
+    ],
+    "location": [
+      {
+        "name": "INFO 58",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/136"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "SOCIO I 2ºS",
+    "teacher": [
+      {
+        "name": "GEKBEDE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/154"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 25",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/13"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "INFOR BASICA I",
+    "teacher": [
+      {
+        "name": "PAULO COST",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/346"
+      }
+    ],
+    "location": [
+      {
+        "name": "INFO 58",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/136"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "QUIMICA I",
+    "teacher": [
+      {
+        "name": "MARIA MONICA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/800"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 25",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/13"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "POR LIT BR I",
+    "teacher": [
+      {
+        "name": "ANA CAVALCANTE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/842"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 25",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/13"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "INFOR BASICA I",
+    "teacher": [
+      {
+        "name": "PAULO COST",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/346"
+      }
+    ],
+    "location": [
+      {
+        "name": "INFO 58",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/136"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "INI EDUC AMB",
+    "teacher": [
+      {
+        "name": "JOÃO NETO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/812"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 25",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/13"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "INFOR BASICA I",
+    "teacher": [
+      {
+        "name": "PAULO COST",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/346"
+      }
+    ],
+    "location": [
+      {
+        "name": "INFO 58",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/136"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "MET TRAB CIENT",
+    "teacher": [
+      {
+        "name": "MIRELLA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/320"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/98"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "ARTES",
+    "teacher": [
+      {
+        "name": "SAMARA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/548"
+      },
+      {
+        "name": "RADAMIR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/332"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/98"
+      },
+      {
+        "name": "SALA 05",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/99"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "INGLES INST II",
+    "teacher": [
+      {
+        "name": "JACKELINNE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/721"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/98"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "MATEMATICA II",
+    "teacher": [
+      {
+        "name": "ROMULO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/837"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/98"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "POR LIT BR II",
+    "teacher": [
+      {
+        "name": "ANA CAVALCANTE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/842"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/98"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "MET TRAB CIENT",
+    "teacher": [
+      {
+        "name": "MIRELLA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/320"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/98"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "ARTES",
+    "teacher": [
+      {
+        "name": "SAMARA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/548"
+      },
+      {
+        "name": "RADAMIR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/332"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/98"
+      },
+      {
+        "name": "SALA 05",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/99"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "INGLES INST II",
+    "teacher": [
+      {
+        "name": "JACKELINNE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/721"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/98"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "MATEMATICA II",
+    "teacher": [
+      {
+        "name": "ROMULO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/837"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/98"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "POR LIT BR II",
+    "teacher": [
+      {
+        "name": "ANA CAVALCANTE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/842"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/98"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "GEOGRAFIA II",
+    "teacher": [
+      {
+        "name": "MARCIA V",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/487"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 31",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/54"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "HS GE BR PB I",
+    "teacher": [
+      {
+        "name": "FABRICIO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/683"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/98"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "QUIMICA II",
+    "teacher": [
+      {
+        "name": "PATRÍCIA QUIM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/830"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/98"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "FILOSOFII 2ºS",
+    "teacher": [
+      {
+        "name": "MARCIO DINIZ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/282"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/98"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "POR LIT BR II",
+    "teacher": [
+      {
+        "name": "ANA CAVALCANTE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/842"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/98"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "GEOGRAFIA II",
+    "teacher": [
+      {
+        "name": "MARCIA V",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/487"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 31",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/54"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "HS GE BR PB I",
+    "teacher": [
+      {
+        "name": "FABRICIO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/683"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/98"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "QUIMICA II",
+    "teacher": [
+      {
+        "name": "PATRÍCIA QUIM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/830"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/98"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "FILOSOFII 2ºS",
+    "teacher": [
+      {
+        "name": "MARCIO DINIZ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/282"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/98"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "BIOLOGIA II",
+    "teacher": [
+      {
+        "name": "RUTH AMANDA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/241"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/98"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "HIDROL REC HID",
+    "teacher": [
+      {
+        "name": "EDELCIDES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/448"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/98"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "FISICA II",
+    "teacher": [
+      {
+        "name": "IVALDY",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/232"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/98"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "FISICA II",
+    "teacher": [
+      {
+        "name": "IVALDY",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/232"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/98"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "BIOLOGIA II",
+    "teacher": [
+      {
+        "name": "RUTH AMANDA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/241"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/98"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "HIDROL REC HID",
+    "teacher": [
+      {
+        "name": "EDELCIDES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/448"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/98"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "FISICA II",
+    "teacher": [
+      {
+        "name": "IVALDY",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/232"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 06",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/98"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "AMQA",
+    "teacher": [
+      {
+        "name": "MONICA MONTEN",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/322"
+      },
+      {
+        "name": "DEISE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/299"
+      }
+    ],
+    "location": [
+      {
+        "name": "FIS.QUIMIC",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/82"
+      },
+      {
+        "name": "LAB MICROB",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/81"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "EDU FIS III",
+    "teacher": [
+      {
+        "name": "RAMON - EF",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/868"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 02 ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/92"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "AMQA",
+    "teacher": [
+      {
+        "name": "MONICA MONTEN",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/322"
+      },
+      {
+        "name": "DEISE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/299"
+      }
+    ],
+    "location": [
+      {
+        "name": "FIS.QUIMIC",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/82"
+      },
+      {
+        "name": "LAB MICROB",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/81"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "EDU FIS III",
+    "teacher": [
+      {
+        "name": "RAMON - EF",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/868"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 02 ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/92"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "POR LIT BR III",
+    "teacher": [
+      {
+        "name": "JOÃO EDSON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/831"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 02 ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/92"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "AMQA",
+    "teacher": [
+      {
+        "name": "MONICA MONTEN",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/322"
+      },
+      {
+        "name": "DEISE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/299"
+      }
+    ],
+    "location": [
+      {
+        "name": "FIS.QUIMIC",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/82"
+      },
+      {
+        "name": "LAB MICROB",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/81"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "EDU FIS III",
+    "teacher": [
+      {
+        "name": "RAMON - EF",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/868"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 02 ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/92"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "AMQA",
+    "teacher": [
+      {
+        "name": "MONICA MONTEN",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/322"
+      },
+      {
+        "name": "DEISE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/299"
+      }
+    ],
+    "location": [
+      {
+        "name": "FIS.QUIMIC",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/82"
+      },
+      {
+        "name": "LAB MICROB",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/81"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "EDU FIS III",
+    "teacher": [
+      {
+        "name": "RAMON - EF",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/868"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 02 ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/92"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "POR LIT BR III",
+    "teacher": [
+      {
+        "name": "JOÃO EDSON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/831"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 02 ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/92"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "SOCIO III-2ºS",
+    "teacher": [
+      {
+        "name": "ADOLFO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/5"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 02 ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/92"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "TCEL",
+    "teacher": [
+      {
+        "name": "JOÃO NETO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/812"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 02 ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/92"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "POR LIT BR III",
+    "teacher": [
+      {
+        "name": "JOÃO EDSON",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/831"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 02 ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/92"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "FISICA III",
+    "teacher": [
+      {
+        "name": "IVALDY",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/232"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 02 ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/92"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "GEOGRAFIA III",
+    "teacher": [
+      {
+        "name": "MARCIA V",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/487"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 02 ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/92"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "SOCIO III-2ºS",
+    "teacher": [
+      {
+        "name": "ADOLFO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/5"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 02 ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/92"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "TCEL",
+    "teacher": [
+      {
+        "name": "JOÃO NETO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/812"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 02 ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/92"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "MATEMATICA III",
+    "teacher": [
+      {
+        "name": "EDNALDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/258"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 02 ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/92"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "FISICA III",
+    "teacher": [
+      {
+        "name": "IVALDY",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/232"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 02 ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/92"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "GEOGRAFIA III",
+    "teacher": [
+      {
+        "name": "MARCIA V",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/487"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 02 ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/92"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "GEOPROCES",
+    "teacher": [
+      {
+        "name": "DIEGO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/94"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 31",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/54"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "QUIMICA III",
+    "teacher": [
+      {
+        "name": "PATRÍCIA QUIM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/830"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 02 ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/92"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "AMQS",
+    "teacher": [
+      {
+        "name": "JOÃO NETO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/812"
+      },
+      {
+        "name": "LAB SOLOS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/64"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 02 ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/92"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "BIOLOGIA III",
+    "teacher": [
+      {
+        "name": "LUCILA KARLA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/878"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 02 ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/92"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "MATEMATICA III",
+    "teacher": [
+      {
+        "name": "EDNALDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/258"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 02 ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/92"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "GEOPROCES",
+    "teacher": [
+      {
+        "name": "DIEGO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/94"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 31",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/54"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "QUIMICA III",
+    "teacher": [
+      {
+        "name": "PATRÍCIA QUIM",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/830"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 02 ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/92"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "AMQS",
+    "teacher": [
+      {
+        "name": "JOÃO NETO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/812"
+      },
+      {
+        "name": "LAB SOLOS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/64"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 02 ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/92"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "BIOLOGIA III",
+    "teacher": [
+      {
+        "name": "LUCILA KARLA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/878"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 02 ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/92"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "MATEMATICA III",
+    "teacher": [
+      {
+        "name": "EDNALDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/258"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 02 ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/92"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "GER INT RES SL",
+    "teacher": [
+      {
+        "name": "MARGARETH ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/447"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/94"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "SOCIO IV 1ºS",
+    "teacher": [
+      {
+        "name": "GEKBEDE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/154"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/94"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 4,
+    "weekday": "sexta",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "TCAPS",
+    "teacher": [
+      {
+        "name": "ARILDE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/51"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/94"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "GER INT RES SL",
+    "teacher": [
+      {
+        "name": "MARGARETH ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/447"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/94"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "SAUDE AMB",
+    "teacher": [
+      {
+        "name": "ARILDE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/51"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/94"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "SOCIO IV 1ºS",
+    "teacher": [
+      {
+        "name": "GEKBEDE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/154"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/94"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 4,
+    "weekday": "sexta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "TCAPS",
+    "teacher": [
+      {
+        "name": "ARILDE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/51"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/94"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "HST",
+    "teacher": [
+      {
+        "name": "MARGARETH ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/447"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/94"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "SAUDE AMB",
+    "teacher": [
+      {
+        "name": "ARILDE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/51"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/94"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "ADM CT QUAL AG",
+    "teacher": [
+      {
+        "name": "ARILDE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/51"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/94"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "HST",
+    "teacher": [
+      {
+        "name": "MARGARETH ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/447"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/94"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "TCSAA",
+    "teacher": [
+      {
+        "name": "GESIVALDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/159"
+      }
+    ],
+    "location": [
+      {
+        "name": "FIS.QUIMIC",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/82"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "ADM CT QUAL AG",
+    "teacher": [
+      {
+        "name": "ARILDE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/51"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/94"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "POR LIT BR IV",
+    "teacher": [
+      {
+        "name": "JAEL",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/599"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/94"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "MATEMATICA IV",
+    "teacher": [
+      {
+        "name": "ALFREDO BRITO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/176"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/94"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "TCSAA",
+    "teacher": [
+      {
+        "name": "GESIVALDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/159"
+      }
+    ],
+    "location": [
+      {
+        "name": "FIS.QUIMIC",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/82"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "FILO IV  2ºS",
+    "teacher": [
+      {
+        "name": "TIAGO ADONIAS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/847"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/94"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "POR LIT BR IV",
+    "teacher": [
+      {
+        "name": "JAEL",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/599"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/94"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "MATEMATICA IV",
+    "teacher": [
+      {
+        "name": "ALFREDO BRITO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/176"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/94"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "TCSAA",
+    "teacher": [
+      {
+        "name": "GESIVALDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/159"
+      }
+    ],
+    "location": [
+      {
+        "name": "FIS.QUIMIC",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/82"
+      }
+    ]
+  },
+  {
+    "course": "CONTROLE AMBIENTAL",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "17:30",
+    "end": "18:20",
+    "className": "FILO IV  2ºS",
+    "teacher": [
+      {
+        "name": "TIAGO ADONIAS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/847"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/94"
+      }
+    ]
+  }
+]

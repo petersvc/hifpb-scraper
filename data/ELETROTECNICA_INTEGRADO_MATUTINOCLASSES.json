@@ -1,0 +1,2785 @@
+[
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "DESENHO",
+    "teacher": [
+      {
+        "name": "VALERIA PAZETT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/803"
+      },
+      {
+        "name": "ARI DEZOTTI",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/715"
+      },
+      {
+        "name": "MANOEL ALVES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/265"
+      }
+    ],
+    "location": [
+      {
+        "name": "SDESME UA3",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/47"
+      },
+      {
+        "name": "IPP",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/86"
+      },
+      {
+        "name": "ELETRIC I",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/19"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "GEOGRAFIA I",
+    "teacher": [
+      {
+        "name": "CELSO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/69"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 09",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/95"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "MATEMATICA I",
+    "teacher": [
+      {
+        "name": "LUCAS ARAUJO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/841"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 09",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/95"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "FILOSOFIA I",
+    "teacher": [
+      {
+        "name": "PAULA ALVES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/810"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 09",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/95"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "PORTUG I",
+    "teacher": [
+      {
+        "name": "ANA PAULA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/430"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 09",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/95"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "DESENHO",
+    "teacher": [
+      {
+        "name": "VALERIA PAZETT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/803"
+      },
+      {
+        "name": "ARI DEZOTTI",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/715"
+      },
+      {
+        "name": "MANOEL ALVES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/265"
+      }
+    ],
+    "location": [
+      {
+        "name": "SAMMEC UA3",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/77"
+      },
+      {
+        "name": "IPP",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/86"
+      },
+      {
+        "name": "ELETRIC I",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/19"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "GEOGRAFIA I",
+    "teacher": [
+      {
+        "name": "CELSO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/69"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 09",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/95"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "INGLES INST I",
+    "teacher": [
+      {
+        "name": "ADRIANA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/7"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 09",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/95"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "FILOSOFIA I",
+    "teacher": [
+      {
+        "name": "PAULA ALVES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/810"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 09",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/95"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "PORTUG I",
+    "teacher": [
+      {
+        "name": "ANA PAULA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/430"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 09",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/95"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "DESENHO",
+    "teacher": [
+      {
+        "name": "VALERIA PAZETT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/803"
+      },
+      {
+        "name": "ARI DEZOTTI",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/715"
+      },
+      {
+        "name": "MANOEL ALVES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/265"
+      }
+    ],
+    "location": [
+      {
+        "name": "SAMMEC UA3",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/77"
+      },
+      {
+        "name": "IPP",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/86"
+      },
+      {
+        "name": "ELETRIC I",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/19"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "QUIMICA I",
+    "teacher": [
+      {
+        "name": "MARIA MONICA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/800"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 09",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/95"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "INGLES INST I",
+    "teacher": [
+      {
+        "name": "ADRIANA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/7"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 09",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/95"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "PORTUG I",
+    "teacher": [
+      {
+        "name": "ANA PAULA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/430"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 09",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/95"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "MATEMATICA I",
+    "teacher": [
+      {
+        "name": "LUCAS ARAUJO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/841"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 09",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/95"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "DESENHO",
+    "teacher": [
+      {
+        "name": "VALERIA PAZETT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/803"
+      },
+      {
+        "name": "ARI DEZOTTI",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/715"
+      },
+      {
+        "name": "MANOEL ALVES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/265"
+      }
+    ],
+    "location": [
+      {
+        "name": "SAMMEC UA3",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/77"
+      },
+      {
+        "name": "IPP",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/86"
+      },
+      {
+        "name": "ELETRIC I",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/19"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "EB1 (SALA)",
+    "teacher": [
+      {
+        "name": "MANOEL ALVES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/265"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 09",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/95"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "BIOLOGIA I",
+    "teacher": [
+      {
+        "name": "CLEOMAR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/80"
+      }
+    ],
+    "location": [
+      {
+        "name": "LAB BIOLOG",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/6"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "GEOGRAFIA I",
+    "teacher": [
+      {
+        "name": "CELSO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/69"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 09",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/95"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 1,
+    "weekday": "sexta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "MATEMATICA I",
+    "teacher": [
+      {
+        "name": "LUCAS ARAUJO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/841"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 09",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/95"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "DESENHO",
+    "teacher": [
+      {
+        "name": "VALERIA PAZETT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/803"
+      },
+      {
+        "name": "ARI DEZOTTI",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/715"
+      },
+      {
+        "name": "MANOEL ALVES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/265"
+      }
+    ],
+    "location": [
+      {
+        "name": "SAMMEC UA3",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/77"
+      },
+      {
+        "name": "IPP",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/86"
+      },
+      {
+        "name": "ELETRIC I",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/19"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "INFO BASIC I",
+    "teacher": [
+      {
+        "name": "PAULO ROBERTO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/345"
+      },
+      {
+        "name": "JEANNE PAULA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/195"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/33"
+      },
+      {
+        "name": "INFO 57",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/134"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "BIOLOGIA I",
+    "teacher": [
+      {
+        "name": "CLEOMAR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/80"
+      }
+    ],
+    "location": [
+      {
+        "name": "LAB BIOLOG",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/6"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "QUIMICA I",
+    "teacher": [
+      {
+        "name": "MARIA MONICA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/800"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 09",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/95"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "DESENHO",
+    "teacher": [
+      {
+        "name": "VALERIA PAZETT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/803"
+      },
+      {
+        "name": "ARI DEZOTTI",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/715"
+      },
+      {
+        "name": "MANOEL ALVES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/265"
+      }
+    ],
+    "location": [
+      {
+        "name": "SDESME UA3",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/47"
+      },
+      {
+        "name": "IPP",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/86"
+      },
+      {
+        "name": "ELETRIC I",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/19"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 1,
+    "weekday": "terca",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "INFO BASIC I",
+    "teacher": [
+      {
+        "name": "PAULO ROBERTO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/345"
+      },
+      {
+        "name": "JEANNE PAULA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/195"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/33"
+      },
+      {
+        "name": "INFO 57",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/134"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 1,
+    "weekday": "quinta",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "QUIMICA I",
+    "teacher": [
+      {
+        "name": "MARIA MONICA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/800"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 09",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/95"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "EDUC FIS I",
+    "teacher": [
+      {
+        "name": "SEM PROFESSOR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/745"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 09",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/95"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 1,
+    "weekday": "quarta",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "EDUC FIS I",
+    "teacher": [
+      {
+        "name": "SEM PROFESSOR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/745"
+      }
+    ],
+    "location": []
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "15:50",
+    "end": "16:40",
+    "className": "ARTES",
+    "teacher": [
+      {
+        "name": "SAMARA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/548"
+      },
+      {
+        "name": "MARCOS PEDRO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/253"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 24",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/14"
+      },
+      {
+        "name": "SALA 101",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/66"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 1,
+    "weekday": "segunda",
+    "start": "16:40",
+    "end": "17:30",
+    "className": "ARTES",
+    "teacher": [
+      {
+        "name": "SAMARA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/548"
+      },
+      {
+        "name": "MARCOS PEDRO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/253"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 24",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/14"
+      },
+      {
+        "name": "SALA 101",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/66"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "GEOGRAFIA II",
+    "teacher": [
+      {
+        "name": "ISMAEL",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/184"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 04",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/100"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "ELETRIC BAS II",
+    "teacher": [
+      {
+        "name": "MANOEL ALVES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/265"
+      },
+      {
+        "name": "RANIERI LEITE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/358"
+      }
+    ],
+    "location": [
+      {
+        "name": "ELETRIC II",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/99"
+      },
+      {
+        "name": "INST ELETR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/51"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "PORTUG II",
+    "teacher": [
+      {
+        "name": "LUCIANA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/793"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 04",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/100"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "IEP",
+    "teacher": [
+      {
+        "name": "RANIERI LEITE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/358"
+      }
+    ],
+    "location": [
+      {
+        "name": "INST ELETR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/51"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "QUIMICA II",
+    "teacher": [
+      {
+        "name": "MAURICIO V",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/782"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 04",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/100"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "GEOGRAFIA II",
+    "teacher": [
+      {
+        "name": "ISMAEL",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/184"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 04",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/100"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "ELETRIC BAS II",
+    "teacher": [
+      {
+        "name": "MANOEL ALVES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/265"
+      },
+      {
+        "name": "RANIERI LEITE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/358"
+      }
+    ],
+    "location": [
+      {
+        "name": "ELETRIC II",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/99"
+      },
+      {
+        "name": "INST ELETR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/51"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "PORTUG II",
+    "teacher": [
+      {
+        "name": "LUCIANA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/793"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 04",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/100"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "DES AUX COM 2D",
+    "teacher": [
+      {
+        "name": "DIANA NOBRE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/93"
+      },
+      {
+        "name": "RANIERI LEITE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/358"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/33"
+      },
+      {
+        "name": "INST ELETR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/51"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "QUIMICA II",
+    "teacher": [
+      {
+        "name": "MAURICIO V",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/782"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 04",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/100"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "MATEMATICA II",
+    "teacher": [
+      {
+        "name": "DIEGO AYLLO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/68"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 04",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/100"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "ELETRIC BAS II",
+    "teacher": [
+      {
+        "name": "MANOEL ALVES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/265"
+      },
+      {
+        "name": "RANIERI LEITE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/358"
+      }
+    ],
+    "location": [
+      {
+        "name": "ELETRIC II",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/99"
+      },
+      {
+        "name": "INST ELETR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/51"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "BIOLOGIA II",
+    "teacher": [
+      {
+        "name": "RUTH AMANDA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/241"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 04",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/100"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "DES AUX COM 2D",
+    "teacher": [
+      {
+        "name": "DIANA NOBRE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/93"
+      },
+      {
+        "name": "RANIERI LEITE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/358"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/33"
+      },
+      {
+        "name": "INST ELETR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/51"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "FISICA I",
+    "teacher": [
+      {
+        "name": "WELL CAETANO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/422"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 04",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/100"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "MATEMATICA II",
+    "teacher": [
+      {
+        "name": "DIEGO AYLLO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/68"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 04",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/100"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "PORTUG II",
+    "teacher": [
+      {
+        "name": "LUCIANA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/793"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 04",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/100"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "BIOLOGIA II",
+    "teacher": [
+      {
+        "name": "RUTH AMANDA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/241"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 04",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/100"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "DES AUX COM 2D",
+    "teacher": [
+      {
+        "name": "DIANA NOBRE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/93"
+      },
+      {
+        "name": "MANOEL ALVES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/265"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/33"
+      },
+      {
+        "name": "ELETRIC II",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/99"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "FISICA I",
+    "teacher": [
+      {
+        "name": "WELL CAETANO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/422"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 04",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/100"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "MATEMATICA II",
+    "teacher": [
+      {
+        "name": "DIEGO AYLLO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/68"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 04",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/100"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "INGLES INST II",
+    "teacher": [
+      {
+        "name": "RAMON BRASILEI",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/801"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 04",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/100"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "FILOSOFIA II",
+    "teacher": [
+      {
+        "name": "MARCIO DINIZ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/282"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 04",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/100"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "DES AUX COM 2D",
+    "teacher": [
+      {
+        "name": "DIANA NOBRE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/93"
+      },
+      {
+        "name": "MANOEL ALVES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/265"
+      }
+    ],
+    "location": [
+      {
+        "name": "SL INFO 10",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/33"
+      },
+      {
+        "name": "ELETRIC II",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/99"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "SOCIOLOGIA II",
+    "teacher": [
+      {
+        "name": "VITOR ANGELO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/806"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 04",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/100"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "BIOLOGIA II",
+    "teacher": [
+      {
+        "name": "RUTH AMANDA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/241"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 04",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/100"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 2,
+    "weekday": "terca",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "INGLES INST II",
+    "teacher": [
+      {
+        "name": "RAMON BRASILEI",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/801"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 04",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/100"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "FILOSOFIA II",
+    "teacher": [
+      {
+        "name": "MARCIO DINIZ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/282"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 04",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/100"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 2,
+    "weekday": "quinta",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "ELETRIC BAS II",
+    "teacher": [
+      {
+        "name": "MANOEL ALVES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/265"
+      }
+    ],
+    "location": [
+      {
+        "name": "ELETRIC II",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/99"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 2,
+    "weekday": "sexta",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "SOCIOLOGIA II",
+    "teacher": [
+      {
+        "name": "VITOR ANGELO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/806"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 04",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/100"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 2,
+    "weekday": "segunda",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "EDUC FIS II",
+    "teacher": [
+      {
+        "name": "SEM PROF",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/467"
+      }
+    ],
+    "location": []
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 2,
+    "weekday": "quarta",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "EDUC FIS II",
+    "teacher": [
+      {
+        "name": "SEM PROF",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/467"
+      }
+    ],
+    "location": []
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "POR LIT BR III",
+    "teacher": [
+      {
+        "name": "ERIVAN LOPES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/835"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 15",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/23"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "QUIMICA III",
+    "teacher": [
+      {
+        "name": "SUELY CAR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/395"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 15",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/23"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "ELETRON BASICA",
+    "teacher": [
+      {
+        "name": "FRANC OLIVEIRA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/144"
+      },
+      {
+        "name": "JEANNE PAULA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/195"
+      }
+    ],
+    "location": [
+      {
+        "name": "ELETRO I",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/20"
+      },
+      {
+        "name": "ELETRIC I",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/19"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "PROJ INST ELET",
+    "teacher": [
+      {
+        "name": "JOSE LINS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/222"
+      },
+      {
+        "name": "ALAN",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/645"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 15",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/23"
+      },
+      {
+        "name": "POSTES/DEE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/54"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "MATEMATICA III",
+    "teacher": [
+      {
+        "name": "EDNALDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/258"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 15",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/23"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "POR LIT BR III",
+    "teacher": [
+      {
+        "name": "ERIVAN LOPES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/835"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 15",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/23"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "QUIMICA III",
+    "teacher": [
+      {
+        "name": "SUELY CAR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/395"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 15",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/23"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "ELETRON BASICA",
+    "teacher": [
+      {
+        "name": "FRANC OLIVEIRA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/144"
+      },
+      {
+        "name": "JEANNE PAULA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/195"
+      }
+    ],
+    "location": [
+      {
+        "name": "ELETRO I",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/20"
+      },
+      {
+        "name": "ELETRIC I",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/19"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "PROJ INST ELET",
+    "teacher": [
+      {
+        "name": "JOSE LINS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/222"
+      },
+      {
+        "name": "ALAN",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/645"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 15",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/23"
+      },
+      {
+        "name": "POSTES/DEE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/54"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "MATEMATICA III",
+    "teacher": [
+      {
+        "name": "EDNALDO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/258"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 15",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/23"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "EDUC FISIC III",
+    "teacher": [
+      {
+        "name": "VALERIA EF",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/261"
+      }
+    ],
+    "location": []
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "FILOSOFIA III",
+    "teacher": [
+      {
+        "name": "MARCIO DINIZ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/282"
+      },
+      {
+        "name": "MARCIO DINIZ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/871"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 12",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/2"
+      },
+      {
+        "name": "SALA 15",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/23"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "EDUC FISIC III",
+    "teacher": [
+      {
+        "name": "VALERIA EF",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/261"
+      }
+    ],
+    "location": []
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "PROJ INST ELET",
+    "teacher": [
+      {
+        "name": "JOSE LINS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/222"
+      },
+      {
+        "name": "ALAN",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/645"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 15",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/23"
+      },
+      {
+        "name": "POSTES/DEE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/54"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "BIOLOGIA III",
+    "teacher": [
+      {
+        "name": "ANA VIEIRA ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/538"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 15",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/23"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "FILOSOFIA III",
+    "teacher": [
+      {
+        "name": "MARCIO DINIZ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/282"
+      },
+      {
+        "name": "MARCIO DINIZ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/871"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 12",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/2"
+      },
+      {
+        "name": "SALA 15",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/23"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "PROJ INST ELET",
+    "teacher": [
+      {
+        "name": "JOSE LINS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/222"
+      },
+      {
+        "name": "ALAN",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/645"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 15",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/23"
+      },
+      {
+        "name": "POSTES/DEE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/54"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "BIOLOGIA III",
+    "teacher": [
+      {
+        "name": "ANA VIEIRA ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/538"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 15",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/23"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "FISICA II",
+    "teacher": [
+      {
+        "name": "VALDIELIO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/825"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 15",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/23"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "HISTORIA I",
+    "teacher": [
+      {
+        "name": "FABRICIO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/683"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 15",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/23"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "POR LIT BR III",
+    "teacher": [
+      {
+        "name": "ERIVAN LOPES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/835"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 15",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/23"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "PROJ INST ELET",
+    "teacher": [
+      {
+        "name": "JOSE LINS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/222"
+      },
+      {
+        "name": "ALAN",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/645"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 15",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/23"
+      },
+      {
+        "name": "POSTES/DEE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/54"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "SOCIOLOGIA III",
+    "teacher": [
+      {
+        "name": "ADOLFO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/5"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 15",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/23"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "FISICA II",
+    "teacher": [
+      {
+        "name": "VALDIELIO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/825"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 15",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/23"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "HISTORIA I",
+    "teacher": [
+      {
+        "name": "FABRICIO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/683"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 15",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/23"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 3,
+    "weekday": "quarta",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "HISTORIA I",
+    "teacher": [
+      {
+        "name": "FABRICIO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/683"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 15",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/23"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 3,
+    "weekday": "quinta",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "PROJ INST ELET",
+    "teacher": [
+      {
+        "name": "JOSE LINS",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/222"
+      },
+      {
+        "name": "ALAN",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/645"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 15",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/23"
+      },
+      {
+        "name": "POSTES/DEE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/54"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 3,
+    "weekday": "sexta",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "SOCIOLOGIA III",
+    "teacher": [
+      {
+        "name": "ADOLFO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/5"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 15",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/23"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "MAQ ELETRICAS",
+    "teacher": [
+      {
+        "name": "ALVARO MACIEL",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/610"
+      }
+    ],
+    "location": [
+      {
+        "name": "MÁQ ELETR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/60"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "13:00",
+    "end": "13:50",
+    "className": "MAQ ELETRICAS",
+    "teacher": [
+      {
+        "name": "ARTUR ALVES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/214"
+      }
+    ],
+    "location": [
+      {
+        "name": "MÁQ ELETR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/60"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "MAQ ELETRICAS",
+    "teacher": [
+      {
+        "name": "ALVARO MACIEL",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/610"
+      }
+    ],
+    "location": [
+      {
+        "name": "MÁQ ELETR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/60"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "13:50",
+    "end": "14:40",
+    "className": "MAQ ELETRICAS",
+    "teacher": [
+      {
+        "name": "ARTUR ALVES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/214"
+      }
+    ],
+    "location": [
+      {
+        "name": "MÁQ ELETR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/60"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 3,
+    "weekday": "segunda",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "MAQ ELETRICAS",
+    "teacher": [
+      {
+        "name": "ALVARO MACIEL",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/610"
+      }
+    ],
+    "location": [
+      {
+        "name": "MÁQ ELETR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/60"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 3,
+    "weekday": "terca",
+    "start": "14:40",
+    "end": "15:30",
+    "className": "MAQ ELETRICAS",
+    "teacher": [
+      {
+        "name": "ARTUR ALVES",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/214"
+      }
+    ],
+    "location": [
+      {
+        "name": "MÁQ ELETR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/60"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "FISICA III",
+    "teacher": [
+      {
+        "name": "JOSE GILBERTO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/220"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 25",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/13"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "EMPREENDED",
+    "teacher": [
+      {
+        "name": "JAIANE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/809"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 25",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/13"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "COMANDOS ELETR",
+    "teacher": [
+      {
+        "name": "VAGNER FN",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/711"
+      }
+    ],
+    "location": [
+      {
+        "name": "COM EL AUT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/10"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "AUTOMACAO",
+    "teacher": [
+      {
+        "name": "CLAUDIO MARZO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/77"
+      },
+      {
+        "name": "ARI DEZOTTI",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/715"
+      }
+    ],
+    "location": [
+      {
+        "name": "COM EL AUT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/10"
+      },
+      {
+        "name": "IPP",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/86"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 4,
+    "weekday": "sexta",
+    "start": "07:00",
+    "end": "07:50",
+    "className": "HISTÓRIA II",
+    "teacher": [
+      {
+        "name": "FRANCISCO HENR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/764"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 25",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/13"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "FISICA III",
+    "teacher": [
+      {
+        "name": "JOSE GILBERTO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/220"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 25",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/13"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "EMPREENDED",
+    "teacher": [
+      {
+        "name": "JAIANE",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/809"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 25",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/13"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "COMANDOS ELETR",
+    "teacher": [
+      {
+        "name": "VAGNER FN",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/711"
+      },
+      {
+        "name": "CLAUDIO MARZO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/77"
+      }
+    ],
+    "location": [
+      {
+        "name": "COM EL AUT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/10"
+      },
+      {
+        "name": "ELETRO IND",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/21"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "AUTOMACAO",
+    "teacher": [
+      {
+        "name": "CLAUDIO MARZO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/77"
+      },
+      {
+        "name": "ARI DEZOTTI",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/715"
+      }
+    ],
+    "location": [
+      {
+        "name": "COM EL AUT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/10"
+      },
+      {
+        "name": "IPP",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/86"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 4,
+    "weekday": "sexta",
+    "start": "07:50",
+    "end": "08:40",
+    "className": "HISTÓRIA II",
+    "teacher": [
+      {
+        "name": "FRANCISCO HENR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/764"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 25",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/13"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "METODOLOGIA",
+    "teacher": [
+      {
+        "name": "MARCIO DINIZ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/282"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 25",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/13"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "GESTAO ORGANIZ",
+    "teacher": [
+      {
+        "name": "RACHEL COSTA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/351"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 25",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/13"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "COMANDOS ELETR",
+    "teacher": [
+      {
+        "name": "VAGNER FN",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/711"
+      },
+      {
+        "name": "CLAUDIO MARZO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/77"
+      }
+    ],
+    "location": [
+      {
+        "name": "COM EL AUT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/10"
+      },
+      {
+        "name": "ELETRO IND",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/21"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "AUTOMACAO",
+    "teacher": [
+      {
+        "name": "CLAUDIO MARZO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/77"
+      },
+      {
+        "name": "ARI DEZOTTI",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/715"
+      }
+    ],
+    "location": [
+      {
+        "name": "COM EL AUT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/10"
+      },
+      {
+        "name": "IPP",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/86"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 4,
+    "weekday": "sexta",
+    "start": "08:40",
+    "end": "09:30",
+    "className": "HISTÓRIA II",
+    "teacher": [
+      {
+        "name": "FRANCISCO HENR",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/764"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 25",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/13"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "METODOLOGIA",
+    "teacher": [
+      {
+        "name": "MARCIO DINIZ",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/282"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 25",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/13"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 4,
+    "weekday": "terca",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "GESTAO ORGANIZ",
+    "teacher": [
+      {
+        "name": "RACHEL COSTA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/351"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 25",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/13"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "COMANDOS ELETR",
+    "teacher": [
+      {
+        "name": "VAGNER FN",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/711"
+      },
+      {
+        "name": "CLAUDIO MARZO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/77"
+      }
+    ],
+    "location": [
+      {
+        "name": "COM EL AUT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/10"
+      },
+      {
+        "name": "ELETRO IND",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/21"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "AUTOMACAO",
+    "teacher": [
+      {
+        "name": "CLAUDIO MARZO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/77"
+      },
+      {
+        "name": "ARI DEZOTTI",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/715"
+      }
+    ],
+    "location": [
+      {
+        "name": "COM EL AUT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/10"
+      },
+      {
+        "name": "IPP",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/86"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 4,
+    "weekday": "sexta",
+    "start": "09:50",
+    "end": "10:40",
+    "className": "EDUC TRAB",
+    "teacher": [
+      {
+        "name": "ALEXANDRE LIMA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/16"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 25",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/13"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "MATEMATICA IV",
+    "teacher": [
+      {
+        "name": "SUZANY",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/840"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 25",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/13"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "COMANDOS ELETR",
+    "teacher": [
+      {
+        "name": "VAGNER FN",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/711"
+      },
+      {
+        "name": "CLAUDIO MARZO",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/77"
+      }
+    ],
+    "location": [
+      {
+        "name": "COM EL AUT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/10"
+      },
+      {
+        "name": "ELETRO IND",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/21"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "FAE",
+    "teacher": [
+      {
+        "name": "WALMERAN TRIND",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/417"
+      }
+    ],
+    "location": [
+      {
+        "name": "FONTES R E",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/27"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 4,
+    "weekday": "sexta",
+    "start": "10:40",
+    "end": "11:30",
+    "className": "EDUC TRAB",
+    "teacher": [
+      {
+        "name": "ALEXANDRE LIMA",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/16"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 25",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/13"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 4,
+    "weekday": "segunda",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "MATEMATICA IV",
+    "teacher": [
+      {
+        "name": "SUZANY",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/840"
+      }
+    ],
+    "location": [
+      {
+        "name": "SALA 25",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/sala/13"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 4,
+    "weekday": "quarta",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "COMANDOS ELETR",
+    "teacher": [
+      {
+        "name": "VAGNER FN",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/711"
+      }
+    ],
+    "location": [
+      {
+        "name": "COM EL AUT",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/10"
+      }
+    ]
+  },
+  {
+    "course": "ELETROTECNICA INTEGRADO MATUTINO",
+    "semester": 4,
+    "weekday": "quinta",
+    "start": "11:30",
+    "end": "12:20",
+    "className": "FAE",
+    "teacher": [
+      {
+        "name": "WALMERAN TRIND",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/professor/417"
+      }
+    ],
+    "location": [
+      {
+        "name": "FONTES R E",
+        "link": "https://joaopessoa.ifpb.edu.br/horario/laboratorio/27"
+      }
+    ]
+  }
+]
