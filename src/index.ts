@@ -1,7 +1,7 @@
 import Scraper from './models/scraper'
 // import { existsSync, readFileSync } from 'fs'
 
-const scraper = new Scraper('course') // , ['https://joaopessoa.ifpb.edu.br/horario/curso/4']
+const scraper = new Scraper('course')
 // let urls: string[] = []
 // if (existsSync('data/courses.json')) {
 //     console.log('exists')

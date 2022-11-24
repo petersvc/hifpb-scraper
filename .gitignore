@@ -2,6 +2,7 @@
 
 # Compiled output
 /data/*
+/dist/*
 
 # Node
 /node_modules

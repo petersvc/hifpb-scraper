@@ -6,8 +6,8 @@
   "scripts": {
     "dev": "nodemon --watch src --ext ts --exec ts-node ./src/index.ts",
     "build": "tsc && yarn minify",
-    "minify": "uglifyjs ./build/index.js -c -o ./dist/index.min.js",
-    "start": "node ./dist/index.min.js",
+    "minify": "uglifyjs ./dist/index.js -c -o ./dist/index.js",
+    "start": "node ./dist/index.js",
     "lint": "eslint --fix ./src/**/*.ts"
   },
   "dependencies": {

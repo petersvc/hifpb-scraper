@@ -4,15 +4,14 @@ import { writeFileSync, readFileSync, existsSync, mkdirSync } from 'fs'
 import { course, courseClass } from './interfaces'
 
 class Scraper {
-    public options: { headless: boolean } | undefined
-    public stuffToScrap: string
-    public urls: string[] | null
-    private page: puppeteer.Page | null
-    private browser: puppeteer.Browser | null
-    private data: courseClass[] | undefined
+    options: { headless: boolean } | undefined
+    stuffToScrap: string
+    urls: string[] | null
+    page: puppeteer.Page | null
+    browser: puppeteer.Browser | null
 
     constructor(stuffToScrape: string) {
-        this.options = { headless: false }
+        this.options = { headless: true }
         this.stuffToScrap = stuffToScrape
         this.urls = null
         this.page = null
@@ -26,16 +25,17 @@ class Scraper {
         this.browser = browser
     }
 
-    async getCourses(): Promise<void> {
+    private async scrapCourses(): Promise<void> {
+        console.log('Scraping courses...')
         let data = ''
         if (existsSync('data/courses.json')) {
-            console.log('reading courses.json')
+            console.log('reading courses data')
             data = readFileSync('data/courses.json', 'utf-8')
         } else {
             const coursesUrl = 'https://joaopessoa.ifpb.edu.br/horario/curso'
-            console.log('proceding to scrape hifpb for courses data')
-            console.log('scraping -> ', coursesUrl)
-            await this.launch()
+            console.log('se preparando pra raspar os dados sobre os cursos do site hifpb')
+            console.log('raspando dados de -> ', coursesUrl)
+            // await this.launch()
             await this.page?.goto(coursesUrl)
             await this.page?.waitForSelector('#custom-tabs-four-tabContent')
 
@@ -70,22 +70,20 @@ class Scraper {
                 return courses
             })
             this.writeCoursesJson(data as course[])
-            await this.getCourses()
+            await this.scrapCourses()
         }
-        const urls = JSON.parse(data).map((course: { url: string }) => course.url) as string[] // urls = JSON.parse(data).map((course: course) => course.url)
+        const urls = (await JSON.parse(data).map((course: { url: string }) => course.url)) as string[]
         this.setUrls(urls)
         await this.scrap()
     }
 
-    async singleScrap(url: string): Promise<void> {
-        this.page === null && (await this.launch())
-        await this.page?.goto(url)
-        await this.page?.waitForSelector('.tab-pane')
-        this.stuffToScrap === 'course' && (await this.courseClassScrap())
-        this.writeJson(this.data as courseClass[])
+    private async scrapSetter(): Promise<void> {
+        this.stuffToScrap === 'course' && (await this.scrapCourses())
     }
 
-    private async courseClassScrap(): Promise<void> {
+    private async courseClassesScrap(url: string): Promise<void> {
+        await this.page?.goto(url)
+        await this.page?.waitForSelector('.tab-pane')
         const data = await this.page?.evaluate(() => {
             function getSemesterDayHour(divId: string): { semester: number; weekday: string; start: string; end: string } {
                 const [semester, day, timeSlot] = divId.split('_')
@@ -172,51 +170,29 @@ class Scraper {
                     })
                 })
             })
+
             return courseClasses
         })
-        this.data = data
-    }
 
-    async test(): Promise<void> {
-        // const btn = document.querySelector('.dropdown-toggle') as HTMLButtonElement
-        this.page === null && (await this.launch())
-        await this.page?.goto('https://joaopessoa.ifpb.edu.br/horario/curso')
-        await this.page?.waitForSelector('#custom-tabs-four-tabContent')
-        async function delay(time: number): Promise<void> {
-            return await new Promise(function (resolve) {
-                setTimeout(resolve, time)
-            })
-        }
-
-        await this.page?.click('#custo-tab-4-tab')
-        console.log('aguardando clicar na tab')
-        await delay(1000)
-        console.log('foi')
-        await this.page?.click('#custo-tab-4 span.page-size')
-        await this.page?.click('#custo-tab-4 div.dropdown-menu > a:nth-child(2)')
-        // console.log('aguardando clicar no botao')
-        // await delay(2000)
-        // console.log('foi')
-
-        const data = await this.page?.evaluate(() => {
-            const trs = document.querySelectorAll('#custom-tabs-four-tabContent #table4 tbody tr')
-            const cursoss = Array.from(trs).length
-            return cursoss
-        })
-        console.log(data)
+        // this.data = data
+        this.writeClassesJson(data as courseClass[])
     }
 
     public async scrap(): Promise<void> {
-        if (this.urls == null) {
-            await this.getCourses()
+        this.page === null && (await this.launch())
+        if (this.urls === null) {
+            await this.scrapSetter()
+            // await this.scrapCourses()
         } else {
+            // console.log('ultima url:', this.urls[this.urls.length - 1])
+            // console.log('numero de urls:', this.urls.length)
             for (const [i, url] of this.urls.entries()) {
-                console.log(`Scraping -> ${url}`)
-                console.log(`Progress -> ${i + 1}/${this.urls.length}`)
-                await this.singleScrap(url)
+                console.log(`Raspando dados -> ${url}`)
+                console.log(`Progresso -> ${i + 1}/${this.urls.length}`)
+                await this.courseClassesScrap(url)
             }
+            await this.browser?.close()
         }
-        await this.browser?.close()
     }
 
     private writeCoursesJson(data: course[]): void {
@@ -228,23 +204,53 @@ class Scraper {
         // console.log(data)
     }
 
-    private writeJson(data: courseClass[]): void {
+    private writeClassesJson(data: courseClass[]): void {
         const courseName = data[0].course.split(' ').join('_')
         // if (!existsSync(`data/${courseName}`)) {
         //     mkdirSync(`data/${courseName}`)
         // }
-        const fileName = `data/${courseName}CLASSES.json`
-        writeFileSync(fileName, JSON.stringify(data, null, 2))
-        // console.log(data)
+        const fileName = `data/${courseName}-AULAS.json`
+        // if (!existsSync(fileName)) {
+        !existsSync(fileName) && writeFileSync(fileName, JSON.stringify(data, null, 2))
+        // }
     }
 
-    setStuffToScrap(newStuffToScrap: string): void {
+    public setStuffToScrap(newStuffToScrap: string): void {
         this.stuffToScrap = newStuffToScrap
     }
 
-    setUrls(newUrls: string[]): void {
+    public setUrls(newUrls: string[]): void {
         this.urls = newUrls
     }
+
+    // private async test(): Promise<void> {
+    //     // const btn = document.querySelector('.dropdown-toggle') as HTMLButtonElement
+    //     this.page === null && (await this.launch())
+    //     await this.page?.goto('https://joaopessoa.ifpb.edu.br/horario/curso')
+    //     await this.page?.waitForSelector('#custom-tabs-four-tabContent')
+    //     async function delay(time: number): Promise<void> {
+    //         return await new Promise(function (resolve) {
+    //             setTimeout(resolve, time)
+    //         })
+    //     }
+
+    //     await this.page?.click('#custo-tab-4-tab')
+    //     console.log('aguardando clicar na tab')
+    //     await delay(1000)
+    //     console.log('foi')
+    //     await this.page?.click('#custo-tab-4 span.page-size')
+    //     await this.page?.click('#custo-tab-4 div.dropdown-menu > a:nth-child(2)')
+    //     // console.log('aguardando clicar no botao')
+    //     // await delay(2000)
+    //     // console.log('foi')
+
+    //     const data = await this.page?.evaluate(() => {
+    //         const trs = document.querySelectorAll('#custom-tabs-four-tabContent #table4 tbody tr')
+    //         const cursoss = Array.from(trs).length
+    //         return cursoss
+    //     })
+    //     console.log(data)
+    // }
 }
 
 export { Scraper as default }
