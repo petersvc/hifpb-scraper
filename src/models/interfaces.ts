@@ -21,4 +21,23 @@ interface course {
     abreviation: string
 }
 
-export { course, courseClass }
+interface teacher {
+    name: string
+    url: string
+    abreviation: string
+    unity: string
+}
+
+interface classRoom {
+    name: string
+    url: string
+    abreviation: string
+}
+
+interface lab {
+    name: string
+    url: string
+    abreviation: string
+}
+
+export { course, courseClass, teacher, classRoom, lab }
