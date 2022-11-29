@@ -1,28 +1,33 @@
-import { writeFileSync, readFileSync, existsSync, mkdirSync } from 'fs'
-import { courseClass } from './interfaces'
-import type { Page, Browser } from 'puppeteer'
+import type { Page } from 'puppeteer'
+import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'fs'
 
-export default class ClassScraper {
-    private readonly browser: Browser
-    private page: Page | undefined
+import { courseClass } from './interfaces.js'
+import Scraper from './scraper.js'
 
-    constructor(browser: Browser) {
-        this.browser = browser
+export default class ClassScraper extends Scraper {
+    constructor(page: Page | undefined) {
+        super()
+        this.page = page
     }
 
-    async scrape(): Promise<void> {
-        this.page = await this.browser.newPage()
-        const coursesData = readFileSync('data/teachers/teachers.json', 'utf-8')
+    async run(): Promise<void> {
+        const coursesData = readFileSync('data/cursos/cursos.json', 'utf-8')
         const coursesUrls = (await JSON.parse(coursesData).map((course: { url: string }) => course.url)) as string[]
+        // const data: courseClass[] = []
+        if (!existsSync(`data/aulas`)) {
+            mkdirSync(`data/aulas`)
+        }
+
         for (const [i, url] of coursesUrls.entries()) {
             console.log(`Raspando dados de -> ${url}`)
             console.log(`Progresso -> ${i + 1}/${coursesUrls.length}`)
-            await this.scrapeClasses(url)
+            // data.push(...(await this.scrape(url)))
+            await this.scrape(url)
         }
-        await this.browser.close()
+        // return data
     }
 
-    private async scrapeClasses(url: string): Promise<void> {
+    private async scrape(url: string): Promise<void> {
         await this.page?.goto(url)
         await this.page?.waitForSelector('.tab-pane')
         const data = await this.page?.evaluate(() => {
@@ -115,16 +120,12 @@ export default class ClassScraper {
             return courseClasses
         })
 
-        this.writeClassesJson(data as courseClass[])
+        this.writeClassesData(data as courseClass[])
     }
 
-    private writeClassesJson(data: courseClass[]): void {
+    private writeClassesData(data: courseClass[]): void {
         const courseName = data[0].course.split(' ').join('_').toLocaleLowerCase()
-        if (!existsSync(`data/classes`)) {
-            mkdirSync(`data/classes`)
-        }
-        const fileName = `data/classes/${courseName}.json`
-        // if (!existsSync(fileName)) {
+        const fileName = `data/aulas/${courseName}.json`
         !existsSync(fileName) && writeFileSync(fileName, JSON.stringify(data, null, 2))
         // }
     }
