@@ -81,7 +81,7 @@ export default class Crawler {
     writeData(data: data[]): void {
         if (!existsSync(`data/${this.dataToWork}`)) {
             console.log(`Criando pasta ${this.dataToWork}`)
-            mkdirSync(`data/${this.dataToWork}`)
+            mkdirSync(`data/${this.dataToWork}`, { recursive: true })
             console.log(`Pasta ${this.dataToWork} criada com sucesso`)
         }
         const fileName = `data/${this.dataToWork}/${this.dataToWork}.json`

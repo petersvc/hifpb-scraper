@@ -15,7 +15,7 @@ export default class ClassScraper extends Scraper {
         const coursesUrls = (await JSON.parse(coursesData).map((course: { url: string }) => course.url)) as string[]
         // const data: courseClass[] = []
         if (!existsSync(`data/aulas`)) {
-            mkdirSync(`data/aulas`)
+            mkdirSync(`data/aulas`, { recursive: true })
         }
 
         for (const [i, url] of coursesUrls.entries()) {
@@ -126,7 +126,7 @@ export default class ClassScraper extends Scraper {
     private writeClassesData(data: courseClass[]): void {
         const courseName = data[0].course.split(' ').join('_').toLocaleLowerCase()
         const fileName = `data/aulas/${courseName}.json`
-        !existsSync(fileName) && writeFileSync(fileName, JSON.stringify(data, null, 2))
-        // }
+        writeFileSync(fileName, JSON.stringify(data, null, 2))
+        // !existsSync(fileName) &&
     }
 }
