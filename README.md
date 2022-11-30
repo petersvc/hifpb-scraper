@@ -35,3 +35,8 @@ Ao usar o programa pela primeira vez, execute respectivamente, no terminal, os c
 + Para iniciar um nodo de desenvolvimento (**ts-node**), navegue até a pasta do projeto e execute no terminal o comando **"yarn dev"**.
 + O projeto foi construído usando o **eslinter** pra forçar um padrão de escrita e boas práticas, caso queira corrigir todos os problemas de sintaxe de uma só vez execute no terminal, o comando **"yarn lint"**.
 + O plugin **Prettier** tambem foi adicionado ao ambiente de desenvolvimento, dessa forma ele e o eslinter se completam, forçando a adoção de boas práticas na sintaxe e uma padronização na formatação. Pra que ambos funcionem instale suas respectivas extensões no **VScode** ou outro editor de código com suporte às mesmas.
+
+
++ Para iniciar um nodo de desenvolvimento (**ts-node**), navegue até a pasta do projeto e execute no terminal o comando **"yarn dev"**.
++ O projeto foi construído usando o **eslinter** pra forçar um padrão de escrita e boas práticas, caso queira corrigir todos os problemas de sintaxe de uma só vez execute no terminal, o comando **"yarn lint"**.
++ O plugin **Prettier** tambem foi adicionado ao ambiente de desenvolvimento, dessa forma ele e o eslinter se completam, forçando a adoção de boas práticas na sintaxe e uma padronização na formatação. Pra que ambos funcionem instale suas respectivas extensões no **VScode** ou outro editor de código com suporte às mesmas.
