@@ -22,7 +22,7 @@ Caso use linux também é possível instalar o Node e Yarn a partir do [NVM](htt
 
 ### Como usar
 
-Ao usar o programa pela primeira vez, execute respectivamente, no terminal, os comandos **"yarn build"** e **"yarn start"** (sem as aspas). Caso já tenha gerado uma build com o **"yarn build"**, execute apenas o **"yarn start"**.
+Ao usar o programa pela primeira vez, execute respectivamente, no terminal, os comandos **"yarn build"** e **"yarn start"** (sem as aspas). Caso já tenha gerado uma build com o **"yarn build"**, execute apenas o **"yarn start"** ou alternativamente dê um duplo clique no arquivo hifpb-scraper.ps1.
 
 Há 3 opções na primeira seção:
 
