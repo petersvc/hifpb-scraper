@@ -22,7 +22,8 @@ Caso use linux também é possível instalar o Node e Yarn a partir do [NVM](htt
 
 ### Como usar
 
-Ao usar o programa pela primeira vez, execute respectivamente, no terminal, os comandos *"yarn build"* e *"yarn start"* (sem as aspas). Caso já tenha gerado uma build com o *"yarn build"*, execute apenas o *"yarn start"*
+Ao usar o programa pela primeira vez, execute respectivamente, no terminal, os comandos *"yarn build"* e *"yarn start"* (sem as aspas). Caso já tenha gerado uma build com o *"yarn build"*, execute apenas o *"yarn start"*.
+
 Há 3 opções na primeira seção:
 
 + Ler dados: Apresenta um submenu onde é possível escolher um determinado dado que deseja visualizar. Certifique-se de primeiro executar a extração dos dados que deseja ler.
