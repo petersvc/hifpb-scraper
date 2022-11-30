@@ -12,7 +12,7 @@ export default class Crawler {
     browser: Browser | undefined
     page: Page | undefined
     dataToWork: string
-    scraper!: data[]
+    data!: data[]
 
     setDataToWork(newDataToWork: string): void {
         this.dataToWork = newDataToWork
@@ -25,19 +25,19 @@ export default class Crawler {
     private async run(): Promise<void> {
         switch (this.dataToWork) {
             case 'cursos': {
-                this.scraper = await new CourseScraper(this.page).run()
+                this.data = await new CourseScraper(this.page).run()
                 break
             }
             case 'professores': {
-                this.scraper = await new TeacherScraper(this.page).run()
+                this.data = await new TeacherScraper(this.page).run()
                 break
             }
             case 'salas': {
-                this.scraper = await new ClassroomScraper(this.page).run()
+                this.data = await new ClassroomScraper(this.page).run()
                 break
             }
             case 'laboratorios': {
-                this.scraper = await new LabScraper(this.page).run()
+                this.data = await new LabScraper(this.page).run()
                 break
             }
             default: {
@@ -68,8 +68,7 @@ export default class Crawler {
         await this.run()
 
         if (this.dataToWork !== 'aulas') {
-            const data = this.scraper
-            this.writeData(data)
+            this.writeData(this.data)
         }
 
         await this.browser?.close()

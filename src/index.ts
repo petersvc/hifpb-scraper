@@ -17,7 +17,7 @@ const questions = {
             type: 'list',
             name: 'options',
             message: 'O que deseja fazer?',
-            choices: ['Ler dados', 'Raspar (coletar) dados', 'Sair']
+            choices: ['Ler dados', 'Extrair dados', 'Sair']
         }
     ],
     readOptions: [
@@ -40,7 +40,7 @@ const questions = {
         {
             type: 'list',
             name: 'scrapeOptions',
-            message: 'Quais dados deseja coletar?',
+            message: 'Quais dados deseja extrair?',
             choices: dataToWorkOptions
         }
     ]
