@@ -7,12 +7,14 @@ import ClassroomScraper from './classroomScraper.js'
 import LabScraper from './labScraper.js'
 import ClassScraper from './classScraper.js'
 import { data } from './interfaces.js'
+import { platform } from 'os'
 
 export default class Crawler {
     browser: Browser | undefined
     page: Page | undefined
     dataToWork: string
     data!: data[]
+    browserOptions!: { executablePath?: string; args: string[] }
 
     setDataToWork(newDataToWork: string): void {
         this.dataToWork = newDataToWork
@@ -20,6 +22,19 @@ export default class Crawler {
 
     getDataToWork(): string {
         return this.dataToWork
+    }
+
+    setBrowserOptions(): void {
+        if (platform() === 'linux') {
+            this.browserOptions = {
+                executablePath: '/usr/bin/chromium-browser',
+                args: ['--no-sandbox', '--headless', '--disable-gpu']
+            }
+        } else {
+            this.browserOptions = {
+                args: ['--no-sandbox', '--headless', '--disable-gpu']
+            }
+        }
     }
 
     private async run(): Promise<void> {
@@ -55,7 +70,8 @@ export default class Crawler {
     }
 
     async launchBrowser(): Promise<void> {
-        this.browser = await launch({ headless: true })
+        this.setBrowserOptions()
+        this.browser = await launch(this.browserOptions)
         this.page = await this.browser.newPage()
     }
 

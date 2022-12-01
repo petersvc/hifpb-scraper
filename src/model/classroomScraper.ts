@@ -39,7 +39,6 @@ export default class ClassroomScraper extends Scraper {
         const data: data[] = []
 
         for (let i = 0; i < loops; i++) {
-            console.log(`Raspandord-> ${this.baseUrl}`)
             const scrapedData = await this.page?.evaluate(() => {
                 const classRooms: data[] = []
                 const tabs = document.querySelector('#table_salas')

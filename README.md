@@ -9,6 +9,7 @@ Um crawler/scraper que extrai os dados do portal de horários do IFPB ([HIFPB](h
 
 + [Node 18+](https://nodejs.org/en/).
 + [Yarn](https://classic.yarnpkg.com/en/docs/install).
++ [Google Chrome]() no windows ou [Chromiun]() no linux
 
 É possível usar outro gerenciador de pacotes substituindo o Yarn, como o NPM, mas pode haver conflitos devido ao .lock presente no repositório ter sido criado pelo Yarn, para evitar tais conflitos ao usar o NPM apague da pasta o arquivo yarn.lock e deixe apenas o package-lock criado apartir do NPM.
 Caso use linux também é possível instalar o Node e Yarn a partir do [NVM](https://github.com/nvm-sh/nvm#installing-and-updating).
@@ -16,6 +17,7 @@ Caso use linux também é possível instalar o Node e Yarn a partir do [NVM](htt
 ### Instalação
 
 + Instale o [Node 18+](https://nodejs.org/en/) e [Yarn](https://classic.yarnpkg.com/en/docs/install).
++ Instale o [Google Chrome](https://www.google.com/intl/pt-BR/chrome/) se seu sistema operacional for o **Windows**, se for **Linux** instale o **Chromium** pelo repositório da sua distro e certifique-se de que o mesmo foi instalado na sequinte pasta **"/usr/bin/chromium-browser"** 
 + Clone este repositório.
 + Navegue até a raiz do projeto através de um terminal.
 + Execute no terminal o comando **"yarn"** sem as aspas.
