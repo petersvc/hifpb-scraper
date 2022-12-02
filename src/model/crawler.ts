@@ -90,7 +90,7 @@ export default class Crawler {
         await this.browser?.close()
 
         const end: number = performance.now()
-        console.log('Executado em ', Number((end - start) / 1000), 'ms')
+        console.log('Executado em ', Number((end - start) / 1000), 's')
     }
 
     writeData(data: data[]): void {
